@@ -1,0 +1,7614 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG Polish
+1 SOUR MYHERITAGE
+2 NAME MyHeritage Family Tree Builder
+2 VERS 5.5.1
+2 _RTLSAVE RTL
+2 CORP MyHeritage.com
+1 DEST MYHERITAGE
+1 DATE 27 MAR 2017
+1 FILE Exported by MyHeritage.com from Moje drzewo in Moje drzewo Web Site on Mon, 27 Mar 2017
+1 _PROJECT_GUID 564230BFEFE222490206A8A90918E13B
+1 _EXPORTED_FROM_SITE_ID 314590491
+0 @I1@ INDI
+1 NAME Dariusz Janusz /Siwczyński/
+2 GIVN Dariusz Janusz
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1960
+2 PLAC Wrocław, Polska
+1 FAMS @F1@
+1 FAMC @F4@
+1 RIN MH:I1
+1 _UID 5642315C726782496206A8A90918E13B
+0 @I2@ INDI
+1 NAME Agata /Rogowska/
+2 GIVN Agata
+2 SURN Rogowska
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1964
+2 PLAC Białystok, Polska
+1 FAMS @F1@
+1 FAMC @F2@
+1 RIN MH:I2
+1 _UID 5642315C72C332497206A8A90918E13B
+0 @I3@ INDI
+1 _UPD 25 MAR 2017 21:13:43 GMT -0500 
+1 NAME Ewa /Siwczyńska/
+2 GIVN Ewa
+2 SURN Siwczyńska
+1 SEX F
+1 RESI
+2 ADDR
+3 CITY Wrocław
+1 BIRT
+2 DATE 1994
+2 PLAC Białystok
+1 RESI
+2 EMAIL pacinovna@@op.pl
+1 FAMS @F31@
+1 FAMC @F1@
+1 RIN MH:I3
+1 _UID 5642318C50AF1249C206A8A90918E13B
+0 @I4@ INDI
+1 _UPD 22 MAR 2017 05:25:19 GMT -0500 
+1 NAME Marta /Si/
+2 GIVN Marta
+2 SURN Si
+1 SEX F
+1 RESI
+2 ADDR
+3 CITY Wrocław
+1 BIRT
+2 DATE 13 MAR 1992
+2 PLAC Białystok
+1 FAMC @F1@
+1 RIN MH:I4
+1 _UID 564231A7CCF9024A2206A8A90918E13B
+0 @I5@ INDI
+1 NAME Teresa Gertruda /Droździel/
+2 GIVN Teresa Gertruda
+2 SURN Droździel
+2 _MARNM Rogowska
+1 SEX F
+1 BIRT
+2 DATE 17 MAR 1938
+2 PLAC Józefów
+1 FAMS @F2@
+1 FAMC @F3@
+1 NOTE <p>W maju czerwcu lub czerwcu lipcu przebywała w obozie koncentracyjnym w Majdanku.</p>
+1 RIN MH:I5
+1 _UID 564231F1403B424A5206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/10/500010_9513619b3734h05d5cfefd.jpg
+2 _FILESIZE 35074
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500009
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500010
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/09/500009_46001993153gce047f0fj4.jpg
+2 _FILESIZE 49606
+2 TITL skanowanie0006-001
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 11 47 239 351
+2 _PHOTO_RIN MH:P500009
+0 @I6@ INDI
+1 NAME Witold /Rogowski/
+2 GIVN Witold
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+2 DATE 1936
+2 PLAC Jurowce
+1 DEAT Y
+2 DATE 13 FEB 1989
+2 PLAC Białystok, Polska
+2 AGE 52-53
+1 BURI
+2 PLAC Białystok
+1 FAMS @F2@
+1 FAMC @F5@
+1 RIN MH:I6
+1 _UID 5642321C7874F24AA206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/X/storage/site314590491/files/50/00/08/500008_673734mfkc05907k6h2f39.jpg
+2 _FILESIZE 56144
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500007
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500008
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/X/storage/site314590491/files/50/00/07/500007_92024698a2kxc75306ffg5.jpg
+2 _FILESIZE 59061
+2 TITL 2015-12-19 16.40.41
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 0 0 575 766
+2 _PHOTO_RIN MH:P500007
+0 @I7@ INDI
+1 NAME Józef /Droździel/
+2 GIVN Józef
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1909
+2 PLAC Pardysówka Mała
+1 DEAT Y
+2 DATE 1943
+2 PLAC Łukowa
+2 AGE 33-34
+1 BURI
+2 PLAC Józefów
+1 FAMS @F3@
+1 FAMC @F11@
+1 NOTE <p><p>Żołnierz AK, drużyna saperska, pseudonim "Radykał". Zginął podczas pr&oacute;by odbicia posterunku w Łukowej.&nbsp;</p></p><p><p><br style="color: #494e2d; font-family: Arial, 'Arial Unic
+2 CONC ode MS', Helvetica, sans-serif; font-size: 13px; background-color: rgba(250, 251, 249, 0.8);" /><strong style="color: #494e2d; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size:
+2 CONC  13px; background-color: rgba(250, 251, 249, 0.8);">INFORMACJE O PRZEŚLADOWANIACH</strong><br style="color: #494e2d; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 13px; ba
+2 CONC ckground-color: rgba(250, 251, 249, 0.8);" /><br style="color: #494e2d; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 13px; background-color: rgba(250, 251, 249, 0.8);" /><
+2 CONC /p></p><p><table style="font-size: 13px; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; border-collapse: collapse; margin: 1px; color: #494e2d; background-color: rgba(250, 251, 249, 0.
+2 CONC 8);" border="1"></p><p><tbody></p><p><tr></p><p><td colspan="2" bgcolor="#dcd9cc"><center>&nbsp;<br /><strong>Źr&oacute;dło:</strong>&nbsp;Tytuł: Księga pochowanych żołnierzy polskich poległych
+2 CONC  w II wojnie światowej - Żołnierze podziemnych formacji niepodległościowych</center></td></p><p></tr></p><p><tr></p><p><td><strong><em>udział w konspiracji</em></strong>&nbsp;</td></p><p><td>zgi
+2 CONC nął</td></p><p></tr></p><p><tr></p><p><td><strong><em>organizacja konspiracyjna</em></strong>&nbsp;</td></p><p><td>AK</td></p><p></tr></p><p><tr></p><p><td><strong><em>stopień, przydział, funkcja<
+2 CONC /em></strong>&nbsp;</td></p><p><td>kpr.</td></p><p></tr></p><p><tr></p><p><td><strong><em>data śmierci</em></strong>&nbsp;</td></p><p><td>1943-10-23</td></p><p></tr></p><p><tr></p><p><td><strong><em>
+2 CONC miejsce śmierci</em></strong>&nbsp;</td></p><p><td>w m. Łukowa pow. Biłgoraj</td></p><p></tr></p><p><tr></p><p><td><strong><em>miejsce poch&oacute;wku</em></strong>&nbsp;</td></p><p><td>nieznane</t
+2 CONC d></p><p></tr></p><p></tbody></p></table>
+1 RIN MH:I7
+1 _UID 56423317B316424AD206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/12/500012_579800g0q5l3557000fedf.jpg
+2 _FILESIZE 6652
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500011
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500012
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/11/500011_215091u5501d2700y9f5fb.jpg
+2 _FILESIZE 9532
+2 TITL skanowanie0001-001
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 18 10 115 139
+2 _PHOTO_RIN MH:P500011
+0 @I8@ INDI
+1 NAME Stanisława /Hajduk/
+2 GIVN Stanisława
+2 SURN Hajduk
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+2 DATE 1911
+2 PLAC Józefów
+1 DEAT Y
+2 DATE 1993
+2 PLAC Józefów
+2 AGE 81-82
+1 BURI
+2 PLAC Józefów
+1 FAMS @F3@
+1 FAMC @F9@
+1 NOTE <p>W maju-czerwcu lub w czerwcu-lipcu przebywała w obozie koncentracyjnym w Majdanku.</p>
+1 RIN MH:I8
+1 _UID 56423345E630624B2206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/14/500014_568049l6700s01p0kd659b.jpg
+2 _FILESIZE 20937
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500013
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500014
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/13/500013_848080r9qtg57d060000q6.jpg
+2 _FILESIZE 24447
+2 TITL skanowanie0003-001
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 34 0 255 295
+2 _PHOTO_RIN MH:P500013
+0 @I9@ INDI
+1 NAME Sabina /Machnik/
+2 GIVN Sabina
+2 SURN Machnik
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1933
+2 PLAC Sulmierzyce
+1 DEAT Y
+2 DATE 1997
+2 PLAC Wrocław, Polska
+2 AGE 63-64
+1 BURI
+2 PLAC Wrocław
+1 FAMS @F4@
+1 FAMC @F7@
+1 RIN MH:I9
+1 _UID 564233983B0EA24B7206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/04/500004_140781r25sfeacf05005i7.jpg
+2 _FILESIZE 96013
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500003
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500004
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/03/500003_225506kc07uf5k5f31057b.jpg
+2 _FILESIZE 97939
+2 TITL 2015-11-27 14.12.24
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 0 0 747 996
+2 _PHOTO_RIN MH:P500003
+0 @I10@ INDI
+1 NAME Jan /Siwczyński/
+2 GIVN Jan
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1928
+2 PLAC Sulmierzyce
+1 DEAT Y
+2 DATE 2012
+2 PLAC Wrocław, Polska
+2 AGE 83-84
+1 BURI
+2 PLAC Wrocław
+1 FAMS @F4@
+1 FAMC @F6@
+1 RIN MH:I10
+1 _UID 564233A63F2C224BB206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/02/500002_078517027ftc5b7f5e6567.jpg
+2 _FILESIZE 44257
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500001
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500002
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/W/storage/site314590491/files/50/00/01/500001_548768fd07fys7952a205c.jpg
+2 _FILESIZE 56611
+2 TITL 20151218_215348 (1)
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 25 0 452 569
+2 _PHOTO_RIN MH:P500001
+0 @I11@ INDI
+1 NAME Marianna /Więckowska/
+2 GIVN Marianna
+2 SURN Więckowska
+2 _MARNM Rogowska
+1 SEX F
+1 BIRT
+2 DATE 1911
+2 PLAC Kozińce
+1 DEAT Y
+2 DATE 2003
+2 PLAC Białystok, Polska
+2 AGE 91-92
+1 FAMS @F5@
+1 FAMC @F24@
+1 RIN MH:I11
+1 _UID 564233FBB05C424C1206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/06/500006_62642974nr3cu750fu45jf.jpg
+2 _FILESIZE 31589
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500005
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500006
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/05/500005_026337557f3ck4dn40xrf7.jpg
+2 _FILESIZE 32857
+2 TITL 2015-12-19 16.40.04
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 0 0 329 438
+2 _PHOTO_RIN MH:P500005
+0 @I12@ INDI
+1 NAME Zygmunt /Rogowski/
+2 GIVN Zygmunt
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+2 DATE 1909
+2 PLAC Jurowce
+1 DEAT Y
+2 DATE 2004
+2 PLAC Białystok, Polska
+2 AGE 94-95
+1 FAMS @F5@
+1 FAMC @F10@
+1 RIN MH:I12
+1 _UID 564234148059524C6206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/X/storage/site314590491/files/50/00/16/500016_022642w701553prt5d701e.jpg
+2 _FILESIZE 5175
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500015
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500016
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/X/storage/site314590491/files/50/00/15/500015_996704e3s9k4517107qd05.jpg
+2 _FILESIZE 5752
+2 TITL skanowanie0007-001
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 6 0 103 130
+2 _PHOTO_RIN MH:P500015
+0 @I13@ INDI
+1 NAME Feliks /Siwczyński/
+2 GIVN Feliks
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1900
+1 DEAT Y
+2 DATE 24 JAN 1958
+2 AGE 57-58
+1 FAMS @F6@
+1 FAMC @F8@
+1 RIN MH:I13
+1 _UID 5642342B3512324C9206A8A90918E13B
+0 @I14@ INDI
+1 _UPD 14 MAR 2017 17:50:19 GMT -0500 
+1 NAME Helena /Kołodziej/
+2 GIVN Helena
+2 SURN Kołodziej
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1902
+2 PLAC Gliśnica
+1 DEAT Y
+2 DATE 1996
+2 AGE 93-94
+1 FAMS @F6@
+1 FAMC @F500290@
+1 RIN MH:I14
+1 _UID 5642344AD740524CE206A8A90918E13B
+0 @I15@ INDI
+1 _UPD 13 MAR 2017 21:09:03 GMT -0500 
+1 NAME Jan /Machnik/
+2 GIVN Jan
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1900
+2 PLAC Sulmierzyce
+1 DEAT Y
+2 DATE 19 OCT 1981
+2 AGE 80-81
+1 FAMS @F7@
+1 FAMS @F500225@
+1 FAMC @F500278@
+1 RIN MH:I15
+1 _UID 5642346459AD324D1206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/18/500018_363952a87xe570210avd54.jpg
+2 _FILESIZE 4924
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500017
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500018
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/J/storage/site314590491/files/50/00/17/500017_587003370217053d05uh7d.jpg
+2 _FILESIZE 6904
+2 TITL skanowanie0013-001
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 16 0 90 99
+2 _PHOTO_RIN MH:P500017
+0 @I16@ INDI
+1 _UPD 21 MAR 2017 15:44:57 GMT -0500 
+1 NAME Helena /Śmieińska/
+2 GIVN Helena
+2 SURN Śmieińska
+2 _MARNM Machnik
+1 SEX F
+1 BIRT
+2 DATE 1908
+2 PLAC Blumenthal
+1 DEAT Y
+2 DATE 1935
+2 AGE 27-28
+1 FAMS @F7@
+1 FAMC @F500124@
+1 RIN MH:I16
+1 _UID 56423480764D724D6206A8A90918E13B
+0 @I17@ INDI
+1 NAME Jan /Siwczyński/
+2 GIVN Jan
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1866
+1 DEAT Y
+1 FAMS @F8@
+1 FAMC @F500004@
+1 RIN MH:I17
+1 _UID 564234B7239A024D8206A8A90918E13B
+0 @I18@ INDI
+1 NAME Eleonora /Machnik/
+2 GIVN Eleonora
+2 SURN Machnik
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT Y
+1 FAMS @F8@
+1 FAMC @F500106@
+1 RIN MH:I18
+1 _UID 564234CD6F65F24DC206A8A90918E13B
+0 @I19@ INDI
+1 NAME Magdalena //
+2 GIVN Magdalena
+2 _MARNM Hajduk
+1 SEX F
+1 BIRT
+2 DATE 1872
+1 DEAT Y
+2 DATE 1942
+2 AGE 69-70
+1 FAMS @F9@
+1 RIN MH:I19
+1 _UID 564234F1E32F024DF206A8A90918E13B
+0 @I20@ INDI
+1 NAME Marcin /Hajduk/
+2 GIVN Marcin
+2 SURN Hajduk
+1 SEX M
+1 BIRT
+2 DATE 1852
+1 DEAT Y
+2 DATE 1918
+2 AGE 65-66
+1 FAMS @F9@
+1 RIN MH:I20
+1 _UID 5642350B9319724E4206A8A90918E13B
+0 @I21@ INDI
+1 NAME Michalina /Ciołko/
+2 GIVN Michalina
+2 SURN Ciołko
+2 _MARNM Rogowska
+1 SEX F
+1 BIRT
+1 DEAT Y
+2 DATE 1966
+1 FAMS @F10@
+1 RIN MH:I21
+1 _UID 5642354313E0824E7206A8A90918E13B
+0 @I22@ INDI
+1 NAME Witold /Rogowski/
+2 GIVN Witold
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+1 DEAT Y
+2 DATE 1968
+1 FAMS @F10@
+1 FAMC @F500263@
+1 RIN MH:I22
+1 _UID 5642355779FA024EC206A8A90918E13B
+0 @I23@ INDI
+1 _UPD 16 NOV 2016 12:24:09 GMT -0500 
+1 NAME Anna /Komada/
+2 GIVN Anna
+2 SURN Komada
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+1 DEAT Y
+2 DATE 1949
+1 FAMS @F11@
+1 RIN MH:I23
+1 _UID 564235919015924EE206A8A90918E13B
+0 @I24@ INDI
+1 _UPD 16 NOV 2016 12:23:48 GMT -0500 
+1 NAME Michał /Droździel/
+2 GIVN Michał
+2 SURN Droździel
+1 SEX M
+1 BIRT
+1 DEAT Y
+2 DATE 1954
+1 FAMS @F11@
+1 FAMC @F12@
+1 RIN MH:I24
+1 _UID 564235A345FB124F2206A8A90918E13B
+0 @I25@ INDI
+1 NAME Wawrzyniec /Droździel/
+2 GIVN Wawrzyniec
+2 SURN Droździel
+1 SEX M
+1 BIRT
+1 DEAT Y
+1 FAMS @F12@
+1 RIN MH:I25
+1 _UID 564235C884A0724F4206A8A90918E13B
+0 @I26@ INDI
+1 NAME  /Szponar/
+2 SURN Szponar
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+2 PLAC Majdan Nepryski
+1 DEAT Y
+1 FAMS @F12@
+1 RIN MH:I26
+1 _UID 564235D72790524F8206A8A90918E13B
+0 @I27@ INDI
+1 NAME Marian /Droździel/
+2 GIVN Marian
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Józefów
+1 FAMS @F18@
+1 FAMC @F3@
+1 RIN MH:I27
+1 _UID 564237243191A24FB206A8A90918E13B
+0 @I28@ INDI
+1 NAME Jan /Droździel/
+2 GIVN Jan
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 FAMS @F16@
+1 FAMC @F3@
+1 RIN MH:I28
+1 _UID 5642374270DAE24FD206A8A90918E13B
+0 @I29@ INDI
+1 NAME Zofia /Hajduk/
+2 GIVN Zofia
+2 SURN Hajduk
+2 _MARNM Bobrowska
+1 SEX F
+1 BIRT
+2 DATE 1905
+1 DEAT Y
+2 DATE 1993
+2 AGE 87-88
+1 FAMC @F9@
+1 RIN MH:I29
+1 _UID 5642377731D4D2500206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/G/storage/site314590491/files/50/00/20/500020_6912990qk20d76g45j125z.jpg
+2 _FILESIZE 17684
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500019
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500020
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/G/storage/site314590491/files/50/00/19/500019_822943761002ddq5t615n8.jpg
+2 _FILESIZE 21379
+2 TITL skanowanie0003-002
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 24 0 235 282
+2 _PHOTO_RIN MH:P500019
+0 @I30@ INDI
+1 NAME Marcela /Hajduk/
+2 GIVN Marcela
+2 SURN Hajduk
+1 SEX F
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+1 FAMS @F14@
+1 FAMC @F9@
+1 RIN MH:I30
+1 _UID 564237857282D2502206A8A90918E13B
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/G/storage/site314590491/files/50/00/22/500022_965285a0a283s3o04d507m.jpg
+2 _FILESIZE 22043
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PARENTRIN MH:P500021
+2 _PERSONALPHOTO Y
+2 _PHOTO_RIN MH:P500022
+1 OBJE
+2 FORM jpg
+2 FILE https://www.myheritageimages.com/G/storage/site314590491/files/50/00/21/500021_6429912f3734451d07d08m.jpg
+2 _FILESIZE 22980
+2 TITL skanowanie0003-003
+2 _PRIM_CUTOUT Y
+2 _PARENTPHOTO Y
+2 _POSITION 7 0 274 356
+2 _PHOTO_RIN MH:P500021
+0 @I32@ INDI
+1 NAME Franciszka /Hajduk/
+2 GIVN Franciszka
+2 SURN Hajduk
+1 SEX F
+1 BIRT
+1 DEAT Y
+1 FAMC @F9@
+1 RIN MH:I32
+1 _UID 564237E243612250B206A8A90918E13B
+0 @I33@ INDI
+1 NAME Alicja /Hajduk/
+2 GIVN Alicja
+2 SURN Hajduk
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMC @F14@
+1 RIN MH:I33
+1 _UID 56423800B6612250D206A8A90918E13B
+0 @I34@ INDI
+1 NAME Franciszek /Droździel/
+2 GIVN Franciszek
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1981
+1 FAMS @F500229@
+1 FAMC @F11@
+1 RIN MH:I34
+1 _UID 564239DFD3DE82512206A8A90918E13B
+0 @I35@ INDI
+1 NAME Andrzej /Droździel/
+2 GIVN Andrzej
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 DEAT Y
+2 DATE 2008
+1 FAMC @F11@
+1 RIN MH:I35
+1 _UID 564239F54DEEC2514206A8A90918E13B
+0 @I36@ INDI
+1 NAME Szczepan /Droździel/
+2 GIVN Szczepan
+2 SURN Droździel
+1 SEX M
+1 BIRT
+1 DEAT Y
+1 FAMC @F11@
+1 RIN MH:I36
+1 _UID 56423A0CC26932517206A8A90918E13B
+0 @I38@ INDI
+1 NAME Krystyna //
+2 GIVN Krystyna
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 FAMS @F16@
+1 RIN MH:I38
+1 _UID 56423A94913E22520206A8A90918E13B
+0 @I39@ INDI
+1 NAME Paweł /Droździel/
+2 GIVN Paweł
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F17@
+1 FAMC @F16@
+1 RIN MH:I39
+1 _UID 56423AA4714E12524206A8A90918E13B
+0 @I40@ INDI
+1 NAME Aleksandra //
+2 GIVN Aleksandra
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+1 FAMS @F17@
+1 RIN MH:I40
+1 _UID 56423ABBEEB502526206A8A90918E13B
+0 @I42@ INDI
+1 NAME Barbara /Goreczna/
+2 GIVN Barbara
+2 SURN Goreczna
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 FAMS @F18@
+1 RIN MH:I42
+1 _UID 56423AF07C95F252C206A8A90918E13B
+0 @I43@ INDI
+1 NAME Agnieszka /Droździel/
+2 GIVN Agnieszka
+2 SURN Droździel
+2 _MARNM Radosińska
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMS @F19@
+1 FAMC @F18@
+1 RIN MH:I43
+1 _UID 56423B72EF4C02534206A8A90918E13B
+0 @I44@ INDI
+1 NAME Grzegorz /Droździel/
+2 GIVN Grzegorz
+2 SURN Droździel
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 FAMS @F20@
+1 FAMC @F18@
+1 RIN MH:I44
+1 _UID 56423B7ECE4372536206A8A90918E13B
+0 @I45@ INDI
+1 NAME Michał /Radosiński/
+2 GIVN Michał
+2 SURN Radosiński
+1 SEX M
+1 BIRT
+1 FAMS @F19@
+1 RIN MH:I45
+1 _UID 56423B9256EA72538206A8A90918E13B
+0 @I48@ INDI
+1 NAME Klaudia //
+2 GIVN Klaudia
+2 _MARNM Droździel
+1 SEX F
+1 BIRT
+1 FAMS @F20@
+1 RIN MH:I48
+1 _UID 56423BC873DA82540206A8A90918E13B
+0 @I50@ INDI
+1 NAME Bolesław /Siwczyński/
+2 GIVN Bolesław
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1891
+1 DEAT Y
+2 DATE 1939
+2 AGE 47-48
+1 FAMS @F21@
+1 FAMC @F8@
+1 RIN MH:I50
+1 _UID 56423C159CB542547206A8A90918E13B
+0 @I51@ INDI
+1 NAME Mirosława /Marszałek/
+2 GIVN Mirosława
+2 SURN Marszałek
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+1 DEAT Y
+1 FAMS @F21@
+1 RIN MH:I51
+1 _UID 56423C2B141BB2549206A8A90918E13B
+0 @I52@ INDI
+1 NAME Rajmund /Siwczyński/
+2 GIVN Rajmund
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 2011
+2 AGE 85-86
+1 FAMC @F21@
+1 NOTE <p><div class="art-content-layout" style="display: table; width: 1000px; table-layout: fixed; border-collapse: collapse; color: #494e2d; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; 
+2 CONC font-size: 13px; background-color: #fafbf9;"></p><p><div class="art-content-layout-row" style="display: table-row;"></p><p><div class="art-layout-cell art-content clearfix" style="display: table-cell;
+2 CONC  vertical-align: top; margin: 0px auto;"></p><p><div class="item-page"></p><p><article class="art-post" style="box-sizing: border-box; border-radius: 4px; padding: 5px; margin: 5px; -webkit-background
+2 CONC -origin: border !important; background: rgba(250, 251, 249, 0.8);"></p><p><div class="art-postmetadataheader" style="margin: 0px auto; position: relative; z-index: 1; padding: 1px; background: rgba(25
+2 CONC 0, 251, 249, 0.701961);"></p><p><h2 class="art-postheader" style="margin: 5px 0px; padding: 0px; font-size: 0px; font-weight: normal; line-height: 0px; color: #373819;">szukaj w bazie</h2></p><p></div
+2 CONC ></p><p><div class="art-postcontent clearfix"></p><p><div class="art-article"></p><p><p style="margin: 12px 0px; padding: 0px;">&nbsp;</p></p><p><form style="padding: 0px !important; margin: 0px !impo
+2 CONC rtant;" action="http://straty.pl/index.php/szukaj-w-bazie" enctype="multipart/form-data" method="post" name="szukaj_form"><br /><strong>DANE OSOBOWE</strong><br /></p><p><table style="border-collapse:
+2 CONC  collapse; margin: 1px;" border="1"></p><p><tbody></p><p><tr></p><p><td><strong><em>nazwisko</em></strong>&nbsp;</td></p><p><td>SIWCZYŃSKI</td></p><p></tr></p><p><tr></p><p><td><strong><em>imię</em>
+2 CONC </strong>&nbsp;</td></p><p><td>RAJMUND</td></p><p></tr></p><p><tr></p><p><td><strong><em>imie ojca</em></strong>&nbsp;</td></p><p><td>BOLESŁAW</td></p><p></tr></p><p><tr></p><p><td><strong><em>imie m
+2 CONC atki</em></strong>&nbsp;</td></p><p><td>ELEONORA</td></p><p></tr></p><p><tr></p><p><td><strong><em>data urodzenia</em></strong>&nbsp;</td></p><p><td>1925-05-15</td></p><p></tr></p><p><tr></p><p><td><s
+2 CONC trong><em>miejsce urodzenia</em></strong>&nbsp;</td></p><p><td>BYDGOSZCZ</td></p><p></tr></p><p><tr></p><p><td><strong><em>miejsce zamieszkania przed wojną</em></strong>&nbsp;</td></p><p><td>KROTOSZY
+2 CONC N</td></p><p></tr></p><p><tr></p><p><td><strong><em>miejsce zamieszkania przed wojną (wojew&oacute;dztwo)</em></strong>&nbsp;</td></p><p><td>POZNAŃ</td></p><p></tr></p><p></tbody></p><p></table></p>
+2 CONC <p><br /><br /><br /><strong>INFORMACJE O PRZEŚLADOWANIACH</strong><br /><br /></p><p><table style="border-collapse: collapse; margin: 1px;" border="1"></p><p><tbody></p><p><tr></p><p><td colspan="2"
+2 CONC  bgcolor="#dcd9cc"><center>&nbsp;<br /><strong>Źr&oacute;dło:</strong>&nbsp;<a style="margin: 0px; padding: 0px; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; text-align: left; text
+2 CONC -decoration: none; color: #959f5b;" href="http://www.fpnp.pl/" target="win_zrodlo">FPNP&nbsp;</a></center></td></p><p></tr></p><p><tr></p><p><td><strong><em>robotnik przymusowy</em></strong>&nbsp;</td
+2 CONC ></p><p><td>przeżył</td></p><p></tr></p><p><tr></p><p><td><strong><em>miejsce pracy&nbsp;</em></strong>&nbsp;</td></p><p><td>DUESSELDORF</td></p><p></tr></p><p><tr></p><p><td><strong><em>miejsce pra
+2 CONC cy (państwo)</em></strong>&nbsp;</td></p><p><td>Niemcy</td></p><p></tr></p><p><tr></p><p><td><strong><em>data rozpoczęcia pracy</em></strong>&nbsp;</td></p><p><td>1943-09</td></p><p></tr></p><p><tr>
+2 CONC </p><p><td><strong><em>data zakończenia pracy</em></strong>&nbsp;</td></p><p><td>1945-04</td></p><p></tr></p><p><tr></p><p><td colspan="2" bgcolor="#dcd9cc"><center>&nbsp;<br /><strong>Źr&oacute;dł
+2 CONC o:</strong>&nbsp;<a style="margin: 0px; padding: 0px; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; text-align: left; text-decoration: none; color: #959f5b;" href="http://www.udskior.
+2 CONC gov.pl/" target="win_zrodlo">Urząd do spraw kombatant&oacute;w i os&oacute;b represjonowanych&nbsp;</a></center></td></p><p></tr></p><p><tr></p><p><td><strong><em>robotnik przymusowy</em></strong>&nb
+2 CONC sp;</td></p><p><td>przeżył</td></p><p></tr></p><p><tr></p><p><td><strong><em>data rozpoczęcia pracy</em></strong>&nbsp;</td></p><p><td>1943-09-01</td></p><p></tr></p><p><tr></p><p><td><strong><em>d
+2 CONC ata zakończenia pracy</em></strong>&nbsp;</td></p><p><td>1945-04-01<br /><br /></td></p><p></tr></p><p></tbody></p><p></table></p><p></form></div></p><p></div></p><p></article></p><p></div></p><p></d
+2 CONC iv></p><p></div></p></div>
+1 RIN MH:I52
+1 _UID 56423C3CDD7AE254E206A8A90918E13B
+0 @I53@ INDI
+1 NAME Stanisław /Siwczyński/
+2 GIVN Stanisław
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1893
+1 DEAT Y
+2 DATE 1918
+2 PLAC Ressons sur Matz
+2 AGE 24-25
+1 FAMC @F8@
+1 RIN MH:I53
+1 _UID 56423C72B34852551206A8A90918E13B
+0 @I54@ INDI
+1 NAME Edward /Machnik/
+2 GIVN Edward
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Sulmierzyce
+1 DEAT Y
+2 DATE 1952
+2 PLAC Wrocław, Polska
+2 AGE 19-20
+1 BURI
+2 PLAC Sulmierzyce
+1 FAMC @F7@
+1 RIN MH:I54
+1 _UID 56423CC1474BE2554206A8A90918E13B
+0 @I55@ INDI
+1 NAME Halina /Rogowski/
+2 GIVN Halina
+2 SURN Rogowski
+2 _MARNM Rogowska
+1 SEX F
+1 BIRT
+2 DATE 1941
+1 FAMS @F22@
+1 FAMC @F5@
+1 RIN MH:I55
+1 _UID 56423CEF29DA42556206A8A90918E13B
+0 @I56@ INDI
+1 NAME Zbigniew /Rogowski/
+2 GIVN Zbigniew
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 FAMC @F5@
+1 RIN MH:I56
+1 _UID 56423CFE6624C2558206A8A90918E13B
+0 @I57@ INDI
+1 NAME Zdzisława /Rogowski/
+2 GIVN Zdzisława
+2 SURN Rogowski
+1 SEX F
+1 BIRT
+1 DEAT Y
+1 FAMC @F5@
+1 RIN MH:I57
+1 _UID 56423D119BAA7255A206A8A90918E13B
+0 @I58@ INDI
+1 NAME Eugeniusz /Rogowski/
+2 GIVN Eugeniusz
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+1 DEAT Y
+1 FAMS @F22@
+1 RIN MH:I58
+1 _UID 56423D2A2F560255D206A8A90918E13B
+0 @I59@ INDI
+1 NAME Paweł /Rogowski/
+2 GIVN Paweł
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMC @F22@
+1 RIN MH:I59
+1 _UID 56423D3B751E72561206A8A90918E13B
+0 @I60@ INDI
+1 NAME Jerzy /Rogowski/
+2 GIVN Jerzy
+2 SURN Rogowski
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F23@
+1 FAMC @F22@
+1 RIN MH:I60
+1 _UID 56423D49C09E12563206A8A90918E13B
+0 @I61@ INDI
+1 NAME Beata //
+2 GIVN Beata
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 FAMS @F23@
+1 RIN MH:I61
+1 _UID 56423D565376F2565206A8A90918E13B
+0 @I63@ INDI
+1 NAME Aleksander /Więckowski/
+2 GIVN Aleksander
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+2 DATE 1957
+2 AGE 77-78
+1 BURI
+2 PLAC Dobrzyniewo
+1 FAMS @F24@
+1 FAMC @F500245@
+1 RIN MH:I63
+1 _UID 56423E8E51D08256B206A8A90918E13B
+0 @I64@ INDI
+1 _UPD 20 MAR 2017 15:22:46 GMT -0500 
+1 NAME Gabriela /Więckowska/
+2 GIVN Gabriela
+2 SURN Więckowska
+2 _MARNM Józefowicz
+1 SEX F
+1 BIRT
+2 DATE 1909
+1 DEAT Y
+1 FAMC @F24@
+1 RIN MH:I64
+1 _UID 56423EA56CEE4256F206A8A90918E13B
+0 @I66@ INDI
+1 NAME Monika /Więckowska/
+2 GIVN Monika
+2 SURN Więckowska
+2 _MARNM Żukowska
+1 SEX F
+1 BIRT
+2 DATE 1913
+1 DEAT Y
+1 FAMC @F24@
+1 RIN MH:I66
+1 _UID 56423EBE3C0CF2573206A8A90918E13B
+0 @I67@ INDI
+1 NAME Arkadiusz /Siwczyński/
+2 GIVN Arkadiusz
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 FAMS @F27@
+1 FAMC @F4@
+1 RIN MH:I67
+1 _UID 56424D7ADBB08257A206A8A90918E13B
+0 @I68@ INDI
+1 NAME Hieronim /Siwczyński/
+2 GIVN Hieronim
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMS @F25@
+1 FAMC @F4@
+1 RIN MH:I68
+1 _UID 56424D89BAF00257C206A8A90918E13B
+0 @I69@ INDI
+1 NAME Iwona /Dyda/
+2 GIVN Iwona
+2 SURN Dyda
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMS @F25@
+1 RIN MH:I69
+1 _UID 56424DA2D7343257E206A8A90918E13B
+0 @I74@ INDI
+1 NAME Jolanta //
+2 GIVN Jolanta
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMS @F27@
+1 RIN MH:I74
+1 _UID 56424DF7B3EB3258C206A8A90918E13B
+0 @I82@ INDI
+1 NAME Marcin Marek /Owcarz/
+2 GIVN Marcin Marek
+2 SURN Owcarz
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1990
+2 PLAC Legnica
+1 FAMS @F31@
+1 RIN MH:I82
+1 _UID 56424F35589D925AB206A8A90918E13B
+0 @I500001@ INDI
+1 NAME Grzegorz /Siwczyński/
+2 GIVN Grzegorz
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F500001@
+1 FAMC @F6@
+1 RIN MH:I500001
+1 _UID 5643A4AF9047E6317206A8A90918E16B
+0 @I500002@ INDI
+1 NAME Halina /Sarka/
+2 GIVN Halina
+2 SURN Sarka
+2 _MARNM Siwczyńska
+1 SEX F
+1 FAMS @F500001@
+1 RIN MH:I500002
+1 _UID 5643A4AF9140F6319206A8A90918E16B
+0 @I500003@ INDI
+1 NAME Sylweriusz /Siwczyński/
+2 GIVN Sylweriusz
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1971
+1 FAMC @F500001@
+1 RIN MH:I500003
+1 _UID 5643A4AF91F56631C206A8A90918E16B
+0 @I500004@ INDI
+1 NAME Agnieszka /Siwczyńska/
+2 GIVN Agnieszka
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 FAMC @F500001@
+1 RIN MH:I500004
+1 _UID 5643A4AF92EA6631E206A8A90918E16B
+0 @I500005@ INDI
+1 NAME Stefania /Siwczyńska/
+2 GIVN Stefania
+2 SURN Siwczyńska
+2 _MARNM Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 DEAT Y
+2 DATE 1996
+2 AGE 64-65
+1 FAMS @F500002@
+1 FAMC @F6@
+1 RIN MH:I500005
+1 _UID 5643A4AF93E8E6320206A8A90918E16B
+0 @I500006@ INDI
+1 NAME Feliks /Marszałkiewicz/
+2 GIVN Feliks
+2 SURN Marszałkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 DEAT Y
+1 FAMS @F500002@
+1 RIN MH:I500006
+1 _UID 5643A4AF94EA36323206A8A90918E16B
+0 @I500007@ INDI
+1 NAME Benedykt /Marszałkiewicz/
+2 GIVN Benedykt
+2 SURN Marszałkiewicz
+1 SEX M
+1 FAMC @F500002@
+1 RIN MH:I500007
+1 _UID 5643A4AF95BC16328206A8A90918E16B
+0 @I500008@ INDI
+1 NAME Lucjan /Marszałkiewicz/
+2 GIVN Lucjan
+2 SURN Marszałkiewicz
+1 SEX M
+1 FAMC @F500002@
+1 RIN MH:I500008
+1 _UID 5643A4AF9614A6329206A8A90918E16B
+0 @I500009@ INDI
+1 NAME Teresa /Marszałkiewicz/
+2 GIVN Teresa
+2 SURN Marszałkiewicz
+1 SEX F
+1 FAMC @F500002@
+1 RIN MH:I500009
+1 _UID 5643A4AF966F6632A206A8A90918E16B
+0 @I500010@ INDI
+1 NAME Roman /Marszałkiewicz/
+2 GIVN Roman
+2 SURN Marszałkiewicz
+1 SEX M
+1 FAMC @F500002@
+1 RIN MH:I500010
+1 _UID 5643A4AF96C71632B206A8A90918E16B
+0 @I500011@ INDI
+1 NAME Józef /Siwczyński/
+2 GIVN Józef
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+2 DATE 1997
+2 AGE 61-62
+1 FAMS @F500003@
+1 FAMC @F6@
+1 RIN MH:I500011
+1 _UID 5643A4AF97362632C206A8A90918E16B
+0 @I500012@ INDI
+1 _UPD 27 MAR 2017 05:09:10 GMT -0500 
+1 NAME Łucja /Zielezińska/
+2 GIVN Łucja
+2 SURN Zielezińska
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1937
+1 FAMS @F500003@
+1 FAMC @F500366@
+1 RIN MH:I500012
+1 _UID 5643A4B07A5D4632F206A8A90918E16B
+0 @I500013@ INDI
+1 NAME Halina /Siwczyńska/
+2 GIVN Halina
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F500105@
+1 FAMC @F500003@
+1 RIN MH:I500013
+1 _UID 5643A4B07D0426333206A8A90918E16B
+0 @I500014@ INDI
+1 NAME Ewa /Siwczyńska/
+2 GIVN Ewa
+2 SURN Siwczyńska
+1 SEX F
+1 FAMC @F500003@
+1 RIN MH:I500014
+1 _UID 5643A4B07E45A6336206A8A90918E16B
+0 @I500015@ INDI
+1 NAME Tadeusz /Siwczyński/
+2 GIVN Tadeusz
+2 SURN Siwczyński
+1 SEX M
+1 FAMC @F500003@
+1 RIN MH:I500015
+1 _UID 5643A4B07E92F6337206A8A90918E16B
+0 @I500016@ INDI
+1 _UPD 11 DEC 2016 17:45:29 GMT -0500 
+1 NAME Józef /Siwczyński/
+2 GIVN Józef
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1841
+1 FAMS @F500004@
+1 FAMC @F500108@
+1 RIN MH:I500016
+1 _UID 56472053619EC42D3206A8A90918E138
+0 @I500018@ INDI
+1 NAME Mikołaj /Siwczyński/
+2 GIVN Mikołaj
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1945
+1 BIRT
+2 DATE 1868
+1 FAMS @F500313@
+1 FAMC @F500004@
+1 RIN MH:I500018
+1 _UID 564720536240C42D6206A8A90918E138
+0 @I500019@ INDI
+1 NAME Tomasz Teodor /Siwczyński/
+2 GIVN Tomasz Teodor
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1943
+2 AGE 72-73
+1 BIRT
+2 DATE 1870
+1 FAMS @F500112@
+1 FAMC @F500004@
+1 RIN MH:I500019
+1 _UID 5647205362ED242D8206A8A90918E138
+0 @I500020@ INDI
+1 NAME Kazimierz /Siwczyński/
+2 GIVN Kazimierz
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1873
+1 FAMS @F500111@
+1 FAMC @F500004@
+1 RIN MH:I500020
+1 _UID 564720536347642D9206A8A90918E138
+0 @I500021@ INDI
+1 NAME Pelagia /Siwczyńska/
+2 GIVN Pelagia
+2 SURN Siwczyńska
+2 _MARNM Garyantesiewicz
+1 SEX F
+1 DEAT Y
+2 DATE 1960
+1 BIRT
+2 DATE 1878
+1 FAMS @F500107@
+1 FAMC @F500004@
+1 RIN MH:I500021
+1 _UID 564720536471542DC206A8A90918E138
+0 @I500022@ INDI
+1 NAME Leon /Siwczyński/
+2 GIVN Leon
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1883
+1 FAMC @F500004@
+1 RIN MH:I500022
+1 _UID 56472053652E742DE206A8A90918E138
+0 @I500023@ INDI
+1 NAME Jolanta /Siwczyńska/
+2 GIVN Jolanta
+2 SURN Siwczyńska
+1 SEX F
+1 DEAT Y
+1 FAMC @F6@
+1 SOUR @S500001@
+2 QUAY 3
+2 DATA
+3 DATE 16 NOV 2015
+3 TEXT Dodano dzięki odkryciu Instant Discovery™
+1 RIN MH:I500023
+1 _UID 564B316965CA0A830206A8A90918E186
+0 @I500123@ INDI
+1 NAME  /Laudowicz/
+2 SURN Laudowicz
+1 SEX M
+1 FAMS @F500105@
+1 RIN MH:I500123
+1 _UID 564B316C3813FAA40206A8A90918E186
+0 @I500124@ INDI
+1 NAME Marianna /Laudowicz/
+2 GIVN Marianna
+2 SURN Laudowicz
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1841
+1 FAMS @F500004@
+1 FAMC @F500110@
+1 RIN MH:I500124
+1 _UID 564B316C38CAEAA80206A8A90918E186
+0 @I500125@ INDI
+1 NAME Kazimierz /Machnik/
+2 GIVN Kazimierz
+2 SURN Machnik
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1837
+1 FAMS @F500106@
+1 FAMC @F500119@
+1 RIN MH:I500125
+1 _UID 564B316ECE0EAAAB0206A8A90918E186
+0 @I500126@ INDI
+1 NAME Józefa /Laudowicz/
+2 GIVN Józefa
+2 SURN Laudowicz
+2 _MARNM Machnik
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1841
+1 FAMS @F500106@
+1 FAMC @F500120@
+1 RIN MH:I500126
+1 _UID 564B316ECE979AAE0206A8A90918E186
+0 @I500127@ INDI
+1 _UPD 26 MAR 2017 07:06:23 GMT -0500 
+1 NAME Walenty /Garyantesiewicz/
+2 GIVN Walenty
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1879
+1 FAMS @F500107@
+1 FAMC @F500315@
+1 RIN MH:I500127
+1 _UID 564B316ECF4CAAB00206A8A90918E186
+0 @I500128@ INDI
+1 _UPD 26 MAR 2017 17:05:13 GMT -0500 
+1 NAME Wincenty /Siwczyński/
+2 GIVN Wincenty
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1805
+1 DEAT Y
+1 FAMS @F500108@
+1 FAMC @F500114@
+1 RIN MH:I500128
+1 _UID 564B316ECFE8CAB40206A8A90918E186
+0 @I500129@ INDI
+1 NAME Katarzyna /Brysiewicz/
+2 GIVN Katarzyna
+2 SURN Brysiewicz
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1809
+1 DEAT Y
+1 FAMS @F500108@
+1 RIN MH:I500129
+1 _UID 564B316ED0A61AB80206A8A90918E186
+0 @I500130@ INDI
+1 NAME Tomasz /Siwczyński/
+2 GIVN Tomasz
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1910
+2 AGE 72
+1 BIRT
+2 DATE 1838
+1 FAMS @F500113@
+1 FAMS @F500117@
+1 FAMC @F500108@
+1 RIN MH:I500130
+1 _UID 564B316ED18FEABC0206A8A90918E186
+0 @I500133@ INDI
+1 NAME Mikołaj /Laudowicz/
+2 GIVN Mikołaj
+2 SURN Laudowicz
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1802
+1 FAMS @F500110@
+1 RIN MH:I500133
+1 _UID 564B316F2997DAC30206A8A90918E186
+0 @I500134@ INDI
+1 NAME Wiktoria /Winiewicz/
+2 GIVN Wiktoria
+2 SURN Winiewicz
+2 _MARNM Laudowicz
+1 SEX F
+1 DEAT Y
+2 DATE 1881
+2 AGE 69-70
+1 BIRT
+2 DATE 1811
+1 FAMS @F500110@
+1 FAMC @F500232@
+1 RIN MH:I500134
+1 _UID 564B316F2A7CBAC60206A8A90918E186
+0 @I500136@ INDI
+1 NAME Piotr /Siwczyński/
+2 GIVN Piotr
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1889
+2 AGE 54
+1 BIRT
+2 DATE 1835
+1 FAMS @F500116@
+1 FAMC @F500108@
+1 RIN MH:I500136
+1 _UID 564CA4E23CB1A477D206A8A90918ED58
+0 @I500137@ INDI
+1 _UPD 13 MAR 2017 19:48:25 GMT -0500 
+1 NAME Czesław /Siwczyński/
+2 GIVN Czesław
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 FAMC @F500111@
+1 RIN MH:I500137
+1 _UID 564CA4E23F3CE4782206A8A90918ED58
+0 @I500138@ INDI
+1 _UPD 2 OCT 2016 17:01:04 GMT -0500 
+1 NAME Eleonora /Garyantesiewicz/
+2 GIVN Eleonora
+2 SURN Garyantesiewicz
+2 _MARNM Siwczyńska
+1 SEX F
+1 FAMS @F500111@
+1 FAMC @F500268@
+1 RIN MH:I500138
+1 _UID 564CA4E23F5C14783206A8A90918ED58
+0 @I500139@ INDI
+1 NAME Franciszka /Siwczyńska/
+2 GIVN Franciszka
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+1 FAMC @F500112@
+1 RIN MH:I500139
+1 _UID 564CA4E240F6D4787206A8A90918ED58
+0 @I500140@ INDI
+1 NAME Maria /Krupa/
+2 GIVN Maria
+2 SURN Krupa
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+2 DATE 1960
+1 BIRT
+2 DATE 1885
+1 FAMS @F500112@
+1 RIN MH:I500140
+1 _UID 564CA4E2411464788206A8A90918ED58
+0 @I500141@ INDI
+1 NAME Pelagia /Siwczyńska/
+2 GIVN Pelagia
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1909
+1 DEAT Y
+2 DATE 1995
+1 FAMC @F500112@
+1 RIN MH:I500141
+1 _UID 564CA4E24263A478C206A8A90918ED58
+0 @I500142@ INDI
+1 NAME Pelagia /Machnik/
+2 GIVN Pelagia
+2 SURN Machnik
+2 _MARNM Kozłowska
+1 SEX F
+1 BIRT
+2 DATE 1863
+1 DEAT Y
+1 FAMS @F500257@
+1 FAMC @F500106@
+1 RIN MH:I500142
+1 _UID 564CA4E39A61A4790206A8A90918ED58
+0 @I500143@ INDI
+1 NAME Mieczysław Bolesław /Garyantesiewicz/
+2 GIVN Mieczysław Bolesław
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+2 DATE 1999
+2 PLAC Szczecinek
+1 BIRT
+2 DATE 1909
+1 FAMC @F500107@
+1 RIN MH:I500143
+1 _UID 564CA4E39B2544793206A8A90918ED58
+0 @I500144@ INDI
+1 NAME Leon /Siwczyński/
+2 GIVN Leon
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1883
+1 BIRT
+2 DATE 1865
+1 FAMC @F500113@
+1 RIN MH:I500144
+1 _UID 564CA4E39BDDA4796206A8A90918ED58
+0 @I500145@ INDI
+1 NAME Bronisława /Kuczyńska/
+2 GIVN Bronisława
+2 SURN Kuczyńska
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500113@
+1 RIN MH:I500145
+1 _UID 564CA4E39BF154797206A8A90918ED58
+0 @I500146@ INDI
+1 _UPD 7 MAR 2017 06:41:10 GMT -0500 
+1 NAME Tomasz /Siwczyński/
+2 GIVN Tomasz
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1783
+1 FAMS @F500114@
+1 FAMC @F500277@
+1 RIN MH:I500146
+1 _UID 564CA4E39CCD0479B206A8A90918ED58
+0 @I500147@ INDI
+1 NAME Marianna /Siwczyński/
+2 GIVN Marianna
+2 SURN Siwczyński
+2 _MARNM Dorożalska
+1 SEX F
+1 BIRT
+2 DATE 1832
+1 DEAT Y
+2 DATE 1910
+2 AGE 77-78
+1 FAMS @F500115@
+1 FAMC @F500108@
+1 RIN MH:I500147
+1 _UID 564CA4E39D520479E206A8A90918ED58
+0 @I500148@ INDI
+1 NAME Franciszek /Dorożalski/
+2 GIVN Franciszek
+2 SURN Dorożalski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500115@
+1 RIN MH:I500148
+1 _UID 564CA4E39E0BE47A1206A8A90918ED58
+0 @I500149@ INDI
+1 NAME Eleonora /Dorożalska/
+2 GIVN Eleonora
+2 SURN Dorożalska
+2 _MARNM Kazowska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1854
+1 FAMS @F500261@
+1 FAMC @F500115@
+1 RIN MH:I500149
+1 _UID 564CA4E39E97E47A5206A8A90918ED58
+0 @I500150@ INDI
+1 NAME Czesława /Siwczyńska/
+2 GIVN Czesława
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1906
+1 DEAT Y
+1 FAMC @F500112@
+1 RIN MH:I500150
+1 _UID 564CFAA98F8354935206A8A90918E7C4
+0 @I500151@ INDI
+1 _UPD 26 MAR 2017 07:25:50 GMT -0500 
+1 NAME Jan /Dorożalski/
+2 GIVN Jan
+2 SURN Dorożalski
+1 SEX M
+1 DEAT Y
+2 DATE 1892
+1 BIRT
+2 DATE 1847
+1 FAMC @F500115@
+1 RIN MH:I500151
+1 _UID 564CFAA990C144938206A8A90918E7C4
+0 @I500152@ INDI
+1 NAME Maria /Kazowska/
+2 GIVN Maria
+2 SURN Kazowska
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500116@
+1 RIN MH:I500152
+1 _UID 564CFAA991A8F493A206A8A90918E7C4
+0 @I500153@ INDI
+1 NAME Maria /Siwczyński/
+2 GIVN Maria
+2 SURN Siwczyński
+2 _MARNM Sojka
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1861
+1 FAMS @F500118@
+1 FAMC @F500116@
+1 RIN MH:I500153
+1 _UID 564D02A4AE12B79D9206A8A90918E155
+0 @I500154@ INDI
+1 NAME Konstancja /Siwczyńska/
+2 GIVN Konstancja
+2 SURN Siwczyńska
+2 _MARNM Miśkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT Y
+2 DATE 1909
+1 FAMS @F500312@
+1 FAMC @F500116@
+1 RIN MH:I500154
+1 _UID 564D02A4AED8979DC206A8A90918E155
+0 @I500155@ INDI
+1 NAME Stanisław /Siwczyński/
+2 GIVN Stanisław
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1888
+1 FAMC @F500116@
+1 RIN MH:I500155
+1 _UID 564D02A4AF73479DF206A8A90918E155
+0 @I500156@ INDI
+1 NAME Michał /Siwczyński/
+2 GIVN Michał
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+2 DATE 1882
+1 BIRT
+2 DATE 1877
+1 FAMC @F500116@
+1 RIN MH:I500156
+1 _UID 564D02A4B050579E2206A8A90918E155
+0 @I500157@ INDI
+1 NAME Eleonora /Siwczyńska/
+2 GIVN Eleonora
+2 SURN Siwczyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1883
+1 FAMC @F500116@
+1 RIN MH:I500157
+1 _UID 564D02A4B0EDC79E4206A8A90918E155
+0 @I500158@ INDI
+1 NAME Jan /Siwczyński/
+2 GIVN Jan
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 DEAT Y
+1 FAMC @F500116@
+1 RIN MH:I500158
+1 _UID 564D02A4B18CC79E6206A8A90918E155
+0 @I500159@ INDI
+1 _UPD 26 MAR 2017 07:11:03 GMT -0500 
+1 NAME Józefa /Kaszyńska/
+2 GIVN Józefa
+2 SURN Kaszyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1840
+1 FAMS @F500117@
+1 FAMC @F500318@
+1 RIN MH:I500159
+1 _UID 564D02A4B273F79E9206A8A90918E155
+0 @I500160@ INDI
+1 _UPD 4 OCT 2016 14:44:59 GMT -0500 
+1 NAME Anna /Siwczyńska/
+2 GIVN Anna
+2 SURN Siwczyńska
+2 _MARNM Szczęsnowska
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1878
+1 DEAT Y
+2 DATE 3 FEB 1959
+1 BURI
+2 PLAC Cmentarz Jeżycki (Par. Najświętszego Serca Jezusa i  św. Florian, Poznań, Greater Poland Voivodeship, Poland
+1 FAMS @F500269@
+1 FAMC @F500117@
+1 SOUR @S500003@
+2 PAGE https://www.myheritage.pl/research/collection-10147/billiongraves?itemId=20693310-&action=showRecord
+2 QUAY 4
+2 DATA
+3 TEXT Anna Szczęsnowska
+4 CONC Narodziny: 26 lip 1878
+4 CONC Śmierć: 3 lut 1959
+4 CONC Pochówek: Cmentarz Jeżycki (Par. Najświętszego Serca Jezusa i  św. Florian, Poznań, Greater Poland Voivodeship, Poland
+4 CONC Ofiarodawca: Pracownicy i przyjaciele MyHeritage
+4 CONC Krewni: RelacjaImię i nazwiskoNarodzinyŚmierćMąż (wnioskowane)Roman Szczęsnowski18761946
+2 EVEN Record
+3 ROLE 10147:20693310-:
+1 NOTE <p>&nbsp;</p>
+<p style="margin-bottom: 0cm;"><a name="_GoBack"></a>WBC &bdquo;Dziennik Poznański&rdquo; nr 182, 10-08-1907 r., str. 4: &bdquo;Ślub. W środę 7 b. m. o godzinie 7 wieczorem pobłogo
+2 CONC sławiony został w kościele w Sulmierzycach związek małżeński pomiędzy panem Romanem Szczesnowskim, kupcem z Buku, a panną Anną Siwczyńską, c&oacute;rką og&oacute;lnie szanowanego i zasłu
+2 CONC żonego obywatela i zastępcy burmistrza p. Tomasza Siwczyńskiego i żony jego p. J&oacute;zefy z Kaszyńskich.[&hellip;]&rdquo;</p>
+1 RIN MH:I500160
+1 _UID 564D02A4B355A79EF206A8A90918E155
+0 @I500161@ INDI
+1 NAME Franciszek /Siwczyński/
+2 GIVN Franciszek
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1872
+1 DEAT Y
+2 DATE 1944
+2 AGE 71-72
+1 FAMS @F500265@
+1 FAMC @F500117@
+1 RIN MH:I500161
+1 _UID 564D02A580A3279F2206A8A90918E155
+0 @I500162@ INDI
+1 NAME Seweryn //
+2 GIVN Seweryn
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1976
+1 FAMC @F500107@
+1 RIN MH:I500162
+1 _UID 564D02A5817A979F5206A8A90918E155
+0 @I500163@ INDI
+1 _UPD 26 MAR 2017 07:36:12 GMT -0500 
+1 NAME Józefa /Sojka/
+2 GIVN Józefa
+2 SURN Sojka
+2 _MARNM Kokot
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1890
+1 FAMS @F500326@
+1 FAMC @F500118@
+1 RIN MH:I500163
+1 _UID 564DF6B656BDB16E1206A8A90918E6C4
+0 @I500164@ INDI
+1 _UPD 26 MAR 2017 07:38:11 GMT -0500 
+1 NAME Franz /Sojka/
+2 GIVN Franz
+2 SURN Sojka
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1866
+1 FAMS @F500118@
+1 FAMC @F500328@
+1 RIN MH:I500164
+1 _UID 564DF6B656E4D16E2206A8A90918E6C4
+0 @I500165@ INDI
+1 _UPD 26 MAR 2017 07:37:43 GMT -0500 
+1 NAME Franciska /Sojka/
+2 GIVN Franciska
+2 SURN Sojka
+1 SEX F
+1 BIRT
+2 DATE 1890
+1 DEAT Y
+2 DATE 1892
+2 AGE 1-2
+1 FAMC @F500118@
+1 RIN MH:I500165
+1 _UID 564DF6B65881216E6206A8A90918E6C4
+0 @I500166@ INDI
+1 _UPD 26 MAR 2017 07:37:51 GMT -0500 
+1 NAME Zofia /Sojka/
+2 GIVN Zofia
+2 SURN Sojka
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 DEAT Y
+1 FAMC @F500118@
+1 RIN MH:I500166
+1 _UID 564DF6B65A08516E9206A8A90918E6C4
+0 @I500167@ INDI
+1 NAME Ignacy /Machnik/
+2 GIVN Ignacy
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+1 FAMC @F500106@
+1 RIN MH:I500167
+1 _UID 564DF6B65B84816EC206A8A90918E6C4
+0 @I500168@ INDI
+1 NAME Karol /Machnik/
+2 GIVN Karol
+2 SURN Machnik
+1 SEX M
+1 DEAT Y
+2 DATE 1881
+2 AGE 70-71
+1 BIRT
+2 DATE 1810
+1 FAMS @F500119@
+1 RIN MH:I500168
+1 _UID 564DF6B65CD6C16EF206A8A90918E6C4
+0 @I500169@ INDI
+1 _UPD 15 DEC 2016 06:34:09 GMT -0500 
+1 NAME Zuzanna /Kurkiewicz/
+2 GIVN Zuzanna
+2 SURN Kurkiewicz
+2 _MARNM Machnik
+1 SEX F
+1 DEAT Y
+2 DATE 1888
+2 AGE 78-79
+1 BIRT
+2 DATE 1809
+1 FAMS @F500119@
+1 FAMC @F500275@
+1 RIN MH:I500169
+1 _UID 564DF6B65D70D16F2206A8A90918E6C4
+0 @I500170@ INDI
+1 NAME Ignacy /Laudowicz/
+2 GIVN Ignacy
+2 SURN Laudowicz
+1 SEX M
+1 DEAT Y
+2 DATE 1891
+2 AGE 82-83
+1 BIRT
+2 DATE 1808
+1 FAMS @F500120@
+1 FAMC @F500234@
+1 RIN MH:I500170
+1 _UID 564DF6B97BA9816F8206A8A90918E6C4
+0 @I500171@ INDI
+1 NAME Katarzyna /Tomaszek/
+2 GIVN Katarzyna
+2 SURN Tomaszek
+2 _MARNM Laudowicz
+1 SEX F
+1 DEAT Y
+2 DATE 1889
+2 AGE 72-73
+1 BIRT
+2 DATE 1816
+1 FAMS @F500120@
+1 FAMC @F500233@
+1 RIN MH:I500171
+1 _UID 564DF6B97C3FC16FB206A8A90918E6C4
+0 @I500173@ INDI
+1 NAME Anastazja /Machnik/
+2 GIVN Anastazja
+2 SURN Machnik
+2 _MARNM Kazowska
+1 SEX F
+1 BIRT
+2 DATE 1841
+1 DEAT Y
+1 FAMS @F500121@
+1 FAMC @F500119@
+1 RIN MH:I500173
+1 _UID 564DF6B97E78C1702206A8A90918E6C4
+0 @I500174@ INDI
+1 NAME Waleria /Machnik/
+2 GIVN Waleria
+2 SURN Machnik
+2 _MARNM Zbawiony
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1853
+1 FAMS @F500122@
+1 FAMC @F500119@
+1 RIN MH:I500174
+1 _UID 564DF6B97F40D1705206A8A90918E6C4
+0 @I500175@ INDI
+1 NAME Pelagia /Kazowska/
+2 GIVN Pelagia
+2 SURN Kazowska
+2 _MARNM Stęczniewska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1859
+1 FAMS @F500256@
+1 FAMC @F500121@
+1 RIN MH:I500175
+1 _UID 564DF6B9803671707206A8A90918E6C4
+0 @I500176@ INDI
+1 NAME Jan /Kazowski/
+2 GIVN Jan
+2 SURN Kazowski
+1 SEX M
+1 DEAT Y
+2 DATE 1909
+2 AGE 74-75
+1 BIRT
+2 DATE 1834
+1 FAMS @F500121@
+1 RIN MH:I500176
+1 _UID 564DF6B9804A91708206A8A90918E6C4
+0 @I500177@ INDI
+1 NAME Marianna /Zbawiony/
+2 GIVN Marianna
+2 SURN Zbawiony
+1 SEX F
+1 DEAT Y
+1 FAMC @F500122@
+1 RIN MH:I500177
+1 _UID 564DF6B9816BE170C206A8A90918E6C4
+0 @I500178@ INDI
+1 NAME Tomasz /Zbawiony/
+2 GIVN Tomasz
+2 SURN Zbawiony
+1 SEX M
+1 DEAT Y
+1 FAMS @F500122@
+1 RIN MH:I500178
+1 _UID 564DF6B9817FB170D206A8A90918E6C4
+0 @I500182@ INDI
+1 _UPD 21 MAR 2017 15:47:33 GMT -0500 
+1 NAME Franciszek /Śmieiński/
+2 GIVN Franciszek
+2 SURN Śmieiński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500124@
+1 RIN MH:I500182
+1 _UID 5730a98e2c4341e6a24a206a8a90918e
+0 @I500183@ INDI
+1 NAME Marcianna /Machnik/
+2 GIVN Marcianna
+2 SURN Machnik
+2 _MARNM Karolewska
+1 SEX F
+1 BIRT
+2 DATE 1850
+1 DEAT Y
+1 FAMS @F500236@
+1 FAMS @F500237@
+1 FAMS @F500238@
+1 FAMC @F500119@
+1 RIN MH:I500183
+1 _UID 5730a98e6be331e6a24a206a8a90918e
+0 @I500284@ INDI
+1 NAME Piotr /Kazowski/
+2 GIVN Piotr
+2 SURN Kazowski
+1 SEX M
+1 BIRT
+2 DATE 1864
+1 DEAT Y
+1 FAMC @F500121@
+1 RIN MH:I500284
+1 _UID 5730a9b9568311e6a24a206a8a90918e
+0 @I500285@ INDI
+1 NAME Elżbieta //
+2 GIVN Elżbieta
+2 _MARNM Machnik
+1 SEX F
+1 DEAT Y
+1 FAMS @F500225@
+1 RIN MH:I500285
+1 _UID 5730a9ba6be331e6a24a206a8a90918e
+0 @I500286@ INDI
+1 NAME Mira /Machnik/
+2 GIVN Mira
+2 SURN Machnik
+1 SEX F
+1 FAMC @F500225@
+1 RIN MH:I500286
+1 _UID 5730a9ba9e6391e6a24a206a8a90918e
+0 @I500287@ INDI
+1 NAME Aleksandra /Machnik/
+2 GIVN Aleksandra
+2 SURN Machnik
+1 SEX F
+1 FAMC @F500225@
+1 RIN MH:I500287
+1 _UID 5730a9ba1c3301e6a24a206a8a90918e
+0 @I500294@ INDI
+1 NAME Urszula /Siwczyńska/
+2 GIVN Urszula
+2 SURN Siwczyńska
+2 _MARNM Laudowicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500242@
+1 FAMS @F500266@
+1 FAMC @F500108@
+1 RIN MH:I500294
+1 _UID 5730a9c0112361e6a24a206a8a90918e
+0 @I500295@ INDI
+1 _UPD 8 DEC 2016 17:05:14 GMT -0500 
+1 NAME Maria /Droździel/
+2 GIVN Maria
+2 SURN Droździel
+2 _MARNM Mazur
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 FAMS @F500230@
+1 FAMC @F500229@
+1 RIN MH:I500295
+1 _UID 5730a9c1112361e6a24a206a8a90918e
+0 @I500299@ INDI
+1 NAME Jan /Mazur/
+2 GIVN Jan
+2 SURN Mazur
+1 SEX M
+1 FAMC @F500230@
+1 RIN MH:I500299
+1 _UID 5730a9c5112361e6a24a206a8a90918e
+0 @I500303@ INDI
+1 NAME Jan /Winiewicz/
+2 GIVN Jan
+2 SURN Winiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500232@
+1 RIN MH:I500303
+1 _UID 5730a9df2c4341e6a24a206a8a90918e
+0 @I500304@ INDI
+1 NAME Marianna /Waronk/
+2 GIVN Marianna
+2 SURN Waronk
+2 _MARNM Winiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500232@
+1 RIN MH:I500304
+1 _UID 5730a9e12c4341e6a24a206a8a90918e
+0 @I500305@ INDI
+1 NAME Walenty /Tomaszek/
+2 GIVN Walenty
+2 SURN Tomaszek
+1 SEX M
+1 DEAT Y
+1 FAMS @F500233@
+1 RIN MH:I500305
+1 _UID 5730a9e16be331e6a24a206a8a90918e
+0 @I500306@ INDI
+1 NAME Barbara /Gendziorowska/
+2 GIVN Barbara
+2 SURN Gendziorowska
+2 _MARNM Tomaszek
+1 SEX F
+1 DEAT Y
+1 FAMS @F500233@
+1 RIN MH:I500306
+1 _UID 5730a9e2568311e6a24a206a8a90918e
+0 @I500307@ INDI
+1 NAME Adalbert /Laudowicz/
+2 GIVN Adalbert
+2 SURN Laudowicz
+1 SEX M
+1 FAMS @F500234@
+1 RIN MH:I500307
+1 _UID 5730a9e2d9c3e1e6a24a206a8a90918e
+0 @I500308@ INDI
+1 NAME Appolonia /Gibasiewicz/
+2 GIVN Appolonia
+2 SURN Gibasiewicz
+2 _MARNM Laudowicz
+1 SEX F
+1 FAMS @F500234@
+1 RIN MH:I500308
+1 _UID 5730a9e2a303b1e6a24a206a8a90918e
+0 @I500309@ INDI
+1 NAME Maria /Laudowicz/
+2 GIVN Maria
+2 SURN Laudowicz
+2 _MARNM Konieczna
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT Y
+2 DATE 1885
+2 AGE 45-46
+1 FAMS @F500239@
+1 FAMC @F500120@
+1 RIN MH:I500309
+1 _UID 5730a9e21c3301e6a24a206a8a90918e
+0 @I500310@ INDI
+1 NAME Marcella /Laudowicz/
+2 GIVN Marcella
+2 SURN Laudowicz
+2 _MARNM Sebel
+1 SEX F
+1 BIRT
+2 DATE 1854
+1 DEAT Y
+2 DATE 1885
+2 PLAC Ligota
+1 FAMS @F500347@
+1 FAMC @F500120@
+1 RIN MH:I500310
+1 _UID 5730a9e26e90d1e6a24a206a8a90918e
+0 @I500312@ INDI
+1 NAME Rozalia /Laudowicz/
+2 GIVN Rozalia
+2 SURN Laudowicz
+2 _MARNM Kulczyńska
+1 SEX F
+1 BIRT
+2 DATE 1801
+1 DEAT Y
+2 DATE 1876
+1 FAMS @F500264@
+1 FAMC @F500234@
+1 RIN MH:I500312
+1 _UID 5730a9e3568311e6a24a206a8a90918e
+0 @I500315@ INDI
+1 _UPD 26 MAR 2017 07:23:04 GMT -0500 
+1 NAME Jan /Karolewski/
+2 GIVN Jan
+2 SURN Karolewski
+1 SEX M
+1 DEAT Y
+2 DATE 1910
+1 BIRT
+2 DATE 1837
+1 FAMS @F500236@
+1 FAMC @F500321@
+1 RIN MH:I500315
+1 _UID 5730a9e8568311e6a24a206a8a90918e
+0 @I500316@ INDI
+1 NAME Franciszek /Zydel/
+2 GIVN Franciszek
+2 SURN Zydel
+1 SEX M
+1 DEAT Y
+2 DATE 1885
+1 FAMS @F500237@
+1 RIN MH:I500316
+1 _UID 5730a9e8a303b1e6a24a206a8a90918e
+0 @I500317@ INDI
+1 NAME Wincent /Hojnacki/
+2 GIVN Wincent
+2 SURN Hojnacki
+1 SEX M
+1 DEAT Y
+1 FAMS @F500238@
+1 RIN MH:I500317
+1 _UID 5730a9e86e90d1e6a24a206a8a90918e
+0 @I500318@ INDI
+1 NAME Apolonia /Hojnacka/
+2 GIVN Apolonia
+2 SURN Hojnacka
+1 SEX F
+1 DEAT Y
+1 FAMC @F500238@
+1 RIN MH:I500318
+1 _UID 5730a9e9568311e6a24a206a8a90918e
+0 @I500319@ INDI
+1 NAME Maria /Konieczna/
+2 GIVN Maria
+2 SURN Konieczna
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1878
+1 FAMC @F500239@
+1 RIN MH:I500319
+1 _UID 5730a9e9d9c3e1e6a24a206a8a90918e
+0 @I500320@ INDI
+1 NAME Piotr /Konieczny/
+2 GIVN Piotr
+2 SURN Konieczny
+1 SEX M
+1 FAMS @F500239@
+1 RIN MH:I500320
+1 _UID 5730a9e9e4a3c1e6a24a206a8a90918e
+0 @I500321@ INDI
+1 NAME Eleonora /Konieczna/
+2 GIVN Eleonora
+2 SURN Konieczna
+1 SEX F
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1881
+2 AGE 0-1
+1 FAMC @F500239@
+1 RIN MH:I500321
+1 _UID 5730a9ea112361e6a24a206a8a90918e
+0 @I500322@ INDI
+1 NAME Bolesław /Konieczny/
+2 GIVN Bolesław
+2 SURN Konieczny
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+1 FAMC @F500239@
+1 RIN MH:I500322
+1 _UID 5730a9ee2c4341e6a24a206a8a90918e
+0 @I500323@ INDI
+1 NAME Gertruda /Laudowicz/
+2 GIVN Gertruda
+2 SURN Laudowicz
+2 _MARNM Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1854
+1 DEAT Y
+1 FAMS @F500240@
+1 FAMC @F500120@
+1 RIN MH:I500323
+1 _UID 5730a9efd9c3e1e6a24a206a8a90918e
+0 @I500324@ INDI
+1 NAME Józef //
+2 GIVN Józef
+2 _MARNM Rękosiewicz
+1 SEX M
+1 BIRT
+2 DATE 1881
+1 DEAT Y
+1 FAMC @F500240@
+1 RIN MH:I500324
+1 _UID 5730a9ef9e6391e6a24a206a8a90918e
+0 @I500326@ INDI
+1 NAME Katarzyna /Rękosiewicz/
+2 GIVN Katarzyna
+2 SURN Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 DEAT Y
+1 FAMS @F500377@
+1 FAMC @F500240@
+1 RIN MH:I500326
+1 _UID 5730a9f52c4341e6a24a206a8a90918e
+0 @I500327@ INDI
+1 NAME Teodora //
+2 GIVN Teodora
+2 _MARNM Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1884
+1 DEAT Y
+1 FAMC @F500240@
+1 RIN MH:I500327
+1 _UID 5730a9f56be331e6a24a206a8a90918e
+0 @I500328@ INDI
+1 NAME Władysław /Rękosiewicz/
+2 GIVN Władysław
+2 SURN Rękosiewicz
+1 SEX M
+1 BIRT
+2 DATE 1887
+1 DEAT Y
+2 DATE 1888
+2 AGE 0-1
+1 FAMC @F500240@
+1 RIN MH:I500328
+1 _UID 5730a9f5a303b1e6a24a206a8a90918e
+0 @I500329@ INDI
+1 NAME Feliks //
+2 GIVN Feliks
+2 _MARNM Rękosiewicz
+1 SEX M
+1 BIRT
+2 DATE 1889
+1 DEAT Y
+2 DATE 1961
+2 AGE 71-72
+1 FAMC @F500240@
+1 RIN MH:I500329
+1 _UID 5730a9f5215321e6a24a206a8a90918e
+0 @I500330@ INDI
+1 NAME Maria //
+2 GIVN Maria
+2 _MARNM Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1891
+1 DEAT Y
+1 FAMC @F500240@
+1 RIN MH:I500330
+1 _UID 5730a9f6568311e6a24a206a8a90918e
+0 @I500332@ INDI
+1 NAME Jan /Laudowicz/
+2 GIVN Jan
+2 SURN Laudowicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500242@
+1 FAMC @F500110@
+1 RIN MH:I500332
+1 _UID 5730a9fa568311e6a24a206a8a90918e
+0 @I500334@ INDI
+1 _UPD 26 MAR 2017 07:21:16 GMT -0500 
+1 NAME Antonina /Laudowicz/
+2 GIVN Antonina
+2 SURN Laudowicz
+2 _MARNM Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1865
+1 FAMS @F500319@
+1 FAMC @F500242@
+1 RIN MH:I500334
+1 _UID 5730a9fba303b1e6a24a206a8a90918e
+0 @I500338@ INDI
+1 NAME Stefania /Zdanowicz/
+2 GIVN Stefania
+2 SURN Zdanowicz
+2 _MARNM Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1954
+2 AGE 73-74
+1 FAMS @F24@
+1 FAMC @F500246@
+1 RIN MH:I500338
+1 _UID 5730aa01568311e6a24a206a8a90918e
+0 @I500339@ INDI
+1 NAME Jan /Więckowski/
+2 GIVN Jan
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 DEAT Y
+2 DATE 1906
+2 AGE 51-52
+1 FAMS @F500245@
+1 FAMC @F500247@
+1 RIN MH:I500339
+1 _UID 5730aa01e4a3c1e6a24a206a8a90918e
+0 @I500340@ INDI
+1 NAME Katarzyna /Rogalska/
+2 GIVN Katarzyna
+2 SURN Rogalska
+2 _MARNM Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1859
+1 DEAT Y
+2 DATE 1939
+2 AGE 79-80
+1 FAMS @F500245@
+1 FAMC @F500254@
+1 RIN MH:I500340
+1 _UID 5730aa01215321e6a24a206a8a90918e
+0 @I500341@ INDI
+1 NAME Józef /Zdanowicz/
+2 GIVN Józef
+2 SURN Zdanowicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500246@
+1 RIN MH:I500341
+1 _UID 5730aa0153f0f1e6a24a206a8a90918e
+0 @I500342@ INDI
+1 NAME Teofila /Marchlewska/
+2 GIVN Teofila
+2 SURN Marchlewska
+2 _MARNM Zdanowicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500246@
+1 RIN MH:I500342
+1 _UID 5730aa019b1071e6a24a206a8a90918e
+0 @I500343@ INDI
+1 NAME Konstancja /Kamieńska/
+2 GIVN Konstancja
+2 SURN Kamieńska
+2 _MARNM Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1826
+2 PLAC Borsukówka
+1 DEAT Y
+2 DATE 1879
+2 AGE 52-53
+1 FAMS @F500247@
+1 FAMC @F500248@
+1 RIN MH:I500343
+1 _UID 5730aa032c4341e6a24a206a8a90918e
+0 @I500344@ INDI
+1 NAME Jan /Więckowski/
+2 GIVN Jan
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Kozińce
+1 DEAT Y
+2 DATE 1894
+2 AGE 68-69
+1 FAMS @F500247@
+1 FAMS @F500267@
+1 FAMC @F500249@
+1 RIN MH:I500344
+1 _UID 5730aa06112361e6a24a206a8a90918e
+0 @I500345@ INDI
+1 NAME Piotr /Kamieński/
+2 GIVN Piotr
+2 SURN Kamieński
+1 SEX M
+1 BIRT
+2 DATE 1788
+1 DEAT Y
+1 FAMS @F500248@
+1 FAMC @F500252@
+1 RIN MH:I500345
+1 _UID 5730aa07568311e6a24a206a8a90918e
+0 @I500346@ INDI
+1 NAME Barbara /Borkowska/
+2 GIVN Barbara
+2 SURN Borkowska
+2 _MARNM Kamieńska
+1 SEX F
+1 BIRT
+2 DATE 1794
+1 DEAT Y
+1 FAMS @F500248@
+1 RIN MH:I500346
+1 _UID 5730aa07a303b1e6a24a206a8a90918e
+0 @I500347@ INDI
+1 NAME Szymon /Więckowski/
+2 GIVN Szymon
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1802
+2 PLAC Pogorzałki
+1 DEAT Y
+1 FAMS @F500249@
+1 FAMC @F500250@
+1 RIN MH:I500347
+1 _UID 5730aa07215321e6a24a206a8a90918e
+0 @I500348@ INDI
+1 NAME Agnieszka /Kitlas/
+2 GIVN Agnieszka
+2 SURN Kitlas
+2 _MARNM Więckowska
+1 SEX F
+1 DEAT Y
+2 DATE 1853
+1 BURI
+2 PLAC Dobrzyniewo
+1 BIRT
+2 PLAC Kozińce
+1 FAMS @F500249@
+1 FAMC @F500251@
+1 RIN MH:I500348
+1 _UID 5730aa07e1d021e6a24a206a8a90918e
+0 @I500349@ INDI
+1 NAME Michał /Więckowski/
+2 GIVN Michał
+2 SURN Więckowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500250@
+1 FAMC @F500255@
+1 RIN MH:I500349
+1 _UID 5730aa07e71f91e6a24a206a8a90918e
+0 @I500350@ INDI
+1 NAME Rozalia //
+2 GIVN Rozalia
+2 _MARNM Więckowska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500250@
+1 RIN MH:I500350
+1 _UID 5730aa07a0bfe1e6a24a206a8a90918e
+0 @I500351@ INDI
+1 NAME Maciej /Kitlas/
+2 GIVN Maciej
+2 SURN Kitlas
+1 SEX M
+1 FAMS @F500251@
+1 RIN MH:I500351
+1 _UID 5730aa092c4341e6a24a206a8a90918e
+0 @I500352@ INDI
+1 NAME Marcin /Kamieński/
+2 GIVN Marcin
+2 SURN Kamieński
+1 SEX M
+1 BIRT
+2 DATE 1759
+1 DEAT Y
+1 FAMS @F500252@
+1 RIN MH:I500352
+1 _UID 5730aa09568311e6a24a206a8a90918e
+0 @I500353@ INDI
+1 NAME Agata /Jackowska/
+2 GIVN Agata
+2 SURN Jackowska
+2 _MARNM Kamieńska
+1 SEX F
+1 BIRT
+2 DATE 1768
+1 DEAT Y
+1 FAMS @F500252@
+1 RIN MH:I500353
+1 _UID 5730aa0c6be331e6a24a206a8a90918e
+0 @I500354@ INDI
+1 NAME Izydor /Więckowski/
+2 GIVN Izydor
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+1 FAMC @F24@
+1 RIN MH:I500354
+1 _UID 5730aa0ca303b1e6a24a206a8a90918e
+0 @I500355@ INDI
+1 NAME Krzysztof /Więckowski/
+2 GIVN Krzysztof
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT Y
+2 DATE 1934
+2 AGE 18-19
+1 FAMC @F24@
+1 RIN MH:I500355
+1 _UID 5730aa0d568311e6a24a206a8a90918e
+0 @I500356@ INDI
+1 NAME Józef /Więckowski/
+2 GIVN Józef
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1918
+1 DEAT Y
+1 FAMC @F24@
+1 RIN MH:I500356
+1 _UID 5730aa0de4a3c1e6a24a206a8a90918e
+0 @I500358@ INDI
+1 NAME Henryk /Więckowski/
+2 GIVN Henryk
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1921
+1 DEAT Y
+2 DATE 1922
+2 AGE 0-1
+1 FAMC @F24@
+1 RIN MH:I500358
+1 _UID 5730aa0e2c4341e6a24a206a8a90918e
+0 @I500359@ INDI
+1 NAME Henryka /Więckowska/
+2 GIVN Henryka
+2 SURN Więckowska
+2 _MARNM Pukszta
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 DEAT Y
+1 FAMC @F24@
+1 RIN MH:I500359
+1 _UID 5730aa0e6be331e6a24a206a8a90918e
+0 @I500361@ INDI
+1 NAME Amelia /Więckowska/
+2 GIVN Amelia
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 DEAT Y
+1 FAMC @F500245@
+1 RIN MH:I500361
+1 _UID 5730aa13d9c3e1e6a24a206a8a90918e
+0 @I500362@ INDI
+1 NAME Feliks /Więckowski/
+2 GIVN Feliks
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 DEAT Y
+2 DATE 1884
+2 AGE 0-1
+1 FAMC @F500245@
+1 RIN MH:I500362
+1 _UID 5730aa192c4341e6a24a206a8a90918e
+0 @I500363@ INDI
+1 NAME Adolf /Więckowski/
+2 GIVN Adolf
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT Y
+1 FAMC @F500245@
+1 RIN MH:I500363
+1 _UID 5730aa1e112361e6a24a206a8a90918e
+0 @I500364@ INDI
+1 NAME Anna /Więckowska/
+2 GIVN Anna
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1894
+1 DEAT Y
+2 DATE 1898
+2 AGE 3-4
+1 FAMC @F500245@
+1 RIN MH:I500364
+1 _UID 5730aa1ed9c3e1e6a24a206a8a90918e
+0 @I500365@ INDI
+1 NAME Władysław /Więckowski/
+2 GIVN Władysław
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1900
+1 DEAT Y
+2 DATE 1944
+2 AGE 43-44
+1 FAMC @F500245@
+1 RIN MH:I500365
+1 _UID 5730aa1f112361e6a24a206a8a90918e
+0 @I500366@ INDI
+1 _UPD 20 MAR 2017 15:22:04 GMT -0500 
+1 NAME Izabella /Więckowska/
+2 GIVN Izabella
+2 SURN Więckowska
+2 _MARNM Oniśko
+1 SEX F
+1 DEAT Y
+1 FAMC @F500245@
+1 RIN MH:I500366
+1 _UID 5730aa1fd9c3e1e6a24a206a8a90918e
+0 @I500367@ INDI
+1 NAME Jan /Rogalski/
+2 GIVN Jan
+2 SURN Rogalski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500254@
+1 RIN MH:I500367
+1 _UID 5730aa202c4341e6a24a206a8a90918e
+0 @I500368@ INDI
+1 NAME Katarzyna /Pieńkowska/
+2 GIVN Katarzyna
+2 SURN Pieńkowska
+2 _MARNM Rogalska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500254@
+1 RIN MH:I500368
+1 _UID 5730aa206be331e6a24a206a8a90918e
+0 @I500372@ INDI
+1 _UPD 4 OCT 2016 16:49:13 GMT -0500 
+1 NAME Mikołaj /Więckowski/
+2 GIVN Mikołaj
+2 SURN Więckowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500255@
+1 NOTE <p>http://szukajwarchiwach.pl/5/514/0/-/38/skan/full/iBV84ILUinQkNRNoH-Ckbw</p>
+1 RIN MH:I500372
+1 _UID 5730aa21d9c3e1e6a24a206a8a90918e
+0 @I500373@ INDI
+1 NAME Katarzyna /Więckowska/
+2 GIVN Katarzyna
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1852
+1 DEAT Y
+2 DATE 1854
+2 AGE 1-2
+1 FAMC @F500247@
+1 RIN MH:I500373
+1 _UID 5730aa29112361e6a24a206a8a90918e
+0 @I500374@ INDI
+1 NAME Józef /Więckowski/
+2 GIVN Józef
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1849
+1 DEAT Y
+2 DATE 1869
+2 AGE 19-20
+1 FAMC @F500247@
+1 RIN MH:I500374
+1 _UID 5730aa29d9c3e1e6a24a206a8a90918e
+0 @I500375@ INDI
+1 NAME Marianna /Więckowska/
+2 GIVN Marianna
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 DEAT Y
+1 FAMC @F500247@
+1 RIN MH:I500375
+1 _UID 5730aa299e6391e6a24a206a8a90918e
+0 @I500376@ INDI
+1 NAME Wojciech /Więckowska/
+2 GIVN Wojciech
+2 SURN Więckowska
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 DEAT Y
+2 DATE 1914
+2 AGE 53-54
+1 FAMS @F500259@
+1 FAMC @F500247@
+1 RIN MH:I500376
+1 _UID 5730aa2a568311e6a24a206a8a90918e
+0 @I500377@ INDI
+1 NAME Michał /Stęczniewski/
+2 GIVN Michał
+2 SURN Stęczniewski
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 DEAT Y
+2 DATE 1940
+2 AGE 54-55
+1 FAMC @F500256@
+1 RIN MH:I500377
+1 _UID 5730aa2aa303b1e6a24a206a8a90918e
+0 @I500378@ INDI
+1 NAME Władysław /Stęczniewski/
+2 GIVN Władysław
+2 SURN Stęczniewski
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 FAMS @F500256@
+1 RIN MH:I500378
+1 _UID 5730aa2a9e6391e6a24a206a8a90918e
+0 @I500379@ INDI
+1 NAME Teodozja /Kazowska/
+2 GIVN Teodozja
+2 SURN Kazowska
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+2 DATE 1955
+2 AGE 79-80
+1 FAMC @F500121@
+1 RIN MH:I500379
+1 _UID 5730aa31112361e6a24a206a8a90918e
+0 @I500380@ INDI
+1 NAME Stanisław /Kozłowski/
+2 GIVN Stanisław
+2 SURN Kozłowski
+1 SEX M
+1 BIRT
+2 DATE 1869
+1 DEAT Y
+1 FAMS @F500257@
+1 RIN MH:I500380
+1 _UID 5730aa31d9c3e1e6a24a206a8a90918e
+0 @I500382@ INDI
+1 NAME Wincenty /Tomaszek/
+2 GIVN Wincenty
+2 SURN Tomaszek
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 FAMC @F500233@
+1 RIN MH:I500382
+1 _UID 5730aa312930a1e6a24a206a8a90918e
+0 @I500383@ INDI
+1 NAME Józef /Tomaszek/
+2 GIVN Józef
+2 SURN Tomaszek
+1 SEX M
+1 BIRT
+2 DATE 1827
+1 DEAT Y
+1 FAMC @F500233@
+1 RIN MH:I500383
+1 _UID 5730aa3153f0f1e6a24a206a8a90918e
+0 @I500384@ INDI
+1 NAME Łukasz /Tomaszek/
+2 GIVN Łukasz
+2 SURN Tomaszek
+1 SEX M
+1 BIRT
+2 DATE 1828
+1 DEAT Y
+1 FAMS @F500338@
+1 FAMC @F500233@
+1 RIN MH:I500384
+1 _UID 5730aa319b1071e6a24a206a8a90918e
+0 @I500387@ INDI
+1 NAME Aleksandra /Więckowska/
+2 GIVN Aleksandra
+2 SURN Więckowska
+1 SEX F
+1 DEAT Y
+1 FAMC @F500249@
+1 RIN MH:I500387
+1 _UID 5730aa39a303b1e6a24a206a8a90918e
+0 @I500388@ INDI
+1 NAME Aniela /Polecka/
+2 GIVN Aniela
+2 SURN Polecka
+2 _MARNM Więckowska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500259@
+1 RIN MH:I500388
+1 _UID 5730aa391c3301e6a24a206a8a90918e
+0 @I500390@ INDI
+1 _UPD 26 MAR 2017 07:43:09 GMT -0500 
+1 NAME Bronisław /Kazowski/
+2 GIVN Bronisław
+2 SURN Kazowski
+1 SEX M
+1 BIRT
+2 DATE 1845
+1 FAMS @F500261@
+1 FAMC @F500329@
+1 RIN MH:I500390
+1 _UID 5730aa40112361e6a24a206a8a90918e
+0 @I500391@ INDI
+1 NAME Regina /Rogowska/
+2 GIVN Regina
+2 SURN Rogowska
+2 _MARNM Stankiewicz
+1 SEX F
+1 DEAT Y
+1 FAMC @F10@
+1 RIN MH:I500391
+1 _UID 5731fb44ce8e71e6a24a206a8a90918e
+0 @I500392@ INDI
+1 NAME Zofia /Rogowska/
+2 GIVN Zofia
+2 SURN Rogowska
+2 _MARNM Kendra
+1 SEX F
+1 FAMC @F10@
+1 RIN MH:I500392
+1 _UID 5731fb44b44e21e6a24a206a8a90918e
+0 @I500396@ INDI
+1 NAME Józef /Rogowski/
+2 GIVN Józef
+2 SURN Rogowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500263@
+1 RIN MH:I500396
+1 _UID 5741a37a399b21e6a24d206a8a90918e
+0 @I500397@ INDI
+1 NAME Marianna //
+2 GIVN Marianna
+2 _MARNM Rogowska
+1 SEX F
+1 FAMS @F500263@
+1 RIN MH:I500397
+1 _UID 5741a37a7e3b51e6a24d206a8a90918e
+0 @I500398@ INDI
+1 NAME Gertruda /Rogowska/
+2 GIVN Gertruda
+2 SURN Rogowska
+2 _MARNM Słomińska
+1 SEX F
+1 FAMC @F10@
+1 RIN MH:I500398
+1 _UID 5741a37acc1b81e6a24d206a8a90918e
+0 @I500399@ INDI
+1 NAME Barbara /Rogowska/
+2 GIVN Barbara
+2 SURN Rogowska
+2 _MARNM Dybacka
+1 SEX F
+1 FAMC @F500263@
+1 RIN MH:I500399
+1 _UID 5741a37af17ba1e6a24d206a8a90918e
+0 @I500400@ INDI
+1 _UPD 11 DEC 2016 19:44:28 GMT -0500 
+1 NAME Agnieszka /Kulczyńska/
+2 GIVN Agnieszka
+2 SURN Kulczyńska
+2 _MARNM Winiewicz
+1 SEX F
+1 BIRT
+2 DATE 1833
+1 DEAT Y
+1 FAMS @F500271@
+1 FAMS @F500273@
+1 FAMC @F500264@
+1 RIN MH:I500400
+1 _UID 578d1edfcc0011e6a25b206a8a90918e
+0 @I500402@ INDI
+1 NAME Filip /Laudowicz/
+2 GIVN Filip
+2 SURN Laudowicz
+1 SEX M
+1 DEAT Y
+1 FAMC @F500110@
+1 RIN MH:I500402
+1 _UID 5790053dd29571e6a25b206a8a90918e
+0 @I500403@ INDI
+1 _UPD 26 MAR 2017 07:09:38 GMT -0500 
+1 NAME Helena /Kazowska/
+2 GIVN Helena
+2 SURN Kazowska
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1888
+1 FAMS @F500265@
+1 FAMC @F500317@
+1 RIN MH:I500403
+1 _UID 57929b70f1ff51e6a25b206a8a90918e
+0 @I500404@ INDI
+1 NAME  /Gendziorowski/
+2 SURN Gendziorowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500266@
+1 RIN MH:I500404
+1 _UID 579401312ec611e6a25b206a8a90918e
+0 @I500405@ INDI
+1 NAME Maria /Pużewska/
+2 GIVN Maria
+2 SURN Pużewska
+2 _MARNM Więckowska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500267@
+1 RIN MH:I500405
+1 _UID 57aa24d2571ce1e6a25e206a8a90918e
+0 @I500406@ INDI
+1 NAME Franciszek /Więckowski/
+2 GIVN Franciszek
+2 SURN Więckowski
+1 SEX M
+1 DEAT Y
+1 FAMC @F500250@
+1 RIN MH:I500406
+1 _UID 57ab76b9e22641e6a25e206a8a90918e
+0 @I500407@ INDI
+1 NAME Antoni /Więckowski/
+2 GIVN Antoni
+2 SURN Więckowski
+1 SEX M
+1 DEAT Y
+1 FAMC @F500250@
+1 RIN MH:I500407
+1 _UID 57ab76b9df4661e6a25e206a8a90918e
+0 @I500408@ INDI
+1 NAME Barbara /Więckowska/
+2 GIVN Barbara
+2 SURN Więckowska
+1 SEX F
+1 DEAT Y
+1 FAMC @F500250@
+1 RIN MH:I500408
+1 _UID 57ab76b9a58631e6a25e206a8a90918e
+0 @I500410@ INDI
+1 _UPD 26 MAR 2017 16:52:08 GMT -0500 
+1 NAME Eleonora /Gibasiewicz/
+2 GIVN Eleonora
+2 SURN Gibasiewicz
+2 _MARNM Gibasiewicz/Garyantesiewicz
+1 SEX F
+1 BIRT
+2 DATE 1848
+1 FAMS @F500268@
+1 FAMS @F500356@
+1 FAMC @F500357@
+1 RIN MH:I500410
+1 _UID 57F183AE984745C7B8F95C77ACAF96BD
+0 @I500411@ INDI
+1 _UPD 26 MAR 2017 07:08:03 GMT -0500 
+1 NAME Roman /Szczęsnowski/
+2 GIVN Roman
+2 SURN Szczęsnowski
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1876
+1 FAMS @F500269@
+1 FAMC @F500316@
+1 RIN MH:I500411
+1 _UID 57F40734EBF6C2427BB7E311E18BCD59
+0 @I500414@ INDI
+1 _UPD 16 NOV 2016 12:27:23 GMT -0500 
+1 NAME Rozalia /Droździel/
+2 GIVN Rozalia
+2 SURN Droździel
+1 SEX F
+1 FAMC @F11@
+1 RIN MH:I500414
+1 _UID 582CA50AE53C291E80FBDB5E4841DD33
+0 @I500416@ INDI
+1 _UPD 8 DEC 2016 17:04:57 GMT -0500 
+1 NAME Franciszek /Mazur/
+2 GIVN Franciszek
+2 SURN Mazur
+1 SEX M
+1 BIRT
+2 DATE 1923
+1 FAMS @F500230@
+1 RIN MH:I500416
+1 _UID 5849E71980321459AD4169FF81DDD58B
+0 @I500417@ INDI
+1 _UPD 8 DEC 2016 17:05:46 GMT -0500 
+1 NAME Ewa //
+2 GIVN Ewa
+2 _MARNM Droździel
+1 SEX F
+1 FAMS @F500229@
+1 RIN MH:I500417
+1 _UID 5849E74AABF20D636ADE619E8592B001
+0 @I500418@ INDI
+1 _UPD 11 DEC 2016 19:24:39 GMT -0500 
+1 NAME Wincenty Mikołaj /Laudowicz/
+2 GIVN Wincenty Mikołaj
+2 SURN Laudowicz
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 FAMS @F500324@
+1 FAMC @F500242@
+1 RIN MH:I500418
+1 _UID 584DFAB963907337E8A551BA45280FAB
+0 @I500419@ INDI
+1 _UPD 26 MAR 2017 07:28:04 GMT -0500 
+1 NAME Maria /Laudowicz/
+2 GIVN Maria
+2 SURN Laudowicz
+2 _MARNM Trawiński
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 FAMS @F500323@
+1 FAMC @F500242@
+1 RIN MH:I500419
+1 _UID 584DFCCA86AEB3010C81B8DFB7F775A7
+0 @I500420@ INDI
+1 _UPD 11 DEC 2016 19:34:56 GMT -0500 
+1 NAME Paweł /Kulczyński/
+2 GIVN Paweł
+2 SURN Kulczyński
+1 SEX M
+1 FAMS @F500264@
+1 RIN MH:I500420
+1 _UID 584DFEC04EE13D565D9A962E3914C3B4
+0 @I500421@ INDI
+1 _UPD 25 MAR 2017 21:01:16 GMT -0500 
+1 NAME Jan /Winiewicz/
+2 GIVN Jan
+2 SURN Winiewicz
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 FAMS @F500271@
+1 FAMC @F500308@
+1 RIN MH:I500421
+1 _UID 584DFEE4271D01783D262745F322470F
+0 @I500424@ INDI
+1 _UPD 11 DEC 2016 19:37:16 GMT -0500 
+1 NAME Konstanty /Sosiński/
+2 GIVN Konstanty
+2 SURN Sosiński
+1 SEX M
+1 FAMS @F500273@
+1 RIN MH:I500424
+1 _UID 584DFF4BE4A827A8EF33C5CB8D286A96
+0 @I500425@ INDI
+1 _UPD 25 MAR 2017 20:58:32 GMT -0500 
+1 NAME Tekla /Winiewicz/
+2 GIVN Tekla
+2 SURN Winiewicz
+2 _MARNM Drygas
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 FAMS @F500365@
+1 FAMC @F500271@
+1 RIN MH:I500425
+1 _UID 584DFF7424642705CAE51D0E88955DFF
+0 @I500430@ INDI
+1 _UPD 15 DEC 2016 06:36:01 GMT -0500 
+1 NAME  /Kurkiewicz/
+2 SURN Kurkiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500275@
+1 RIN MH:I500430
+1 _UID 58528DC11DB53F0DF19E8A04421D0448
+0 @I500431@ INDI
+1 _UPD 15 DEC 2016 06:37:10 GMT -0500 
+1 NAME Walenty /Laudowicz/
+2 GIVN Walenty
+2 SURN Laudowicz
+1 SEX M
+1 BIRT
+2 DATE 1848
+1 DEAT Y
+1 FAMS @F500349@
+1 FAMC @F500120@
+1 RIN MH:I500431
+1 _UID 58528E76AD25F37DC7E3A6B2784E8E85
+0 @I500433@ INDI
+1 _UPD 7 MAR 2017 06:40:24 GMT -0500 
+1 NAME Marianna /Józefowicz/
+2 GIVN Marianna
+2 SURN Józefowicz
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1784
+1 FAMS @F500114@
+1 FAMC @F500276@
+1 RIN MH:I500433
+1 _UID 58BEAA0DF33A28D705F68331028EEDDC
+0 @I500434@ INDI
+1 _UPD 7 MAR 2017 06:40:24 GMT -0500 
+1 NAME Urszula //
+2 GIVN Urszula
+2 _MARNM Józefowicz
+1 SEX F
+1 FAMS @F500276@
+1 RIN MH:I500434
+1 _UID 58BEAA37E61DCEF3FD7ECC8A2D891EF1
+0 @I500435@ INDI
+1 _UPD 7 MAR 2017 06:40:40 GMT -0500 
+1 NAME Franciszek /Józefowicz/
+2 GIVN Franciszek
+2 SURN Józefowicz
+1 SEX M
+1 FAMS @F500276@
+1 RIN MH:I500435
+1 _UID 58BEAA48B542EA218FA1145D52774767
+0 @I500436@ INDI
+1 _UPD 7 MAR 2017 06:41:10 GMT -0500 
+1 NAME Michał /Siwczyński/
+2 GIVN Michał
+2 SURN Siwczyński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500277@
+1 RIN MH:I500436
+1 _UID 58BEAA6695242DFA67DE709C74C9DF0A
+0 @I500437@ INDI
+1 _UPD 7 MAR 2017 06:41:23 GMT -0500 
+1 NAME Marianna //
+2 GIVN Marianna
+2 _MARNM Siwczyńska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500277@
+1 RIN MH:I500437
+1 _UID 58BEAA738BE515D5E6B51E7B01F0D388
+0 @I500438@ INDI
+1 _UPD 13 MAR 2017 21:33:46 GMT -0500 
+1 NAME Ignacy /Machnik/
+2 GIVN Ignacy
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1858
+1 FAMS @F500278@
+1 FAMS @F500282@
+1 FAMC @F500279@
+1 RIN MH:I500438
+1 _UID 58C750BFD039D8CCF7B12DB8BD74CEAC
+0 @I500439@ INDI
+1 _UPD 13 MAR 2017 21:34:19 GMT -0500 
+1 NAME Franciszka /Marszałkiewicz/
+2 GIVN Franciszka
+2 SURN Marszałkiewicz
+2 _MARNM Machnik
+1 SEX F
+1 BIRT
+2 DATE 1878
+1 FAMS @F500278@
+1 FAMC @F500280@
+1 RIN MH:I500439
+1 _UID 58C750D25C2393526BE59CBF6B481328
+0 @I500440@ INDI
+1 _UPD 13 MAR 2017 21:53:11 GMT -0500 
+1 NAME Chryzostom /Machnik/
+2 GIVN Chryzostom
+2 SURN Machnik
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1824
+1 FAMS @F500279@
+1 FAMC @F500284@
+1 RIN MH:I500440
+1 _UID 58C7568AC547FCF76D10C0C41994DECD
+0 @I500441@ INDI
+1 _UPD 13 MAR 2017 21:52:35 GMT -0500 
+1 NAME Agata /Sosińska/
+2 GIVN Agata
+2 SURN Sosińska
+2 _MARNM Machnik
+1 SEX F
+1 DEAT Y
+2 DATE 1876
+1 BIRT
+2 DATE 1829
+1 FAMS @F500279@
+1 FAMC @F500283@
+1 RIN MH:I500441
+1 _UID 58C7569D19808E02E19E2DFCB7611102
+0 @I500442@ INDI
+1 _UPD 13 MAR 2017 22:22:21 GMT -0500 
+1 NAME Lorenz Wawrzyn /Marszałkiewicz/
+2 GIVN Lorenz Wawrzyn
+2 SURN Marszałkiewicz
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1829
+1 FAMS @F500280@
+1 FAMC @F500288@
+1 RIN MH:I500442
+1 _UID 58C756AB0C4530CA55CD7DF744F449E3
+0 @I500443@ INDI
+1 _UPD 13 MAR 2017 22:21:17 GMT -0500 
+1 NAME Wiktoria Wincenta /Kokot/
+2 GIVN Wiktoria Wincenta
+2 SURN Kokot
+2 _MARNM Marszałkiewicz
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1837
+1 FAMS @F500280@
+1 FAMC @F500287@
+1 RIN MH:I500443
+1 _UID 58C756BF15444A4C756653A8C85EF46A
+0 @I500444@ INDI
+1 _UPD 13 MAR 2017 21:35:28 GMT -0500 
+1 NAME Kazimierz /Machnik/
+2 GIVN Kazimierz
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 DEAT Y
+1 FAMC @F500278@
+1 RIN MH:I500444
+1 _UID 58C756F069B323129B91AF83AFD24019
+0 @I500445@ INDI
+1 _UPD 13 MAR 2017 21:35:44 GMT -0500 
+1 NAME Anna /Machnik/
+2 GIVN Anna
+2 SURN Machnik
+1 SEX F
+1 BIRT
+2 DATE 1906
+1 FAMC @F500278@
+1 RIN MH:I500445
+1 _UID 58C75700394FB1C6F1A5932CE20236A4
+0 @I500446@ INDI
+1 _UPD 13 MAR 2017 21:36:22 GMT -0500 
+1 NAME Marianna /Machnik/
+2 GIVN Marianna
+2 SURN Machnik
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 FAMS @F500281@
+1 FAMC @F500278@
+1 RIN MH:I500446
+1 _UID 58C7571A020D02FE0B5FB26A9BCAA345
+0 @I500447@ INDI
+1 _UPD 13 MAR 2017 21:37:20 GMT -0500 
+1 NAME Janina Kazimiera /Machnik/
+2 GIVN Janina Kazimiera
+2 SURN Machnik
+1 SEX F
+1 BIRT
+2 DATE 1942
+1 FAMC @F500281@
+1 RIN MH:I500447
+1 _UID 58C7575FE86F056F400D19F1E21BC220
+0 @I500448@ INDI
+1 _UPD 13 MAR 2017 21:37:19 GMT -0500 
+1 NAME  //
+1 SEX M
+1 FAMS @F500281@
+1 RIN MH:I500448
+1 _UID 58C7575FF2620570400D19F1E21BC220
+0 @I500449@ INDI
+1 _UPD 13 MAR 2017 21:37:49 GMT -0500 
+1 NAME Stanisława /Machnik/
+2 GIVN Stanisława
+2 SURN Machnik
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 FAMC @F500278@
+1 RIN MH:I500449
+1 _UID 58C7577D77B02F072717CF69A6741EB2
+0 @I500451@ INDI
+1 _UPD 13 MAR 2017 21:38:45 GMT -0500 
+1 NAME Stefania /Machnik/
+2 GIVN Stefania
+2 SURN Machnik
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 FAMC @F500278@
+1 RIN MH:I500451
+1 _UID 58C757B5A3BB7DA9AD78A11B777EFC29
+0 @I500452@ INDI
+1 _UPD 14 MAR 2017 06:46:45 GMT -0500 
+1 NAME Katarzyna /Szczęsnowska/
+2 GIVN Katarzyna
+2 SURN Szczęsnowska
+2 _MARNM Machnik
+1 SEX F
+1 BIRT
+2 DATE 1858
+1 DEAT Y
+1 FAMS @F500282@
+1 RIN MH:I500452
+1 _UID 58C759A9226C5339F3560A032A6FBE4B
+0 @I500453@ INDI
+1 _UPD 13 MAR 2017 21:52:35 GMT -0500 
+1 NAME Kazimierz /Sosiński/
+2 GIVN Kazimierz
+2 SURN Sosiński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500283@
+1 RIN MH:I500453
+1 _UID 58C75AF358EFBD2540C69DE9F4486230
+0 @I500454@ INDI
+1 _UPD 13 MAR 2017 21:52:50 GMT -0500 
+1 NAME Rozalia //
+2 GIVN Rozalia
+2 _MARNM Sosińska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500283@
+1 RIN MH:I500454
+1 _UID 58C75B02B9609728B211792C55D60AD5
+0 @I500455@ INDI
+1 _UPD 13 MAR 2017 21:53:11 GMT -0500 
+1 NAME Marcin /Machnik/
+2 GIVN Marcin
+2 SURN Machnik
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1788
+1 FAMS @F500284@
+1 RIN MH:I500455
+1 _UID 58C75B174703CEE70445AE2BDB50E353
+0 @I500456@ INDI
+1 _UPD 13 MAR 2017 22:04:24 GMT -0500 
+1 NAME Margaretha /Miśkiewicz/
+2 GIVN Margaretha
+2 SURN Miśkiewicz
+2 _MARNM Machnik
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1794
+1 FAMS @F500284@
+1 RIN MH:I500456
+1 _UID 58C75B25001E4A00658B1183C5D9BFFF
+0 @I500457@ INDI
+1 _UPD 13 MAR 2017 21:54:00 GMT -0500 
+1 NAME Piotr /Machnik/
+2 GIVN Piotr
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1850
+1 DEAT Y
+1 FAMC @F500279@
+1 RIN MH:I500457
+1 _UID 58C75B4879BC90628F7285F1C084E5B9
+0 @I500458@ INDI
+1 _UPD 13 MAR 2017 21:55:02 GMT -0500 
+1 NAME Pelagia /Machnik/
+2 GIVN Pelagia
+2 SURN Machnik
+2 _MARNM Dułaj
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1866
+1 FAMC @F500279@
+1 RIN MH:I500458
+1 _UID 58C75B866DE8A339A26F8EF0DABAFBF1
+0 @I500459@ INDI
+1 _UPD 13 MAR 2017 21:57:48 GMT -0500 
+1 NAME Teodozja /Machnik/
+2 GIVN Teodozja
+2 SURN Machnik
+2 _MARNM Grocholska
+1 SEX F
+1 BIRT
+2 DATE 1863
+1 DEAT Y
+1 FAMC @F500279@
+1 RIN MH:I500459
+1 _UID 58C75C2C3E42E0B423D992FA0AC7B987
+0 @I500460@ INDI
+1 _UPD 13 MAR 2017 22:02:46 GMT -0500 
+1 NAME Konstancja /Laudowicz/
+2 GIVN Konstancja
+2 SURN Laudowicz
+2 _MARNM Sebel
+1 SEX F
+1 DEAT Y
+1 FAMS @F500285@
+1 FAMC @F500120@
+1 RIN MH:I500460
+1 _UID 58C75D562C09C8833025AA44475820CB
+0 @I500461@ INDI
+1 _UPD 26 MAR 2017 16:31:50 GMT -0500 
+1 NAME Jan /Sebel/
+2 GIVN Jan
+2 SURN Sebel
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 FAMS @F500285@
+1 FAMS @F500347@
+1 FAMC @F500348@
+1 RIN MH:I500461
+1 _UID 58C75D6EB391FA5DE75DE008BB73B93B
+0 @I500462@ INDI
+1 _UPD 13 MAR 2017 22:06:42 GMT -0500 
+1 NAME Konstancja /Machnik/
+2 GIVN Konstancja
+2 SURN Machnik
+2 _MARNM Waldowski
+1 SEX F
+1 BIRT
+2 DATE 1833
+1 DEAT Y
+1 FAMS @F500286@
+1 FAMC @F500284@
+1 RIN MH:I500462
+1 _UID 58C75E41DA77DB85BE77AF2117700DA5
+0 @I500463@ INDI
+1 _UPD 13 MAR 2017 22:08:27 GMT -0500 
+1 NAME Marcianna /Waldowska/
+2 GIVN Marcianna
+2 SURN Waldowska
+2 _MARNM Wezorke
+1 SEX F
+1 DEAT Y
+1 FAMC @F500286@
+1 RIN MH:I500463
+1 _UID 58C75EAAC5B3BB94E7C06F2E3F702FA4
+0 @I500464@ INDI
+1 _UPD 22 MAR 2017 19:02:03 GMT -0500 
+1 NAME Andrzej /Waldowski/
+2 GIVN Andrzej
+2 SURN Waldowski
+1 SEX M
+1 FAMS @F500286@
+1 FAMC @F500297@
+1 RIN MH:I500464
+1 _UID 58C75EAACF300B95E7C06F2E3F702FA4
+0 @I500465@ INDI
+1 _UPD 13 MAR 2017 22:15:47 GMT -0500 
+1 NAME Marianna /Marszałkiewicz/
+2 GIVN Marianna
+2 SURN Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1876
+1 FAMC @F500280@
+1 RIN MH:I500465
+1 _UID 58C76062BE995BCDDA190EA96B3978DD
+0 @I500466@ INDI
+1 _UPD 13 MAR 2017 22:19:34 GMT -0500 
+1 NAME Michalina /Marszałkiewicz/
+2 GIVN Michalina
+2 SURN Marszałkiewicz
+2 _MARNM Garyantesiewicz
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 FAMS @F500304@
+1 FAMC @F500280@
+1 RIN MH:I500466
+1 _UID 58C761461372E6CD2F8653952FAF00BF
+0 @I500467@ INDI
+1 _UPD 25 MAR 2017 20:36:45 GMT -0500 
+1 NAME Mateusz /Kokot/
+2 GIVN Mateusz
+2 SURN Kokot
+1 SEX M
+1 BIRT
+2 DATE 1807
+1 DEAT Y
+2 DATE 1880
+1 FAMS @F500287@
+1 FAMC @F500306@
+1 RIN MH:I500467
+1 _UID 58C761AD82166F200D3D3B34EFF518AF
+0 @I500468@ INDI
+1 _UPD 25 MAR 2017 20:39:52 GMT -0500 
+1 NAME Wiktoria /Sławińska/
+2 GIVN Wiktoria
+2 SURN Sławińska
+2 _MARNM Kokot
+1 SEX F
+1 BIRT
+2 DATE 1816
+1 DEAT Y
+2 DATE 1875
+1 FAMS @F500287@
+1 FAMC @F500307@
+1 RIN MH:I500468
+1 _UID 58C761C73CA88B03E9D81FED5A96C534
+0 @I500469@ INDI
+1 _UPD 13 MAR 2017 22:22:22 GMT -0500 
+1 NAME Andrzej /Marszałkiewicz/
+2 GIVN Andrzej
+2 SURN Marszałkiewicz
+1 SEX M
+1 FAMS @F500288@
+1 RIN MH:I500469
+1 _UID 58C761EDE1BD4845D6162D1F37E4F778
+0 @I500470@ INDI
+1 _UPD 13 MAR 2017 22:22:53 GMT -0500 
+1 NAME Marcianna /Zajher/
+2 GIVN Marcianna
+2 SURN Zajher
+2 _MARNM Marszałkiewicz
+1 SEX F
+1 FAMS @F500288@
+1 RIN MH:I500470
+1 _UID 58C7620CDC0991D9AC212226BE2D6B03
+0 @I500471@ INDI
+1 _UPD 13 MAR 2017 22:24:15 GMT -0500 
+1 NAME Jan /Marszałkiewicz/
+2 GIVN Jan
+2 SURN Marszałkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1827
+1 DEAT Y
+1 FAMS @F500289@
+1 FAMC @F500288@
+1 RIN MH:I500471
+1 _UID 58C7625F05FBF9B85950CE2B71531D82
+0 @I500472@ INDI
+1 _UPD 13 MAR 2017 22:25:05 GMT -0500 
+1 NAME Marcianna /Kokot/
+2 GIVN Marcianna
+2 SURN Kokot
+2 _MARNM Marszałkiewicz
+1 SEX F
+1 FAMS @F500289@
+1 FAMC @F500287@
+1 RIN MH:I500472
+1 _UID 58C76291329035090431E2AF1B8E037E
+0 @I500473@ INDI
+1 _UPD 13 MAR 2017 22:41:18 GMT -0500 
+1 NAME Bronisława /Kokot/
+2 GIVN Bronisława
+2 SURN Kokot
+2 _MARNM Orzeszyńska
+1 SEX F
+1 BIRT
+2 DATE 1853
+1 FAMS @F500303@
+1 FAMC @F500287@
+1 RIN MH:I500473
+1 _UID 58C7665E09F837110CF194D1804682C5
+0 @I500474@ INDI
+1 _UPD 13 MAR 2017 22:44:08 GMT -0500 
+1 NAME Franciszka /Marszałkiewicz/
+2 GIVN Franciszka
+2 SURN Marszałkiewicz
+2 _MARNM Śliwińska
+1 SEX F
+1 BIRT
+2 DATE 1871
+1 FAMC @F500289@
+1 RIN MH:I500474
+1 _UID 58C7670819028777E6BE1A34F5D3581F
+0 @I500475@ INDI
+1 _UPD 14 MAR 2017 07:20:47 GMT -0500 
+1 NAME Michalina /Marszałkiewicz/
+2 GIVN Michalina
+2 SURN Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1876
+1 DEAT Y
+2 DATE 1877
+1 FAMC @F500289@
+1 RIN MH:I500475
+1 _UID 58C7E01EE79E5DF21734267801A8D03E
+0 @I500476@ INDI
+1 _UPD 14 MAR 2017 07:22:06 GMT -0500 
+1 NAME Józef /Marszałkiewicz/
+2 GIVN Józef
+2 SURN Marszałkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT Y
+2 DATE 1878
+1 FAMC @F500289@
+1 RIN MH:I500476
+1 _UID 58C7E06E58FF4605CA4521CDB9E7B854
+0 @I500477@ INDI
+1 _UPD 14 MAR 2017 08:58:55 GMT -0500 
+1 NAME Leon /Machnik/
+2 GIVN Leon
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1887
+1 DEAT Y
+1 FAMC @F500282@
+1 RIN MH:I500477
+1 _UID 58C7F71ED3954993955C5B7282F9BB1B
+0 @I500478@ INDI
+1 _UPD 14 MAR 2017 08:59:23 GMT -0500 
+1 NAME Stanisław /Machnik/
+2 GIVN Stanisław
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT Y
+1 FAMC @F500282@
+1 RIN MH:I500478
+1 _UID 58C7F73B36D749005E226439B7048600
+0 @I500479@ INDI
+1 _UPD 14 MAR 2017 18:00:13 GMT -0500 
+1 NAME Józef /Kołodziej/
+2 GIVN Józef
+2 SURN Kołodziej
+1 SEX M
+1 BIRT
+2 DATE 1864
+1 DEAT Y
+2 DATE 1957
+1 FAMS @F500290@
+1 FAMC @F500291@
+1 RIN MH:I500479
+1 _UID 58C873ABB73C4D81C9B1EB5B16B633D5
+0 @I500480@ INDI
+1 _UPD 14 MAR 2017 18:01:19 GMT -0500 
+1 NAME Barbara /Ertel/
+2 GIVN Barbara
+2 SURN Ertel
+2 _MARNM Kołodziej
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 DEAT Y
+2 DATE 1946
+1 FAMS @F500290@
+1 FAMC @F500292@
+1 RIN MH:I500480
+1 _UID 58C873C92067D084044302B67C27F689
+0 @I500481@ INDI
+1 _UPD 14 MAR 2017 18:00:13 GMT -0500 
+1 NAME Antoni /Kołodziej/
+2 GIVN Antoni
+2 SURN Kołodziej
+1 SEX M
+1 DEAT Y
+2 DATE 1892
+2 PLAC Tarchały Stare
+1 BIRT
+2 DATE 1815
+1 FAMS @F500291@
+1 RIN MH:I500481
+1 _UID 58C875FD4B92C605B19DCAE1830911B5
+0 @I500482@ INDI
+1 _UPD 14 MAR 2017 18:30:40 GMT -0500 
+1 NAME Marianna /Jędrzejak/
+2 GIVN Marianna
+2 SURN Jędrzejak
+2 _MARNM Kołodziej
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1834
+1 FAMS @F500291@
+1 RIN MH:I500482
+1 _UID 58C8761400F4F7016C201AA40C46F5E4
+0 @I500483@ INDI
+1 _UPD 17 MAR 2017 16:49:59 GMT -0500 
+1 NAME Józef /Ertel/
+2 GIVN Józef
+2 SURN Ertel
+1 SEX M
+1 DEAT Y
+2 DATE 1912
+1 BIRT
+2 DATE 1834
+1 FAMS @F500292@
+1 FAMC @F500294@
+1 RIN MH:I500483
+1 _UID 58C8763FB7BE0DCE340688E86CCC0E08
+0 @I500484@ INDI
+1 _UPD 14 MAR 2017 18:01:34 GMT -0500 
+1 NAME Agnieszka /Janas/
+2 GIVN Agnieszka
+2 SURN Janas
+2 _MARNM Ertel
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1840
+1 FAMS @F500292@
+1 RIN MH:I500484
+1 _UID 58C8764DE22CC19F6DEE0DD7883372EE
+0 @I500485@ INDI
+1 _UPD 14 MAR 2017 18:04:49 GMT -0500 
+1 NAME Jadwiga /Ertel/
+2 GIVN Jadwiga
+2 SURN Ertel
+1 SEX F
+1 BIRT
+2 DATE 1890
+1 DEAT Y
+1 FAMC @F500292@
+1 RIN MH:I500485
+1 _UID 58C87711030A99FDB06B136BAA423742
+0 @I500486@ INDI
+1 _UPD 14 MAR 2017 18:05:12 GMT -0500 
+1 NAME Jan /Ertel/
+2 GIVN Jan
+2 SURN Ertel
+1 SEX M
+1 BIRT
+2 DATE 1891
+1 FAMC @F500292@
+1 RIN MH:I500486
+1 _UID 58C877288BB2E94E453C5BBBAD5325FF
+0 @I500487@ INDI
+1 _UPD 14 MAR 2017 18:05:36 GMT -0500 
+1 NAME Julia /Ertel/
+2 GIVN Julia
+2 SURN Ertel
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 FAMC @F500292@
+1 RIN MH:I500487
+1 _UID 58C8773FA4D3F3269BA2F73E5562ABF7
+0 @I500488@ INDI
+1 _UPD 14 MAR 2017 18:21:02 GMT -0500 
+1 NAME Tomasz /Kołodziej/
+2 GIVN Tomasz
+2 SURN Kołodziej
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 DEAT Y
+2 DATE 1890
+1 FAMC @F500291@
+1 RIN MH:I500488
+1 _UID 58C87ADE127617D7C006465A0945B440
+0 @I500489@ INDI
+1 _UPD 14 MAR 2017 18:24:32 GMT -0500 
+1 NAME Franciszka /Kołodziej/
+2 GIVN Franciszka
+2 SURN Kołodziej
+2 _MARNM Podlaska (Kierzek)
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+1 FAMC @F500291@
+1 RIN MH:I500489
+1 _UID 58C87BB000505846D5CBD7D1D08AAC4E
+0 @I500490@ INDI
+1 _UPD 14 MAR 2017 18:25:28 GMT -0500 
+1 NAME Agnieszka /Kołodziej/
+2 GIVN Agnieszka
+2 SURN Kołodziej
+2 _MARNM Jasik
+1 SEX F
+1 BIRT
+2 DATE 1859
+1 DEAT Y
+1 FAMC @F500291@
+1 RIN MH:I500490
+1 _UID 58C87BE896A3505B160C08D8AD5C3C5C
+0 @I500491@ INDI
+1 _UPD 14 MAR 2017 18:26:10 GMT -0500 
+1 NAME Elżbieta /Kołodziej/
+2 GIVN Elżbieta
+2 SURN Kołodziej
+2 _MARNM Bakuła
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 DEAT Y
+1 FAMC @F500291@
+1 RIN MH:I500491
+1 _UID 58C87C12A7B82EB3AAA92CA383CD2ADD
+0 @I500492@ INDI
+1 _UPD 15 MAR 2017 08:39:46 GMT -0500 
+1 NAME Stanisława /Kołodziej/
+2 GIVN Stanisława
+2 SURN Kołodziej
+2 _MARNM Gabryś
+1 SEX F
+1 BIRT
+2 DATE 1898
+1 DEAT Y
+2 DATE 1972
+1 FAMS @F500293@
+1 FAMC @F500290@
+1 RIN MH:I500492
+1 _UID 58C9429D637EC2950CB18A0B1E931DA9
+0 @I500493@ INDI
+1 _UPD 15 MAR 2017 08:40:55 GMT -0500 
+1 NAME Piotr /Gabryś/
+2 GIVN Piotr
+2 SURN Gabryś
+1 SEX M
+1 BIRT
+2 DATE 1897
+1 DEAT Y
+2 DATE 1950
+1 FAMS @F500293@
+1 RIN MH:I500493
+1 _UID 58C94467576BCB595F1159FF9EA6D0D9
+0 @I500494@ INDI
+1 _UPD 15 MAR 2017 08:41:28 GMT -0500 
+1 NAME Stefan /Gabryś/
+2 GIVN Stefan
+2 SURN Gabryś
+1 SEX M
+1 DEAT Y
+2 DATE 1988
+1 FAMC @F500293@
+1 RIN MH:I500494
+1 _UID 58C94487D328D5DAE1DFDF6EEF382E67
+0 @I500495@ INDI
+1 _UPD 15 MAR 2017 14:55:16 GMT -0500 
+1 NAME Anna /Gabryś/
+2 GIVN Anna
+2 SURN Gabryś
+1 SEX F
+1 FAMC @F500293@
+1 RIN MH:I500495
+1 _UID 58C99C247A2B8E7068D18033D429A306
+0 @I500496@ INDI
+1 _UPD 15 MAR 2017 14:55:26 GMT -0500 
+1 NAME Alicja /Gabryś/
+2 GIVN Alicja
+2 SURN Gabryś
+1 SEX F
+1 FAMC @F500293@
+1 RIN MH:I500496
+1 _UID 58C99C2E35977AB275536F80D2B876FF
+0 @I500497@ INDI
+1 _UPD 17 MAR 2017 16:56:41 GMT -0500 
+1 NAME Joanna /Detka/
+2 GIVN Joanna
+2 SURN Detka
+2 _MARNM Ertel
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1819
+1 FAMS @F500294@
+1 FAMC @F500296@
+1 RIN MH:I500497
+1 _UID 58CC5A0731B2912719D61BE9A8F91B4A
+0 @I500498@ INDI
+1 _UPD 17 MAR 2017 16:55:00 GMT -0500 
+1 NAME Jan /Ertel/
+2 GIVN Jan
+2 SURN Ertel
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1806
+1 FAMS @F500294@
+1 FAMC @F500295@
+1 RIN MH:I500498
+1 _UID 58CC5A3BEC1A5AD74E80A77C5D229C00
+0 @I500499@ INDI
+1 _UPD 17 MAR 2017 16:55:00 GMT -0500 
+1 NAME Jan /Ertel/
+2 GIVN Jan
+2 SURN Ertel
+1 SEX M
+1 FAMS @F500295@
+1 RIN MH:I500499
+1 _UID 58CC5B34061EA68E2552D9E9DC1C757A
+0 @I500500@ INDI
+1 _UPD 17 MAR 2017 16:56:41 GMT -0500 
+1 NAME Michał /Detka/
+2 GIVN Michał
+2 SURN Detka
+1 SEX M
+1 DEAT Y
+1 FAMS @F500296@
+1 RIN MH:I500500
+1 _UID 58CC5B999BF7BDD1E50A8B5687F49B29
+0 @I500501@ INDI
+1 _UPD 20 MAR 2017 15:22:32 GMT -0500 
+1 NAME Edward /Więckowski/
+2 GIVN Edward
+2 SURN Więckowski
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1908
+1 FAMC @F24@
+1 RIN MH:I500501
+1 _UID 58D03A0762DD8EF5849141A85209760F
+0 @I500502@ INDI
+1 _UPD 20 MAR 2017 15:23:19 GMT -0500 
+1 NAME Wanda /Więckowska/
+2 GIVN Wanda
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1923
+1 DEAT Y
+2 DATE 1923
+1 FAMC @F24@
+1 RIN MH:I500502
+1 _UID 58D03A37802527C7C6CDC72A7F379B09
+0 @I500503@ INDI
+1 _UPD 20 MAR 2017 15:23:39 GMT -0500 
+1 NAME Janina /Więckowska/
+2 GIVN Janina
+2 SURN Więckowska
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 DEAT Y
+2 DATE 1924
+1 FAMC @F24@
+1 RIN MH:I500503
+1 _UID 58D03A4B14937AE4DD2082335863E4A9
+0 @I500504@ INDI
+1 _UPD 21 MAR 2017 15:47:54 GMT -0500 
+1 NAME Marcela /Januszkiewicz/
+2 GIVN Marcela
+2 SURN Januszkiewicz
+2 _MARNM Śmieińska
+1 SEX F
+1 FAMS @F500124@
+1 RIN MH:I500504
+1 _UID 58D19179C13E9CEC9BC4F026635F0E11
+0 @I500505@ INDI
+1 _UPD 21 MAR 2017 15:49:18 GMT -0500 
+1 NAME Krystyna /Śmieińska/
+2 GIVN Krystyna
+2 SURN Śmieińska
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 FAMC @F7@
+1 RIN MH:I500505
+1 _UID 58D191CDF32D69476F35DD9F63FD6868
+0 @I500506@ INDI
+1 _UPD 22 MAR 2017 19:02:03 GMT -0500 
+1 NAME Józef /Waldowski/
+2 GIVN Józef
+2 SURN Waldowski
+1 SEX M
+1 FAMS @F500297@
+1 RIN MH:I500506
+1 _UID 58D3107B9EDDBE704DD766C50BBE851C
+0 @I500507@ INDI
+1 _UPD 22 MAR 2017 19:02:25 GMT -0500 
+1 NAME Agata /Kurkiewicz/
+2 GIVN Agata
+2 SURN Kurkiewicz
+2 _MARNM Waldowska
+1 SEX F
+1 FAMS @F500297@
+1 RIN MH:I500507
+1 _UID 58D310911A6B0E076FFB2BE0BD5745AC
+0 @I500508@ INDI
+1 _UPD 25 MAR 2017 19:55:57 GMT -0500 
+1 NAME Józef /Siwczyński/
+2 GIVN Józef
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+2 DATE 1955
+1 FAMS @F500298@
+1 FAMC @F500116@
+1 RIN MH:I500508
+1 _UID 58D7119D8FE82BAE575A66CE8EA348C7
+0 @I500509@ INDI
+1 _UPD 25 MAR 2017 19:56:23 GMT -0500 
+1 NAME Teodozja /Karolewska/
+2 GIVN Teodozja
+2 SURN Karolewska
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 DEAT Y
+2 DATE 1956
+1 FAMS @F500298@
+1 RIN MH:I500509
+1 _UID 58D711B758400FDDF97789E56ED2D0C7
+0 @I500510@ INDI
+1 _UPD 25 MAR 2017 19:56:58 GMT -0500 
+1 NAME Piotr /Siwczyński/
+2 GIVN Piotr
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1894
+1 DEAT Y
+2 DATE 1984
+1 FAMS @F500299@
+1 FAMC @F500298@
+1 RIN MH:I500510
+1 _UID 58D711DAA175D3784A5F7A353ABC6CB6
+0 @I500511@ INDI
+1 _UPD 25 MAR 2017 19:57:32 GMT -0500 
+1 NAME Anna /Podgórna/
+2 GIVN Anna
+2 SURN Podgórna
+2 _MARNM Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1911
+1 DEAT Y
+2 DATE 2009
+1 FAMS @F500299@
+1 RIN MH:I500511
+1 _UID 58D711FC77241CF552E307CBDE22F5E6
+0 @I500512@ INDI
+1 _UPD 25 MAR 2017 19:58:02 GMT -0500 
+1 NAME Daniela /Siwczyńska/
+2 GIVN Daniela
+2 SURN Siwczyńska
+2 _MARNM Machnik
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 DEAT Y
+2 DATE 2009
+1 FAMS @F500300@
+1 FAMC @F500299@
+1 RIN MH:I500512
+1 _UID 58D7121A31366C4D39F850331CF2FCE6
+0 @I500513@ INDI
+1 _UPD 25 MAR 2017 19:59:09 GMT -0500 
+1 NAME Teodor /Machnik/
+2 GIVN Teodor
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 DEAT Y
+2 DATE 1988
+1 FAMS @F500300@
+1 FAMC @F500301@
+1 RIN MH:I500513
+1 _UID 58D712355793837F8CF4CF1538A10452
+0 @I500514@ INDI
+1 _UPD 25 MAR 2017 19:58:41 GMT -0500 
+1 NAME Henryk /Machnik/
+2 GIVN Henryk
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMC @F500300@
+1 RIN MH:I500514
+1 _UID 58D7124184C7D4B9510C5B55FDA65B71
+0 @I500515@ INDI
+1 _UPD 25 MAR 2017 19:59:10 GMT -0500 
+1 NAME Franciszek /Machnik/
+2 GIVN Franciszek
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1897
+1 DEAT Y
+2 DATE 1963
+1 FAMS @F500301@
+1 RIN MH:I500515
+1 _UID 58D7125DD2175267A304E31F9BC34B7C
+0 @I500516@ INDI
+1 _UPD 25 MAR 2017 19:59:30 GMT -0500 
+1 NAME Franciszka /Szymańska/
+2 GIVN Franciszka
+2 SURN Szymańska
+2 _MARNM Machnik
+1 SEX F
+1 BIRT
+2 DATE 1901
+1 DEAT Y
+2 DATE 1981
+1 FAMS @F500301@
+1 RIN MH:I500516
+1 _UID 58D7127216211D51139C68A084F55660
+0 @I500517@ INDI
+1 _UPD 25 MAR 2017 20:00:55 GMT -0500 
+1 NAME Janina /Machnik/
+2 GIVN Janina
+2 SURN Machnik
+2 _MARNM Fengler
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 DEAT Y
+2 DATE 1994
+1 FAMS @F500302@
+1 FAMC @F500301@
+1 RIN MH:I500517
+1 _UID 58D712C797CF99612B73123E9F399530
+0 @I500518@ INDI
+1 _UPD 25 MAR 2017 20:01:32 GMT -0500 
+1 NAME Seweryna /Machnik/
+2 GIVN Seweryna
+2 SURN Machnik
+2 _MARNM Błaszczak
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 DEAT Y
+2 DATE 2009
+1 FAMC @F500301@
+1 RIN MH:I500518
+1 _UID 58D712EC1E50AC5C6492D4DAEC71DA96
+0 @I500519@ INDI
+1 _UPD 25 MAR 2017 20:01:52 GMT -0500 
+1 NAME Irena /Machnik/
+2 GIVN Irena
+2 SURN Machnik
+1 SEX F
+1 FAMC @F500301@
+1 RIN MH:I500519
+1 _UID 58D713006C8C8BAC611F6C06A2489193
+0 @I500520@ INDI
+1 _UPD 25 MAR 2017 20:03:49 GMT -0500 
+1 NAME Władysław /Fengler/
+2 GIVN Władysław
+2 SURN Fengler
+1 SEX M
+1 BIRT
+2 DATE 1919
+1 DEAT Y
+2 DATE 1982
+1 FAMS @F500302@
+1 RIN MH:I500520
+1 _UID 58D71364B3FB075DE8EE499FB1FC0C3B
+0 @I500521@ INDI
+1 _UPD 25 MAR 2017 20:06:53 GMT -0500 
+1 NAME Hiacynt /Orzeszyński/
+2 GIVN Hiacynt
+2 SURN Orzeszyński
+1 SEX M
+1 BIRT
+2 DATE 1853
+1 DEAT Y
+1 FAMS @F500303@
+1 RIN MH:I500521
+1 _UID 58D7142CB2EAE67787A8C0C73F10B032
+0 @I500522@ INDI
+1 _UPD 25 MAR 2017 20:11:44 GMT -0500 
+1 NAME Józefa /Marszałkiewicz/
+2 GIVN Józefa
+2 SURN Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+1 FAMC @F500289@
+1 RIN MH:I500522
+1 _UID 58D7155023E5308E63B982479AB51A6A
+0 @I500523@ INDI
+1 _UPD 25 MAR 2017 20:14:29 GMT -0500 
+1 NAME Teodor /Orzeszyński/
+2 GIVN Teodor
+2 SURN Orzeszyński
+1 SEX M
+1 BIRT
+2 DATE 1877
+1 DEAT Y
+2 DATE 1877
+1 FAMC @F500303@
+1 RIN MH:I500523
+1 _UID 58D715F59CA963A438A838DB573278AA
+0 @I500524@ INDI
+1 _UPD 25 MAR 2017 20:17:35 GMT -0500 
+1 NAME Eleonora /Orzeszyńska/
+2 GIVN Eleonora
+2 SURN Orzeszyńska
+1 SEX F
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+1 FAMC @F500303@
+1 RIN MH:I500524
+1 _UID 58D716AF6555BE8DDC2549390E6CCCE3
+0 @I500525@ INDI
+1 _UPD 25 MAR 2017 20:18:28 GMT -0500 
+1 NAME Bronisława /Marszałkiewicz/
+2 GIVN Bronisława
+2 SURN Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+2 DATE 1880
+1 FAMC @F500289@
+1 RIN MH:I500525
+1 _UID 58D716E3DB5B2D3B216B2D21566CF338
+0 @I500526@ INDI
+1 _UPD 25 MAR 2017 20:20:11 GMT -0500 
+1 NAME Maria /Orzeszyńska/
+2 GIVN Maria
+2 SURN Orzeszyńska
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 DEAT Y
+1 FAMC @F500303@
+1 RIN MH:I500526
+1 _UID 58D7174BA56FEA6116A3946C0A62A64B
+0 @I500527@ INDI
+1 _UPD 25 MAR 2017 20:21:22 GMT -0500 
+1 NAME Marcel /Garyantesiewicz/
+2 GIVN Marcel
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500304@
+1 RIN MH:I500527
+1 _UID 58D717926CE2216B2441E4A3265A811E
+0 @I500528@ INDI
+1 _UPD 25 MAR 2017 20:23:23 GMT -0500 
+1 NAME Franciszek /Kokot/
+2 GIVN Franciszek
+2 SURN Kokot
+1 SEX M
+1 BIRT
+2 DATE 1849
+1 FAMS @F500305@
+1 FAMC @F500287@
+1 RIN MH:I500528
+1 _UID 58D7180B5301B0B8344F9A07C1523AEA
+0 @I500529@ INDI
+1 _UPD 25 MAR 2017 20:24:02 GMT -0500 
+1 NAME Maria /Urbanowicz/
+2 GIVN Maria
+2 SURN Urbanowicz
+2 _MARNM Konieczna
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+1 FAMS @F500305@
+1 RIN MH:I500529
+1 _UID 58D71832482441B7C79DD6196ED51B7B
+0 @I500530@ INDI
+1 _UPD 25 MAR 2017 20:24:49 GMT -0500 
+1 NAME Katarzyna /Orzeszyńska/
+2 GIVN Katarzyna
+2 SURN Orzeszyńska
+1 SEX F
+1 BIRT
+2 DATE 1882
+1 DEAT Y
+2 DATE 1882
+1 FAMC @F500303@
+1 RIN MH:I500530
+1 _UID 58D718619C9E57F7AF1F025EBADD7776
+0 @I500531@ INDI
+1 _UPD 25 MAR 2017 20:25:29 GMT -0500 
+1 NAME Helena /Marszałkiewicz/
+2 GIVN Helena
+2 SURN Marszałkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1882
+1 DEAT Y
+1 FAMC @F500289@
+1 RIN MH:I500531
+1 _UID 58D7188909224A556A233E09DD7C38B5
+0 @I500532@ INDI
+1 _UPD 25 MAR 2017 20:26:21 GMT -0500 
+1 NAME Stanisław /Kokot/
+2 GIVN Stanisław
+2 SURN Kokot
+1 SEX M
+1 BIRT
+2 DATE 1882
+1 DEAT Y
+2 DATE 1883
+1 FAMC @F500305@
+1 RIN MH:I500532
+1 _UID 58D718BD4FA4C0E1C5A983612CFF52CE
+0 @I500533@ INDI
+1 _UPD 25 MAR 2017 20:28:04 GMT -0500 
+1 NAME Teodozja /Orzeszyńska/
+2 GIVN Teodozja
+2 SURN Orzeszyńska
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 DEAT Y
+1 FAMC @F500303@
+1 RIN MH:I500533
+1 _UID 58D71923C6A107EF750A599875925802
+0 @I500534@ INDI
+1 _UPD 25 MAR 2017 20:28:58 GMT -0500 
+1 NAME Aniela /Kokot/
+2 GIVN Aniela
+2 SURN Kokot
+1 SEX F
+1 BIRT
+2 DATE 1884
+1 DEAT Y
+1 FAMC @F500305@
+1 RIN MH:I500534
+1 _UID 58D7195A904B9F5F6DA4C1F6810E17DD
+0 @I500535@ INDI
+1 _UPD 25 MAR 2017 20:30:50 GMT -0500 
+1 NAME Franciszek /Orzeszyński/
+2 GIVN Franciszek
+2 SURN Orzeszyński
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT Y
+2 DATE 1886
+1 FAMC @F500303@
+1 RIN MH:I500535
+1 _UID 58D719C9D8A7AB9A197A9B444A6FA887
+0 @I500536@ INDI
+1 _UPD 25 MAR 2017 20:36:16 GMT -0500 
+1 NAME Adalbert /Kokot/
+2 GIVN Adalbert
+2 SURN Kokot
+1 SEX M
+1 FAMS @F500306@
+1 RIN MH:I500536
+1 _UID 58D71B10A18B240BC839B18EE0C09528
+0 @I500537@ INDI
+1 _UPD 25 MAR 2017 20:38:26 GMT -0500 
+1 NAME Marianna //
+2 GIVN Marianna
+1 SEX F
+1 FAMS @F500306@
+1 RIN MH:I500537
+1 _UID 58D71B20439161C556A93DD347ADD6C8
+0 @I500538@ INDI
+1 _UPD 25 MAR 2017 20:39:53 GMT -0500 
+1 NAME Franciszek /Sławiński/
+2 GIVN Franciszek
+2 SURN Sławiński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500307@
+1 RIN MH:I500538
+1 _UID 58D71BE8E5495176A59788C066480D70
+0 @I500539@ INDI
+1 _UPD 25 MAR 2017 20:40:00 GMT -0500 
+1 NAME Marianna //
+2 GIVN Marianna
+1 SEX F
+1 DEAT Y
+1 FAMS @F500307@
+1 RIN MH:I500539
+1 _UID 58D71BF09CBF3D35BEAB9B00F5996219
+0 @I500540@ INDI
+1 _UPD 25 MAR 2017 21:06:21 GMT -0500 
+1 NAME Ignacy /Winiewicz/
+2 GIVN Ignacy
+2 SURN Winiewicz
+1 SEX M
+1 BIRT
+2 DATE 1788
+1 FAMS @F500308@
+1 FAMC @F500311@
+1 RIN MH:I500540
+1 _UID 58D720C2A0274C7622675B122D1EC675
+0 @I500541@ INDI
+1 _UPD 25 MAR 2017 21:06:09 GMT -0500 
+1 NAME Krystyna /Morawska/
+2 GIVN Krystyna
+2 SURN Morawska
+2 _MARNM Winiewicz
+1 SEX F
+1 BIRT
+2 DATE 1791
+1 FAMS @F500308@
+1 FAMC @F500310@
+1 RIN MH:I500541
+1 _UID 58D720D4B895D7A20F4E073C60CF44E0
+0 @I500542@ INDI
+1 _UPD 25 MAR 2017 21:02:35 GMT -0500 
+1 NAME Elżbieta /Winiewicz/
+2 GIVN Elżbieta
+2 SURN Winiewicz
+2 _MARNM Szymańska
+1 SEX F
+1 BIRT
+2 DATE 1836
+1 DEAT Y
+1 FAMC @F500308@
+1 RIN MH:I500542
+1 _UID 58D721252FA23F1691726968B2BD20EF
+0 @I500543@ INDI
+1 _UPD 25 MAR 2017 21:03:29 GMT -0500 
+1 NAME Michał /Winiewicz/
+2 GIVN Michał
+2 SURN Winiewicz
+1 SEX M
+1 BIRT
+2 DATE 1816
+1 DEAT Y
+1 FAMS @F500309@
+1 FAMC @F500308@
+1 RIN MH:I500543
+1 _UID 58D72170E85FEA98919AE10EB589DECF
+0 @I500544@ INDI
+1 _UPD 25 MAR 2017 21:04:02 GMT -0500 
+1 NAME Marianna /Biela/
+2 GIVN Marianna
+2 SURN Biela
+1 SEX F
+1 BIRT
+2 DATE 1823
+1 DEAT Y
+1 FAMS @F500309@
+1 RIN MH:I500544
+1 _UID 58D72192954A739DD39C9FF70CA9DD34
+0 @I500545@ INDI
+1 _UPD 25 MAR 2017 21:06:09 GMT -0500 
+1 NAME Wojciech /Morawski/
+2 GIVN Wojciech
+2 SURN Morawski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500310@
+1 RIN MH:I500545
+1 _UID 58D7221182CB976040E3167F855B0F7D
+0 @I500546@ INDI
+1 _UPD 25 MAR 2017 21:06:21 GMT -0500 
+1 NAME Wojciech /Winiewicz/
+2 GIVN Wojciech
+2 SURN Winiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500311@
+1 RIN MH:I500546
+1 _UID 58D7221D35A4FC6A7756D4F82AC29BF4
+0 @I500547@ INDI
+1 _UPD 26 MAR 2017 06:55:34 GMT -0500 
+1 NAME Stefan/Szczepan /Siwczyński/
+2 GIVN Stefan/Szczepan
+2 SURN Siwczyński
+1 SEX M
+1 BIRT
+2 DATE 1874
+1 DEAT Y
+2 DATE 1875
+1 FAMC @F500117@
+1 RIN MH:I500547
+1 _UID 58D7AC35DBBB510BC58FF1735D59E0A0
+0 @I500548@ INDI
+1 _UPD 26 MAR 2017 06:57:03 GMT -0500 
+1 NAME Maria Józefa /Siwczyńska/
+2 GIVN Maria Józefa
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1876
+1 DEAT Y
+2 DATE 1876
+1 FAMC @F500117@
+1 RIN MH:I500548
+1 _UID 58D7AC8F18252C0EA618DC6456E97E99
+0 @I500549@ INDI
+1 _UPD 26 MAR 2017 07:26:46 GMT -0500 
+1 NAME Wojciech /Miśkiewicz/
+2 GIVN Wojciech
+2 SURN Miśkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1870
+1 DEAT Y
+1 FAMS @F500312@
+1 FAMC @F500322@
+1 RIN MH:I500549
+1 _UID 58D7AD5F5E8735A32DB88121FADBA99B
+0 @I500550@ INDI
+1 _UPD 26 MAR 2017 07:02:24 GMT -0500 
+1 NAME Praxeda /Gierszewicz/
+2 GIVN Praxeda
+2 SURN Gierszewicz
+1 SEX F
+1 BIRT
+2 DATE 1872
+1 DEAT Y
+1 FAMS @F500313@
+1 FAMC @F500314@
+1 RIN MH:I500550
+1 _UID 58D7ADC1DA68A7B700971987C848AFF4
+0 @I500551@ INDI
+1 _UPD 26 MAR 2017 07:02:24 GMT -0500 
+1 NAME Józef /Gierszewicz/
+2 GIVN Józef
+2 SURN Gierszewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500314@
+1 RIN MH:I500551
+1 _UID 58D7ADD073967AE4D4069DDBF0AEA681
+0 @I500552@ INDI
+1 _UPD 26 MAR 2017 07:02:37 GMT -0500 
+1 NAME Teodozja /Garyantesiewicz/
+2 GIVN Teodozja
+2 SURN Garyantesiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500314@
+1 RIN MH:I500552
+1 _UID 58D7ADDCD09C9BD80F347F77B4A1C233
+0 @I500553@ INDI
+1 _UPD 26 MAR 2017 16:40:36 GMT -0500 
+1 NAME Marcelina /Gibasiewicz/
+2 GIVN Marcelina
+2 SURN Gibasiewicz
+2 _MARNM Garyantesiewicz
+1 SEX F
+1 DEAT Y
+1 BIRT
+2 DATE 1842
+1 FAMS @F500315@
+1 FAMC @F500351@
+1 RIN MH:I500553
+1 _UID 58D7AEBF434A52EAC37204F12F8A31E4
+0 @I500554@ INDI
+1 _UPD 26 MAR 2017 16:41:06 GMT -0500 
+1 NAME Bronisław /Garyantesiewicz/
+2 GIVN Bronisław
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1845
+1 FAMS @F500315@
+1 FAMC @F500352@
+1 RIN MH:I500554
+1 _UID 58D7AEC811ACD137D0192BE1A28E7E47
+0 @I500555@ INDI
+1 _UPD 26 MAR 2017 07:08:04 GMT -0500 
+1 NAME Mieczysław /Szczęsnowski/
+2 GIVN Mieczysław
+2 SURN Szczęsnowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500316@
+1 RIN MH:I500555
+1 _UID 58D7AF239AFB0EC305AC5DEBCF95BA38
+0 @I500556@ INDI
+1 _UPD 26 MAR 2017 07:08:17 GMT -0500 
+1 NAME Teofila /Kosicka/
+2 GIVN Teofila
+2 SURN Kosicka
+2 _MARNM Szczęsnowska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500316@
+1 RIN MH:I500556
+1 _UID 58D7AF30C194B5DB4FF373F311612515
+0 @I500557@ INDI
+1 _UPD 26 MAR 2017 07:09:38 GMT -0500 
+1 NAME Józef /Kazowski/
+2 GIVN Józef
+2 SURN Kazowski
+1 SEX M
+1 FAMS @F500317@
+1 RIN MH:I500557
+1 _UID 58D7AF8204494DAAC8749A3CEB971D37
+0 @I500558@ INDI
+1 _UPD 26 MAR 2017 07:09:51 GMT -0500 
+1 NAME Katarzyna /Garyantesiewicz/
+2 GIVN Katarzyna
+2 SURN Garyantesiewicz
+1 SEX F
+1 FAMS @F500317@
+1 RIN MH:I500558
+1 _UID 58D7AF8F9A9CD07A91FF0752EFC9C2D3
+0 @I500559@ INDI
+1 _UPD 26 MAR 2017 07:11:03 GMT -0500 
+1 NAME Jadwiga /Stęczniewska/
+2 GIVN Jadwiga
+2 SURN Stęczniewska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500318@
+1 RIN MH:I500559
+1 _UID 58D7AFD714B0AAB2347A09DA6B9E2DF0
+0 @I500560@ INDI
+1 _UPD 26 MAR 2017 07:11:21 GMT -0500 
+1 NAME Jan /Kaszyński/
+2 GIVN Jan
+2 SURN Kaszyński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500318@
+1 RIN MH:I500560
+1 _UID 58D7AFE93E5594361B49BB246ED9D301
+0 @I500561@ INDI
+1 _UPD 26 MAR 2017 07:16:25 GMT -0500 
+1 NAME Marianna /Siwczyńska/
+2 GIVN Marianna
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1877
+1 DEAT Y
+2 DATE 1880
+1 FAMC @F500004@
+1 RIN MH:I500561
+1 _UID 58D7B119A26394DEAF0FF4860C3A63EF
+0 @I500562@ INDI
+1 _UPD 26 MAR 2017 07:21:38 GMT -0500 
+1 NAME Piotr /Rękosiewicz/
+2 GIVN Piotr
+2 SURN Rękosiewicz
+1 SEX M
+1 BIRT
+2 DATE 1856
+1 FAMS @F500319@
+1 FAMC @F500320@
+1 RIN MH:I500562
+1 _UID 58D7B2305776D6E34650D46A80DC3124
+0 @I500563@ INDI
+1 _UPD 26 MAR 2017 08:25:37 GMT -0500 
+1 NAME Katarzyna /Kubik/
+2 GIVN Katarzyna
+2 SURN Kubik
+2 _MARNM Rękosiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500320@
+1 RIN MH:I500563
+1 _UID 58D7B25218DFFE137257A6B0875E7EF9
+0 @I500564@ INDI
+1 _UPD 26 MAR 2017 08:32:12 GMT -0500 
+1 NAME Jan /Rękosiewicz/
+2 GIVN Jan
+2 SURN Rękosiewicz
+1 SEX M
+1 DEAT Y
+2 DATE 1892
+1 BIRT
+2 DATE 1806
+1 FAMS @F500320@
+1 FAMC @F500341@
+1 RIN MH:I500564
+1 _UID 58D7B25AC3D9F9317301B38504439389
+0 @I500565@ INDI
+1 _UPD 26 MAR 2017 07:23:05 GMT -0500 
+1 NAME Michał /Karolewski/
+2 GIVN Michał
+2 SURN Karolewski
+1 SEX M
+1 FAMS @F500321@
+1 RIN MH:I500565
+1 _UID 58D7B2A892C0F998E7E5E599F32E5CF3
+0 @I500566@ INDI
+1 _UPD 26 MAR 2017 07:23:27 GMT -0500 
+1 NAME Marcianna /Siwczyńska/
+2 GIVN Marcianna
+2 SURN Siwczyńska
+2 _MARNM Karolewska
+1 SEX F
+1 FAMS @F500321@
+1 RIN MH:I500566
+1 _UID 58D7B2BF2520592C1A1E9A734CD07CA4
+0 @I500567@ INDI
+1 _UPD 26 MAR 2017 07:26:46 GMT -0500 
+1 NAME Mateusz /Miśkiewicz/
+2 GIVN Mateusz
+2 SURN Miśkiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500322@
+1 RIN MH:I500567
+1 _UID 58D7B386A0B949B9E82BF6D0E99CF711
+0 @I500568@ INDI
+1 _UPD 26 MAR 2017 07:26:57 GMT -0500 
+1 NAME Kazimiera /Duga/
+2 GIVN Kazimiera
+2 SURN Duga
+1 SEX F
+1 DEAT Y
+1 FAMS @F500322@
+1 RIN MH:I500568
+1 _UID 58D7B390E804E5ABAA849767D9B533BD
+0 @I500569@ INDI
+1 _UPD 26 MAR 2017 07:45:21 GMT -0500 
+1 NAME Piotr /Trawiński/
+2 GIVN Piotr
+2 SURN Trawiński
+1 SEX M
+1 BIRT
+2 DATE 1855
+1 FAMS @F500323@
+1 FAMC @F500330@
+1 RIN MH:I500569
+1 _UID 58D7B3BE05F89B1B0D8DC3D8F1C9E7F4
+0 @I500570@ INDI
+1 _UPD 26 MAR 2017 07:44:24 GMT -0500 
+1 NAME Józefa /Sosińska/
+2 GIVN Józefa
+2 SURN Sosińska
+2 _MARNM Laudowicz
+1 SEX F
+1 BIRT
+2 DATE 1876
+1 DEAT Y
+1 FAMS @F500324@
+1 FAMC @F500325@
+1 RIN MH:I500570
+1 _UID 58D7B3F4B66B270F879844969639A164
+0 @I500571@ INDI
+1 _UPD 26 MAR 2017 07:28:52 GMT -0500 
+1 NAME Wincent /Sosiński/
+2 GIVN Wincent
+2 SURN Sosiński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500325@
+1 RIN MH:I500571
+1 _UID 58D7B4047AE41698DBC1C1637CBBF0B7
+0 @I500572@ INDI
+1 _UPD 26 MAR 2017 07:29:10 GMT -0500 
+1 NAME Maria //
+2 GIVN Maria
+1 SEX F
+1 DEAT Y
+1 FAMS @F500325@
+1 RIN MH:I500572
+1 _UID 58D7B415F15F45D89C87A159B812DFC4
+0 @I500573@ INDI
+1 _UPD 26 MAR 2017 07:29:54 GMT -0500 
+1 NAME Franciszka /Miśkiewicz/
+2 GIVN Franciszka
+2 SURN Miśkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1906
+1 DEAT Y
+2 DATE 1906
+1 FAMC @F500312@
+1 RIN MH:I500573
+1 _UID 58D7B4422A37C012CAC78532A441BEEC
+0 @I500574@ INDI
+1 _UPD 26 MAR 2017 07:31:57 GMT -0500 
+1 NAME Helena /Siwczyńska/
+2 GIVN Helena
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1946
+1 FAMC @F500298@
+1 RIN MH:I500574
+1 _UID 58D7B4BD2D7885FFEEE4B80B6543B3BD
+0 @I500575@ INDI
+1 _UPD 26 MAR 2017 07:33:05 GMT -0500 
+1 NAME Marianna /Siwczyńska/
+2 GIVN Marianna
+2 SURN Siwczyńska
+1 SEX F
+1 BIRT
+2 DATE 1909
+1 DEAT Y
+2 DATE 1983
+1 FAMC @F500298@
+1 RIN MH:I500575
+1 _UID 58D7B501750E9EE2C0CB239FAF2EDBA3
+0 @I500576@ INDI
+1 _UPD 26 MAR 2017 07:37:20 GMT -0500 
+1 NAME Leon /Kokot/
+2 GIVN Leon
+2 SURN Kokot
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+2 DATE 1964
+1 FAMS @F500326@
+1 FAMC @F500327@
+1 RIN MH:I500576
+1 _UID 58D7B5D867FDC2D6E329FCAB593FBCE9
+0 @I500577@ INDI
+1 _UPD 26 MAR 2017 07:37:20 GMT -0500 
+1 NAME Jan /Kokot/
+2 GIVN Jan
+2 SURN Kokot
+1 SEX M
+1 DEAT Y
+1 FAMS @F500327@
+1 RIN MH:I500577
+1 _UID 58D7B5FFECADFF1D8A529B43E3A45B2A
+0 @I500578@ INDI
+1 _UPD 26 MAR 2017 07:37:30 GMT -0500 
+1 NAME Marianna /Kulczyńska/
+2 GIVN Marianna
+2 SURN Kulczyńska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500327@
+1 RIN MH:I500578
+1 _UID 58D7B60AAABC9C5C0B1630A6D36AFACB
+0 @I500579@ INDI
+1 _UPD 26 MAR 2017 07:38:11 GMT -0500 
+1 NAME Andrzej /Sojka/
+2 GIVN Andrzej
+2 SURN Sojka
+1 SEX M
+1 DEAT Y
+1 FAMS @F500328@
+1 RIN MH:I500579
+1 _UID 58D7B63388CA2CB2B63FD21E1D11C2D0
+0 @I500580@ INDI
+1 _UPD 26 MAR 2017 07:38:24 GMT -0500 
+1 NAME Józefa /Gawęcka/
+2 GIVN Józefa
+2 SURN Gawęcka
+1 SEX F
+1 DEAT Y
+1 FAMS @F500328@
+1 RIN MH:I500580
+1 _UID 58D7B63F6C1AB5427571C6B0288576F4
+0 @I500581@ INDI
+1 _UPD 26 MAR 2017 07:43:09 GMT -0500 
+1 NAME Filip /Kazowski/
+2 GIVN Filip
+2 SURN Kazowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500329@
+1 RIN MH:I500581
+1 _UID 58D7B75D7593FA0006700706D0975B8D
+0 @I500582@ INDI
+1 _UPD 26 MAR 2017 07:43:22 GMT -0500 
+1 NAME Julianna /Piątek/
+2 GIVN Julianna
+2 SURN Piątek
+1 SEX F
+1 DEAT Y
+1 FAMS @F500329@
+1 RIN MH:I500582
+1 _UID 58D7B769A80CBCE0FE4678CE2EECBEAB
+0 @I500583@ INDI
+1 _UPD 26 MAR 2017 07:45:21 GMT -0500 
+1 NAME Dominik /Trawiński/
+2 GIVN Dominik
+2 SURN Trawiński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500330@
+1 RIN MH:I500583
+1 _UID 58D7B7E169F2F249619BB5F04FF8FF8E
+0 @I500584@ INDI
+1 _UPD 27 MAR 2017 05:19:44 GMT -0500 
+1 NAME Maria /Krenz/
+2 GIVN Maria
+2 SURN Krenz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500330@
+1 RIN MH:I500584
+1 _UID 58D7B7EC530772D1FFC273340A0C20DC
+0 @I500585@ INDI
+1 _UPD 26 MAR 2017 08:01:27 GMT -0500 
+1 NAME Alojzy /Machnik/
+2 GIVN Alojzy
+2 SURN Machnik
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 DEAT Y
+1 FAMS @F500331@
+1 FAMC @F500279@
+1 RIN MH:I500585
+1 _UID 58D7BBA6DE8A6CD6F24AEA7BFF191B07
+0 @I500586@ INDI
+1 _UPD 26 MAR 2017 08:01:48 GMT -0500 
+1 NAME Jadwiga /Adamkiewicz/
+2 GIVN Jadwiga
+2 SURN Adamkiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500331@
+1 RIN MH:I500586
+1 _UID 58D7BBBBD78AE67E10EE4F75115A0B15
+0 @I500587@ INDI
+1 _UPD 26 MAR 2017 08:05:44 GMT -0500 
+1 NAME Józef /Karolewski/
+2 GIVN Józef
+2 SURN Karolewski
+1 SEX M
+1 BIRT
+2 DATE 1842
+1 FAMS @F500332@
+1 FAMC @F500321@
+1 RIN MH:I500587
+1 _UID 58D7BCA7F1C6BA8EF84CAD759DD88DD2
+0 @I500588@ INDI
+1 _UPD 26 MAR 2017 08:06:36 GMT -0500 
+1 NAME Konstancja /Bernacka/
+2 GIVN Konstancja
+2 SURN Bernacka
+2 _MARNM Karolewska
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT Y
+1 FAMS @F500332@
+1 FAMC @F500333@
+1 RIN MH:I500588
+1 _UID 58D7BCC7C8AE2F3B70B120B5C960645E
+0 @I500589@ INDI
+1 _UPD 26 MAR 2017 16:02:49 GMT -0500 
+1 NAME Szymon /Bernacki/
+2 GIVN Szymon
+2 SURN Bernacki
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1814
+1 FAMS @F500333@
+1 FAMC @F500344@
+1 RIN MH:I500589
+1 _UID 58D7BCDC954A0802FE20DE1F16878716
+0 @I500590@ INDI
+1 _UPD 26 MAR 2017 15:59:40 GMT -0500 
+1 NAME Wiktoria /Rękosiewicz/
+2 GIVN Wiktoria
+2 SURN Rękosiewicz
+2 _MARNM Szwałkiewicz/Bernacka
+1 SEX F
+1 DEAT Y
+2 DATE 1884
+1 BIRT
+2 DATE 1808
+1 FAMS @F500333@
+1 FAMC @F500342@
+1 RIN MH:I500590
+1 _UID 58D7BCEA8454FEC7EC0A19B726150505
+0 @I500591@ INDI
+1 _UPD 26 MAR 2017 08:09:32 GMT -0500 
+1 NAME Bronisława /Karolewska/
+2 GIVN Bronisława
+2 SURN Karolewska
+2 _MARNM Wojciechowska
+1 SEX F
+1 BIRT
+2 DATE 1848
+1 DEAT Y
+1 FAMS @F500334@
+1 FAMC @F500321@
+1 RIN MH:I500591
+1 _UID 58D7BD8BC63F933E837E52F1447731BE
+0 @I500592@ INDI
+1 _UPD 26 MAR 2017 08:09:47 GMT -0500 
+1 NAME Józef /Wojciechowski/
+2 GIVN Józef
+2 SURN Wojciechowski
+1 SEX M
+1 DEAT Y
+1 FAMS @F500334@
+1 RIN MH:I500592
+1 _UID 58D7BD9A75586254408F473A0B07355F
+0 @I500593@ INDI
+1 _UPD 26 MAR 2017 08:12:42 GMT -0500 
+1 NAME Bruno/Bronisław /Karolewski/
+2 GIVN Bruno/Bronisław
+2 SURN Karolewski
+1 SEX M
+1 BIRT
+2 DATE 1851
+1 DEAT Y
+1 FAMS @F500335@
+1 FAMC @F500321@
+1 RIN MH:I500593
+1 _UID 58D7BDC31FD4342BC1E22541F7C6FBC5
+0 @I500594@ INDI
+1 _UPD 26 MAR 2017 08:11:43 GMT -0500 
+1 NAME Marianna /Tomaszek/
+2 GIVN Marianna
+2 SURN Tomaszek
+2 _MARNM Karolewska
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+1 FAMS @F500335@
+1 FAMC @F500336@
+1 RIN MH:I500594
+1 _UID 58D7BDEFF04DEA8695E08F89003FFE42
+0 @I500595@ INDI
+1 _UPD 26 MAR 2017 08:11:43 GMT -0500 
+1 NAME Łukasz /Tomaszek/
+2 GIVN Łukasz
+2 SURN Tomaszek
+1 SEX M
+1 DEAT Y
+1 FAMS @F500336@
+1 RIN MH:I500595
+1 _UID 58D7BE0F53035E7F6D87D2F9F28B3BDA
+0 @I500596@ INDI
+1 _UPD 26 MAR 2017 08:11:56 GMT -0500 
+1 NAME Marianna /Winiewicz/
+2 GIVN Marianna
+2 SURN Winiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500336@
+1 RIN MH:I500596
+1 _UID 58D7BE1C0B1585F43ED1E1C8FAD43644
+0 @I500597@ INDI
+1 _UPD 26 MAR 2017 08:14:06 GMT -0500 
+1 NAME Maria /Karolewski/
+2 GIVN Maria
+2 SURN Karolewski
+2 _MARNM Fibak/Paluszkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT Y
+1 FAMS @F500337@
+1 FAMC @F500321@
+1 RIN MH:I500597
+1 _UID 58D7BE9E7BA45032CEA31C662C129A58
+0 @I500598@ INDI
+1 _UPD 26 MAR 2017 08:14:38 GMT -0500 
+1 NAME Władysław /Paluszkiewicz/
+2 GIVN Władysław
+2 SURN Paluszkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 DEAT Y
+1 FAMS @F500337@
+1 RIN MH:I500598
+1 _UID 58D7BEBE5DB16B070B0403928BC4E7F9
+0 @I500599@ INDI
+1 _UPD 26 MAR 2017 08:19:34 GMT -0500 
+1 NAME Marcianna /Frankiewicz/
+2 GIVN Marcianna
+2 SURN Frankiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500338@
+1 RIN MH:I500599
+1 _UID 58D7BFE65FBFBA78FEAD1649F99D1777
+0 @I500600@ INDI
+1 _UPD 26 MAR 2017 08:25:56 GMT -0500 
+1 NAME Teofil /Rękosiewicz/
+2 GIVN Teofil
+2 SURN Rękosiewicz
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 DEAT Y
+2 DATE 1910
+1 FAMS @F500240@
+1 FAMC @F500320@
+1 RIN MH:I500600
+1 _UID 58D7C14844171B86E90A50E74AA04D47
+0 @I500601@ INDI
+1 _UPD 26 MAR 2017 08:29:51 GMT -0500 
+1 NAME Maria /Rękosiewicz/
+2 GIVN Maria
+2 SURN Rękosiewicz
+2 _MARNM Gierszewicz/Karwacka
+1 SEX F
+1 BIRT
+2 DATE 1843
+1 FAMS @F500339@
+1 FAMC @F500320@
+1 RIN MH:I500601
+1 _UID 58D7C24E7B39B0E03135BA7BAD4F175F
+0 @I500602@ INDI
+1 _UPD 26 MAR 2017 08:30:34 GMT -0500 
+1 NAME Stanisław /Karwacki/
+2 GIVN Stanisław
+2 SURN Karwacki
+1 SEX M
+1 BIRT
+2 DATE 1858
+1 DEAT Y
+1 FAMS @F500339@
+1 FAMC @F500340@
+1 RIN MH:I500602
+1 _UID 58D7C26DA4B2E76DB3B1EF502EF2F05F
+0 @I500603@ INDI
+1 _UPD 26 MAR 2017 08:30:34 GMT -0500 
+1 NAME Łukasz /Karwacki/
+2 GIVN Łukasz
+2 SURN Karwacki
+1 SEX M
+1 DEAT Y
+1 FAMS @F500340@
+1 RIN MH:I500603
+1 _UID 58D7C279EAFAD4A26D062EA4EC319193
+0 @I500604@ INDI
+1 _UPD 26 MAR 2017 08:31:00 GMT -0500 
+1 NAME Franciszka /Szymańska/
+2 GIVN Franciszka
+2 SURN Szymańska
+2 _MARNM Karwacka
+1 SEX F
+1 DEAT Y
+1 FAMS @F500340@
+1 RIN MH:I500604
+1 _UID 58D7C2944C0566FFE8A87BEF58AC8614
+0 @I500605@ INDI
+1 _UPD 26 MAR 2017 08:32:12 GMT -0500 
+1 NAME Tomasz /Rękosiewicz/
+2 GIVN Tomasz
+2 SURN Rękosiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500341@
+1 RIN MH:I500605
+1 _UID 58D7C2DC0D8F90675D86EF62C64A461F
+0 @I500606@ INDI
+1 _UPD 26 MAR 2017 08:32:24 GMT -0500 
+1 NAME Regina /Tomaszek/
+2 GIVN Regina
+2 SURN Tomaszek
+2 _MARNM Rękosiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500341@
+1 RIN MH:I500606
+1 _UID 58D7C2E8A56B36427126F71791DD473D
+0 @I500607@ INDI
+1 _UPD 26 MAR 2017 15:59:40 GMT -0500 
+1 NAME Tomasz /Rękosiewicz/
+2 GIVN Tomasz
+2 SURN Rękosiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500342@
+1 RIN MH:I500607
+1 _UID 58D82BBC0A7B6CAA7A65985E5863DA75
+0 @I500608@ INDI
+1 _UPD 26 MAR 2017 15:59:49 GMT -0500 
+1 NAME Regina //
+2 GIVN Regina
+1 SEX F
+1 DEAT Y
+1 FAMS @F500342@
+1 RIN MH:I500608
+1 _UID 58D82BC58D758A6C8F438FF361A9E97F
+0 @I500609@ INDI
+1 _UPD 26 MAR 2017 16:01:06 GMT -0500 
+1 NAME Franciszek /Bernacki/
+2 GIVN Franciszek
+2 SURN Bernacki
+1 SEX M
+1 BIRT
+2 DATE 1839
+1 FAMS @F500343@
+1 FAMC @F500333@
+1 RIN MH:I500609
+1 _UID 58D82C0C9C6FC4F22A7D09C5F87E9FC6
+0 @I500610@ INDI
+1 _UPD 26 MAR 2017 16:01:57 GMT -0500 
+1 NAME Natalia /Aschenbrenner/
+2 GIVN Natalia
+2 SURN Aschenbrenner
+2 _MARNM Bernacka
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT Y
+1 FAMS @F500343@
+1 RIN MH:I500610
+1 _UID 58D82C44B413C1ABD38496BA0EBEE362
+0 @I500611@ INDI
+1 _UPD 26 MAR 2017 16:02:49 GMT -0500 
+1 NAME Michał /Bernacki/
+2 GIVN Michał
+2 SURN Bernacki
+1 SEX M
+1 FAMS @F500344@
+1 RIN MH:I500611
+1 _UID 58D82C79B0960B725441DF8D6CDE7AF6
+0 @I500612@ INDI
+1 _UPD 26 MAR 2017 16:02:58 GMT -0500 
+1 NAME Marianna //
+2 GIVN Marianna
+1 SEX F
+1 FAMS @F500344@
+1 RIN MH:I500612
+1 _UID 58D82C81CC42C2D39E289FAADA96B5A0
+0 @I500613@ INDI
+1 _UPD 26 MAR 2017 16:09:02 GMT -0500 
+1 NAME Emmanuel /Waldowski/
+2 GIVN Emmanuel
+2 SURN Waldowski
+1 SEX M
+1 BIRT
+2 DATE 1840
+1 FAMS @F500345@
+1 FAMC @F500297@
+1 RIN MH:I500613
+1 _UID 58D82DEE53FDB1C5607AF6DA62AAD91A
+0 @I500614@ INDI
+1 _UPD 26 MAR 2017 16:09:49 GMT -0500 
+1 NAME Marianna /Luczak/
+2 GIVN Marianna
+2 SURN Luczak
+1 SEX F
+1 BIRT
+2 DATE 1842
+1 DEAT Y
+1 FAMS @F500345@
+1 RIN MH:I500614
+1 _UID 58D82E1D2C2ECB2F49D063BA3F006BC9
+0 @I500615@ INDI
+1 _UPD 26 MAR 2017 16:29:47 GMT -0500 
+1 NAME Anna /Laudowicz/
+2 GIVN Anna
+2 SURN Laudowicz
+1 SEX F
+1 BIRT
+2 DATE 1859
+1 DEAT Y
+2 DATE 1876
+1 FAMC @F500120@
+1 RIN MH:I500615
+1 _UID 58D832CAF17C01D804086EE7F7B3B5C3
+0 @I500616@ INDI
+1 _UPD 26 MAR 2017 16:31:50 GMT -0500 
+1 NAME Jan /Sebel/
+2 GIVN Jan
+2 SURN Sebel
+1 SEX M
+1 DEAT Y
+1 FAMS @F500348@
+1 RIN MH:I500616
+1 _UID 58D833468AC164EEFE074372A888C8FF
+0 @I500617@ INDI
+1 _UPD 26 MAR 2017 16:32:03 GMT -0500 
+1 NAME Marianna /Lorenz/
+2 GIVN Marianna
+2 SURN Lorenz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500348@
+1 RIN MH:I500617
+1 _UID 58D833530815814EB64FAA4E6F2F804C
+0 @I500618@ INDI
+1 _UPD 26 MAR 2017 16:38:54 GMT -0500 
+1 NAME Agnieszka /Wieczorek/
+2 GIVN Agnieszka
+2 SURN Wieczorek
+1 SEX F
+1 BIRT
+2 DATE 1849
+1 DEAT Y
+1 FAMS @F500349@
+1 FAMC @F500350@
+1 RIN MH:I500618
+1 _UID 58D834DEA69A77679036C10FAB4C4284
+0 @I500619@ INDI
+1 _UPD 26 MAR 2017 16:38:55 GMT -0500 
+1 NAME Andrzej /Wieczorek/
+2 GIVN Andrzej
+2 SURN Wieczorek
+1 SEX M
+1 DEAT Y
+1 FAMS @F500350@
+1 RIN MH:I500619
+1 _UID 58D834EEDF99148074961952B73659BA
+0 @I500620@ INDI
+1 _UPD 26 MAR 2017 16:39:02 GMT -0500 
+1 NAME Zofia //
+2 GIVN Zofia
+1 SEX F
+1 DEAT Y
+1 FAMS @F500350@
+1 RIN MH:I500620
+1 _UID 58D834F61FB0A8F15B38BC4EA45C40DC
+0 @I500621@ INDI
+1 _UPD 26 MAR 2017 16:40:01 GMT -0500 
+1 NAME Wincent /Gibasiewicz/
+2 GIVN Wincent
+2 SURN Gibasiewicz
+1 SEX M
+1 FAMS @F500351@
+1 RIN MH:I500621
+1 _UID 58D83531862DA2AF2CCA437F6EDC8D84
+0 @I500622@ INDI
+1 _UPD 26 MAR 2017 16:40:16 GMT -0500 
+1 NAME Monika /Brysiewicz/
+2 GIVN Monika
+2 SURN Brysiewicz
+1 SEX F
+1 FAMS @F500351@
+1 RIN MH:I500622
+1 _UID 58D8354019C2888E27B84808CB7E7EB3
+0 @I500623@ INDI
+1 _UPD 26 MAR 2017 16:41:06 GMT -0500 
+1 NAME Chryzostom /Garyantesiewicz/
+2 GIVN Chryzostom
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500352@
+1 RIN MH:I500623
+1 _UID 58D835727BB52ACFA3859ACF2722D43F
+0 @I500624@ INDI
+1 _UPD 26 MAR 2017 16:41:18 GMT -0500 
+1 NAME Elżbieta /Adamkiewicz/
+2 GIVN Elżbieta
+2 SURN Adamkiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500352@
+1 RIN MH:I500624
+1 _UID 58D8357EA73F69D575BE6F38F6A33424
+0 @I500625@ INDI
+1 _UPD 26 MAR 2017 16:42:44 GMT -0500 
+1 NAME Antoni /Garyantesiewicz/
+2 GIVN Antoni
+2 SURN Garyantesiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500353@
+1 FAMC @F500352@
+1 RIN MH:I500625
+1 _UID 58D835D45A3524A2D5B47FCA17A8D22A
+0 @I500626@ INDI
+1 _UPD 26 MAR 2017 16:43:23 GMT -0500 
+1 NAME Elżbieta /Kubik/
+2 GIVN Elżbieta
+2 SURN Kubik
+1 SEX F
+1 BIRT
+2 DATE 1858
+1 FAMS @F500353@
+1 FAMC @F500354@
+1 RIN MH:I500626
+1 _UID 58D835EC67E25AFD2DE83CDF143418D5
+0 @I500627@ INDI
+1 _UPD 26 MAR 2017 16:43:23 GMT -0500 
+1 NAME Adam /Kubik/
+2 GIVN Adam
+2 SURN Kubik
+1 SEX M
+1 DEAT Y
+1 FAMS @F500354@
+1 RIN MH:I500627
+1 _UID 58D835FB1C52F422B4E3F905F78E0F39
+0 @I500628@ INDI
+1 _UPD 26 MAR 2017 16:43:38 GMT -0500 
+1 NAME Julianna /Gibasiewicz/
+2 GIVN Julianna
+2 SURN Gibasiewicz
+2 _MARNM Kubik
+1 SEX F
+1 DEAT Y
+1 FAMS @F500354@
+1 RIN MH:I500628
+1 _UID 58D8360A513823EF802962A30585E73A
+0 @I500629@ INDI
+1 _UPD 26 MAR 2017 16:49:07 GMT -0500 
+1 NAME Józef /Garyantesiewicz/
+2 GIVN Józef
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 FAMS @F500268@
+1 FAMC @F500352@
+1 RIN MH:I500629
+1 _UID 58D836278697BCF71B7E1FA4A25C774A
+0 @I500631@ INDI
+1 _UPD 26 MAR 2017 16:50:16 GMT -0500 
+1 NAME Józef /Gibasiewicz/
+2 GIVN Józef
+2 SURN Gibasiewicz
+1 SEX M
+1 BIRT
+2 DATE 1839
+1 DEAT Y
+2 DATE 1876
+1 FAMS @F500356@
+1 RIN MH:I500631
+1 _UID 58D8379806F37C3FEB7B160ADEB181C8
+0 @I500632@ INDI
+1 _UPD 26 MAR 2017 16:50:49 GMT -0500 
+1 NAME Ignacy /Gibasiewicz/
+2 GIVN Ignacy
+2 SURN Gibasiewicz
+1 SEX M
+1 BIRT
+2 DATE 1876
+1 DEAT Y
+1 FAMC @F500356@
+1 RIN MH:I500632
+1 _UID 58D837B9B310068997F8C399CC471BA4
+0 @I500633@ INDI
+1 _UPD 26 MAR 2017 16:51:19 GMT -0500 
+1 NAME Mikołaj /Garyantesiewicz/
+2 GIVN Mikołaj
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1881
+1 FAMC @F500268@
+1 RIN MH:I500633
+1 _UID 58D837D74296051EA03F5157B91C9E3F
+0 @I500634@ INDI
+1 _UPD 26 MAR 2017 16:51:35 GMT -0500 
+1 NAME Piotr /Garyantesiewicz/
+2 GIVN Piotr
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1881
+1 FAMC @F500268@
+1 RIN MH:I500634
+1 _UID 58D837E7B98562E02D08DF19A5050370
+0 @I500635@ INDI
+1 _UPD 26 MAR 2017 16:52:08 GMT -0500 
+1 NAME Jan /Gibasiewicz/
+2 GIVN Jan
+2 SURN Gibasiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500357@
+1 RIN MH:I500635
+1 _UID 58D8380869B089AB74A0D9211B3AFDE2
+0 @I500636@ INDI
+1 _UPD 26 MAR 2017 16:52:23 GMT -0500 
+1 NAME Karolina /Józewicz/
+2 GIVN Karolina
+2 SURN Józewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500357@
+1 RIN MH:I500636
+1 _UID 58D8381791FBF9CE0CD1D235E8B32C9B
+0 @I500637@ INDI
+1 _UPD 26 MAR 2017 16:53:26 GMT -0500 
+1 NAME Eleonora /Garyantesiewicz/
+2 GIVN Eleonora
+2 SURN Garyantesiewicz
+1 SEX F
+1 BIRT
+2 DATE 1882
+1 DEAT Y
+1 FAMC @F500268@
+1 RIN MH:I500637
+1 _UID 58D8385626367A86B26AF2AC1C94650F
+0 @I500638@ INDI
+1 _UPD 26 MAR 2017 16:54:03 GMT -0500 
+1 NAME Kazimierz /Garyantesiewicz/
+2 GIVN Kazimierz
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1884
+1 DEAT Y
+1 FAMC @F500268@
+1 RIN MH:I500638
+1 _UID 58D8387AF1935D6F5D6D73DE7FFCC50C
+0 @I500639@ INDI
+1 _UPD 26 MAR 2017 16:54:29 GMT -0500 
+1 NAME Piotr /Garyantesiewicz/
+2 GIVN Piotr
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT Y
+2 DATE 1961
+1 FAMC @F500268@
+1 RIN MH:I500639
+1 _UID 58D83894DAF9265FA8DCCEC2260FCFC6
+0 @I500640@ INDI
+1 _UPD 26 MAR 2017 16:54:54 GMT -0500 
+1 NAME Teofil Jan /Garyantesiewicz/
+2 GIVN Teofil Jan
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1889
+1 DEAT Y
+2 DATE 1889
+1 FAMC @F500268@
+1 RIN MH:I500640
+1 _UID 58D838AE2655FBA4308E8B2C09DC3CAF
+0 @I500641@ INDI
+1 _UPD 26 MAR 2017 16:55:38 GMT -0500 
+1 NAME Mikołaj /Garyantesiewicz/
+2 GIVN Mikołaj
+2 SURN Garyantesiewicz
+1 SEX M
+1 BIRT
+2 DATE 1891
+1 FAMC @F500268@
+1 RIN MH:I500641
+1 _UID 58D838D9B48F26CB41882C7D7AB6B285
+0 @I500642@ INDI
+1 _UPD 26 MAR 2017 16:57:23 GMT -0500 
+1 NAME Natalia /Gibasiewicz/
+2 GIVN Natalia
+2 SURN Gibasiewicz
+2 _MARNM Hempowicz
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 DEAT Y
+1 FAMS @F500358@
+1 FAMC @F500356@
+1 RIN MH:I500642
+1 _UID 58D83942F0D812309F99ABB52A1187C4
+0 @I500643@ INDI
+1 _UPD 26 MAR 2017 16:57:47 GMT -0500 
+1 NAME Paweł /Hempowicz/
+2 GIVN Paweł
+2 SURN Hempowicz
+1 SEX M
+1 BIRT
+2 DATE 1833
+1 DEAT Y
+1 FAMS @F500358@
+1 RIN MH:I500643
+1 _UID 58D8395AAEF3CCF09E881E09DF18AB72
+0 @I500644@ INDI
+1 _UPD 26 MAR 2017 16:58:15 GMT -0500 
+1 NAME Stanisław /Gibasiewicz/
+2 GIVN Stanisław
+2 SURN Gibasiewicz
+1 SEX M
+1 BIRT
+2 DATE 1873
+1 DEAT Y
+1 FAMS @F500359@
+1 FAMC @F500356@
+1 RIN MH:I500644
+1 _UID 58D8397715E062DA03D8EFABD0389DBC
+0 @I500645@ INDI
+1 _UPD 26 MAR 2017 16:58:58 GMT -0500 
+1 NAME Teodozja /Krenz/
+2 GIVN Teodozja
+2 SURN Krenz
+2 _MARNM Gibasiewicz
+1 SEX F
+1 BIRT
+2 DATE 1872
+1 DEAT Y
+1 FAMS @F500359@
+1 RIN MH:I500645
+1 _UID 58D839960ECFDBF3CD4B365F91EC61A7
+0 @I500646@ INDI
+1 _UPD 26 MAR 2017 17:00:04 GMT -0500 
+1 NAME Pelagia /Gibasiewicz/
+2 GIVN Pelagia
+2 SURN Gibasiewicz
+2 _MARNM Kaszyńska
+1 SEX F
+1 BIRT
+2 DATE 1872
+1 DEAT Y
+1 FAMS @F500360@
+1 FAMC @F500356@
+1 RIN MH:I500646
+1 _UID 58D839E3F26718890BD29E96F8840989
+0 @I500647@ INDI
+1 _UPD 26 MAR 2017 17:00:15 GMT -0500 
+1 NAME Ludwik /Kaszyński/
+2 GIVN Ludwik
+2 SURN Kaszyński
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 DATE 1870
+1 FAMS @F500360@
+1 RIN MH:I500647
+1 _UID 58D839EF786250BED93DF36F702557D2
+0 @I500648@ INDI
+1 _UPD 26 MAR 2017 17:01:11 GMT -0500 
+1 NAME Teodor /Gibasiewicz/
+2 GIVN Teodor
+2 SURN Gibasiewicz
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 DEAT Y
+2 DATE 1910
+1 FAMS @F500361@
+1 FAMC @F500356@
+1 RIN MH:I500648
+1 _UID 58D83A27B8A3CBE0D424ECCF45A72155
+0 @I500649@ INDI
+1 _UPD 26 MAR 2017 17:02:02 GMT -0500 
+1 NAME Stanisława /Kazowska/
+2 GIVN Stanisława
+2 SURN Kazowska
+2 _MARNM Gibasiewicz
+1 SEX F
+1 BIRT
+2 DATE 1877
+1 DEAT Y
+1 FAMS @F500361@
+1 FAMC @F500261@
+1 RIN MH:I500649
+1 _UID 58D83A430695A8F318B89B2C2DE71B7B
+0 @I500651@ INDI
+1 _UPD 27 MAR 2017 03:05:04 GMT -0500 
+1 NAME Kazimierz /Laudowicz/
+2 GIVN Kazimierz
+2 SURN Laudowicz
+1 SEX M
+1 BIRT
+2 DATE 1849
+1 FAMS @F500363@
+1 FAMC @F500110@
+1 RIN MH:I500651
+1 _UID 58D8C7B031A24E3AEFD92E4E8B4A581C
+0 @I500652@ INDI
+1 _UPD 27 MAR 2017 03:06:08 GMT -0500 
+1 NAME Maria /Chrościńska/
+2 GIVN Maria
+2 SURN Chrościńska
+2 _MARNM Laudowicz
+1 SEX F
+1 BIRT
+2 DATE 1852
+1 DEAT Y
+1 FAMS @F500363@
+1 FAMC @F500364@
+1 RIN MH:I500652
+1 _UID 58D8C7DF3C02C45C2D5810A479CDA11E
+0 @I500653@ INDI
+1 _UPD 27 MAR 2017 03:06:08 GMT -0500 
+1 NAME Józef /Chrościński/
+2 GIVN Józef
+2 SURN Chrościński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500364@
+1 RIN MH:I500653
+1 _UID 58D8C7F01EBACE584EF5BA91EB93E2F2
+0 @I500654@ INDI
+1 _UPD 27 MAR 2017 03:06:26 GMT -0500 
+1 NAME Otylia /Bischof/
+2 GIVN Otylia
+2 SURN Bischof
+1 SEX F
+1 DEAT Y
+1 FAMS @F500364@
+1 RIN MH:I500654
+1 _UID 58D8C80200266504E0B30E1222869F8F
+0 @I500655@ INDI
+1 _UPD 27 MAR 2017 03:09:39 GMT -0500 
+1 NAME Tomasz /Drygas/
+2 GIVN Tomasz
+2 SURN Drygas
+1 SEX M
+1 DEAT Y
+1 FAMS @F500365@
+1 RIN MH:I500655
+1 _UID 58D8C8C2CD27D54315D6926920E37EFF
+0 @I500656@ INDI
+1 _UPD 27 MAR 2017 05:09:38 GMT -0500 
+1 NAME Stanisław /Zieleziński/
+2 GIVN Stanisław
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT Y
+2 DATE 1973
+1 FAMS @F500366@
+1 FAMS @F500367@
+1 FAMC @F500368@
+1 RIN MH:I500656
+1 _UID 58D8E3E42B1765037852E9B873879093
+0 @I500657@ INDI
+1 _UPD 27 MAR 2017 05:31:11 GMT -0500 
+1 NAME Maria /Januszkiewicz/
+2 GIVN Maria
+2 SURN Januszkiewicz
+2 _MARNM Zielezińska
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1979
+1 FAMS @F500366@
+1 FAMC @F500374@
+1 RIN MH:I500657
+1 _UID 58D8E3FD0491FDCDB44378AC6F77FD3C
+0 @I500658@ INDI
+1 _UPD 27 MAR 2017 05:32:31 GMT -0500 
+1 NAME Eleonora /Januszkiewicz/
+2 GIVN Eleonora
+2 SURN Januszkiewicz
+2 _MARNM Zielezińska
+1 SEX F
+1 BIRT
+2 DATE 1894
+1 FAMS @F500367@
+1 FAMC @F500374@
+1 RIN MH:I500658
+1 _UID 58D8E491CF80A8EF6DB04CCB9A25EE5E
+0 @I500659@ INDI
+1 _UPD 27 MAR 2017 06:57:08 GMT -0500 
+1 NAME Gertruda /Zielezińska/
+2 GIVN Gertruda
+2 SURN Zielezińska
+2 _MARNM Nawrocka
+1 SEX F
+1 BIRT
+2 DATE 1934
+1 FAMS @F500378@
+1 FAMC @F500366@
+1 RIN MH:I500659
+1 _UID 58D8E4BB7C4120406D80A59E2849396C
+0 @I500660@ INDI
+1 _UPD 27 MAR 2017 05:14:06 GMT -0500 
+1 NAME Franciszek /Zieleziński/
+2 GIVN Franciszek
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1851
+1 FAMS @F500368@
+1 FAMC @F500370@
+1 RIN MH:I500660
+1 _UID 58D8E4E2DADD52CB71910B83EA1ED0C3
+0 @I500661@ INDI
+1 _UPD 27 MAR 2017 05:13:15 GMT -0500 
+1 NAME Franciszka /Krenz/
+2 GIVN Franciszka
+2 SURN Krenz
+2 _MARNM Zielezińska
+1 SEX F
+1 BIRT
+2 DATE 1853
+1 FAMS @F500368@
+1 FAMC @F500369@
+1 RIN MH:I500661
+1 _UID 58D8E5007FC0A779CBD0922AED79BDA5
+0 @I500662@ INDI
+1 _UPD 27 MAR 2017 05:13:15 GMT -0500 
+1 NAME Mikołaj /Krenz/
+2 GIVN Mikołaj
+2 SURN Krenz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500369@
+1 RIN MH:I500662
+1 _UID 58D8E5BB347D055A69C7FB5C5505E2A5
+0 @I500663@ INDI
+1 _UPD 27 MAR 2017 05:13:38 GMT -0500 
+1 NAME Petronella /Januszkiewicz/
+2 GIVN Petronella
+2 SURN Januszkiewicz
+2 _MARNM Krenz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500369@
+1 RIN MH:I500663
+1 _UID 58D8E5D22007F742AF95D12BD81DE33E
+0 @I500664@ INDI
+1 _UPD 27 MAR 2017 05:14:06 GMT -0500 
+1 NAME Andrzej /Zieleziński/
+2 GIVN Andrzej
+2 SURN Zieleziński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500370@
+1 RIN MH:I500664
+1 _UID 58D8E5EEA99917202CBC842AC0133D81
+0 @I500665@ INDI
+1 _UPD 27 MAR 2017 05:14:23 GMT -0500 
+1 NAME Franciszka /Kopczyńska/
+2 GIVN Franciszka
+2 SURN Kopczyńska
+2 _MARNM Zielezińska
+1 SEX F
+1 DEAT Y
+1 FAMS @F500370@
+1 RIN MH:I500665
+1 _UID 58D8E5FEE53759E6C531E758505FC083
+0 @I500666@ INDI
+1 _UPD 27 MAR 2017 05:15:35 GMT -0500 
+1 NAME Walenty /Krenz/
+2 GIVN Walenty
+2 SURN Krenz
+1 SEX M
+1 BIRT
+2 DATE 1856
+1 FAMS @F500371@
+1 FAMC @F500369@
+1 RIN MH:I500666
+1 _UID 58D8E646C9CE408817C007D912B4035A
+0 @I500667@ INDI
+1 _UPD 27 MAR 2017 05:16:02 GMT -0500 
+1 NAME Konstancja /Długiewicz/
+2 GIVN Konstancja
+2 SURN Długiewicz
+2 _MARNM Krenz
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+1 FAMS @F500371@
+1 RIN MH:I500667
+1 _UID 58D8E6624E0597A648E843E5A417E54B
+0 @I500668@ INDI
+1 _UPD 27 MAR 2017 05:17:56 GMT -0500 
+1 NAME Feliks /Zieleziński/
+2 GIVN Feliks
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1884
+1 DEAT Y
+2 DATE 1972
+1 FAMS @F500376@
+1 FAMC @F500368@
+1 RIN MH:I500668
+1 _UID 58D8E6D46FC8E2CC0C60BD11B1DA00EB
+0 @I500669@ INDI
+1 _UPD 27 MAR 2017 05:20:37 GMT -0500 
+1 NAME Marcianna /Trawińska/
+2 GIVN Marcianna
+2 SURN Trawińska
+2 _MARNM Zielezińska
+1 SEX F
+1 BIRT
+2 DATE 1846
+1 FAMS @F500372@
+1 FAMC @F500330@
+1 RIN MH:I500669
+1 _UID 58D8E77528F0B5D4B67FDA90D1D6BD58
+0 @I500670@ INDI
+1 _UPD 27 MAR 2017 05:21:30 GMT -0500 
+1 NAME Bonaventura /Zieleziński/
+2 GIVN Bonaventura
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1822
+1 DEAT Y
+1 FAMS @F500372@
+1 FAMC @F500373@
+1 RIN MH:I500670
+1 _UID 58D8E79634067DA355BA9D82818C41C2
+0 @I500671@ INDI
+1 _UPD 27 MAR 2017 05:21:30 GMT -0500 
+1 NAME Mateusz /Zieleziński/
+2 GIVN Mateusz
+2 SURN Zieleziński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500373@
+1 RIN MH:I500671
+1 _UID 58D8E7AA50706DCBE1B6B2BC13D2A130
+0 @I500672@ INDI
+1 _UPD 27 MAR 2017 05:21:41 GMT -0500 
+1 NAME Agata /Metzner/
+2 GIVN Agata
+2 SURN Metzner
+1 SEX F
+1 DEAT Y
+1 FAMS @F500373@
+1 RIN MH:I500672
+1 _UID 58D8E7B4D2C37672DC10D6187AD0AB53
+0 @I500673@ INDI
+1 _UPD 27 MAR 2017 05:24:27 GMT -0500 
+1 NAME Michał /Zieleziński/
+2 GIVN Michał
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT Y
+2 DATE 1968
+1 FAMC @F500368@
+1 RIN MH:I500673
+1 _UID 58D8E85B47C205688F9657E46F311BA4
+0 @I500674@ INDI
+1 _UPD 27 MAR 2017 05:37:37 GMT -0500 
+1 NAME Franciszek /Januszkiewicz/
+2 GIVN Franciszek
+2 SURN Januszkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 FAMS @F500374@
+1 FAMC @F500375@
+1 RIN MH:I500674
+1 _UID 58D8E9EF347A71F3E49492A49A6106C0
+0 @I500675@ INDI
+1 _UPD 27 MAR 2017 05:36:46 GMT -0500 
+1 NAME Marcianna /Duczmal/
+2 GIVN Marcianna
+2 SURN Duczmal
+2 _MARNM Januszkiewicz
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 FAMS @F500374@
+1 RIN MH:I500675
+1 _UID 58D8EA09BFC61CE6D3101BCFC91E2939
+0 @I500677@ INDI
+1 _UPD 27 MAR 2017 05:37:37 GMT -0500 
+1 NAME Józef /Januszkiewicz/
+2 GIVN Józef
+2 SURN Januszkiewicz
+1 SEX M
+1 DEAT Y
+1 FAMS @F500375@
+1 RIN MH:I500677
+1 _UID 58D8EB71105ECFA371475478DC1C27F7
+0 @I500678@ INDI
+1 _UPD 27 MAR 2017 05:37:53 GMT -0500 
+1 NAME Maria /Garyantesiewicz/
+2 GIVN Maria
+2 SURN Garyantesiewicz
+2 _MARNM Januszkiewicz
+1 SEX F
+1 DEAT Y
+1 FAMS @F500375@
+1 RIN MH:I500678
+1 _UID 58D8EB8147B649A96CB31D4F8D7021C9
+0 @I500679@ INDI
+1 _UPD 27 MAR 2017 05:38:44 GMT -0500 
+1 NAME Tomasz /Januszkiewicz/
+2 GIVN Tomasz
+2 SURN Januszkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT Y
+1 FAMC @F500374@
+1 RIN MH:I500679
+1 _UID 58D8EBB44093197F7537D624403A9A32
+0 @I500680@ INDI
+1 _UPD 27 MAR 2017 06:38:14 GMT -0500 
+1 NAME Ignacy /Januszkiewicz/
+2 GIVN Ignacy
+2 SURN Januszkiewicz
+1 SEX M
+1 BIRT
+2 DATE 1901
+1 FAMC @F500374@
+1 RIN MH:I500680
+1 _UID 58D8F9A5C521EF643D899611FF82F3AF
+0 @I500681@ INDI
+1 _UPD 27 MAR 2017 06:47:50 GMT -0500 
+1 NAME Zofia //
+2 GIVN Zofia
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 DEAT Y
+1 FAMS @F500376@
+1 RIN MH:I500681
+1 _UID 58D8FBE5B0CE470B99F0E471E097F3E7
+0 @I500682@ INDI
+1 _UPD 27 MAR 2017 06:51:32 GMT -0500 
+1 NAME Piotr /Zieleziński/
+2 GIVN Piotr
+2 SURN Zieleziński
+1 SEX M
+1 DEAT Y
+1 FAMS @F500377@
+1 RIN MH:I500682
+1 _UID 58D8FCC38E2BEB92F28399232EA4E53C
+0 @I500683@ INDI
+1 _UPD 27 MAR 2017 06:52:09 GMT -0500 
+1 NAME Witold Piotr /Zieleziński/
+2 GIVN Witold Piotr
+2 SURN Zieleziński
+1 SEX M
+1 BIRT
+2 DATE 1911
+1 DEAT Y
+2 DATE 1996
+1 FAMC @F500377@
+1 RIN MH:I500683
+1 _UID 58D8FCE8C55D190DFBA3A8F60AD71318
+0 @I500684@ INDI
+1 _UPD 27 MAR 2017 06:53:15 GMT -0500 
+1 NAME Konstancja /Rękosiewicz/
+2 GIVN Konstancja
+2 SURN Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 DEAT Y
+2 DATE 1895
+1 FAMC @F500319@
+1 RIN MH:I500684
+1 _UID 58D8FD2B060603F19FD88E77E18D501C
+0 @I500685@ INDI
+1 _UPD 27 MAR 2017 06:53:48 GMT -0500 
+1 NAME Pelagia /Rękosiewicz/
+2 GIVN Pelagia
+2 SURN Rękosiewicz
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 DEAT Y
+1 FAMC @F500319@
+1 RIN MH:I500685
+1 _UID 58D8FD4BBEF690876D9F69EB6B40FD29
+0 @I500686@ INDI
+1 _UPD 27 MAR 2017 06:57:00 GMT -0500 
+1 NAME Jan /Nawrocki/
+2 GIVN Jan
+2 SURN Nawrocki
+1 SEX M
+1 FAMS @F500378@
+1 RIN MH:I500686
+1 _UID 58D8FE0BB84834ACD74E6F3D7571C0C9
+0 @I500687@ INDI
+1 _UPD 27 MAR 2017 07:16:42 GMT -0500 
+1 NAME Cecylia /Machnik/
+2 GIVN Cecylia
+2 SURN Machnik
+1 SEX F
+1 FAMC @F500225@
+1 RIN MH:I500687
+1 _UID 58D902AA201A6ECDBE7552271167909B
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I4@
+1 CHIL @I3@
+1 RIN MH:F1
+1 _UID 5642315C7257B2495206A8A90918E13B
+1 MARR
+2 DATE 26 SEP 1987
+2 PLAC Białystok, Polska
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I2@
+1 RIN MH:F2
+1 _UID 564231F14099F24A6206A8A90918E13B
+1 MARR
+1 EVEN
+2 TYPE Death of Spouse
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I5@
+1 RIN MH:F3
+1 _UID 56423317B374E24AE206A8A90918E13B
+1 MARR
+1 EVEN
+2 TYPE Death of Spouse
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I9@
+1 CHIL @I67@
+1 CHIL @I68@
+1 CHIL @I1@
+1 RIN MH:F4
+1 _UID 564233983B70624B8206A8A90918E13B
+1 MARR
+2 DATE 1954
+1 EVEN
+2 TYPE Death of Spouse
+0 @F5@ FAM
+1 HUSB @I12@
+1 WIFE @I11@
+1 CHIL @I6@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 RIN MH:F5
+1 _UID 564233FBB0B7C24C2206A8A90918E13B
+1 MARR
+0 @F6@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I10@
+1 CHIL @I500005@
+1 CHIL @I500011@
+1 CHIL @I500001@
+1 CHIL @I500023@
+1 RIN MH:F6
+1 _UID 5642342B356D924CA206A8A90918E13B
+1 MARR
+0 @F7@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I500505@
+1 CHIL @I54@
+1 CHIL @I9@
+1 RIN MH:F7
+1 _UID 564234645A11E24D2206A8A90918E13B
+1 MARR
+1 EVEN
+2 TYPE Death of Spouse
+0 @F8@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I50@
+1 CHIL @I53@
+1 CHIL @I13@
+1 RIN MH:F8
+1 _UID 564234B72944024D9206A8A90918E13B
+1 MARR
+2 DATE 1891
+0 @F9@ FAM
+1 HUSB @I20@
+1 WIFE @I19@
+1 CHIL @I29@
+1 CHIL @I8@
+1 CHIL @I30@
+1 CHIL @I32@
+1 RIN MH:F9
+1 _UID 564234F1EB9F024E0206A8A90918E13B
+1 MARR
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I21@
+1 CHIL @I12@
+1 CHIL @I500391@
+1 CHIL @I500392@
+1 CHIL @I500398@
+1 RIN MH:F10
+1 _UID 56423543148AC24E8206A8A90918E13B
+1 MARR
+0 @F11@ FAM
+1 HUSB @I24@
+1 WIFE @I23@
+1 CHIL @I34@
+1 CHIL @I7@
+1 CHIL @I35@
+1 CHIL @I500414@
+1 CHIL @I36@
+1 RIN MH:F11
+1 _UID 564235919072124EF206A8A90918E13B
+1 MARR
+0 @F12@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I24@
+1 RIN MH:F12
+1 _UID 564235C8854B424F5206A8A90918E13B
+1 MARR
+0 @F14@ FAM
+1 WIFE @I30@
+1 CHIL @I33@
+1 RIN MH:F14
+1 _UID 56423800B6CB9250E206A8A90918E13B
+0 @F16@ FAM
+1 HUSB @I28@
+1 WIFE @I38@
+1 CHIL @I39@
+1 RIN MH:F16
+1 _UID 56423A949242F2521206A8A90918E13B
+1 MARR
+0 @F17@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 RIN MH:F17
+1 _UID 56423ABBEFAE02527206A8A90918E13B
+1 MARR
+0 @F18@ FAM
+1 HUSB @I27@
+1 WIFE @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 RIN MH:F18
+1 _UID 56423AF07DC41252D206A8A90918E13B
+1 MARR
+0 @F19@ FAM
+1 HUSB @I45@
+1 WIFE @I43@
+1 RIN MH:F19
+1 _UID 56423B9257F2B2539206A8A90918E13B
+1 MARR
+0 @F20@ FAM
+1 HUSB @I44@
+1 WIFE @I48@
+1 RIN MH:F20
+1 _UID 56423BC874F9B2541206A8A90918E13B
+1 MARR
+0 @F21@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I52@
+1 RIN MH:F21
+1 _UID 56423C2B15191254A206A8A90918E13B
+1 MARR
+0 @F22@ FAM
+1 HUSB @I58@
+1 WIFE @I55@
+1 CHIL @I59@
+1 CHIL @I60@
+1 RIN MH:F22
+1 _UID 56423D2A3F4C0255E206A8A90918E13B
+1 MARR
+0 @F23@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 RIN MH:F23
+1 _UID 56423D56554E62566206A8A90918E13B
+1 MARR
+0 @F24@ FAM
+1 HUSB @I63@
+1 WIFE @I500338@
+1 CHIL @I500501@
+1 CHIL @I500354@
+1 CHIL @I64@
+1 CHIL @I11@
+1 CHIL @I66@
+1 CHIL @I500355@
+1 CHIL @I500356@
+1 CHIL @I500358@
+1 CHIL @I500502@
+1 CHIL @I500503@
+1 CHIL @I500359@
+1 RIN MH:F24
+1 _UID 56423E8E523F8256C206A8A90918E13B
+1 MARR
+0 @F25@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 RIN MH:F25
+1 _UID 56424DA2D82D9257F206A8A90918E13B
+1 MARR
+0 @F27@ FAM
+1 HUSB @I67@
+1 WIFE @I74@
+1 RIN MH:F27
+1 _UID 56424DF7B5070258D206A8A90918E13B
+1 MARR
+0 @F31@ FAM
+1 HUSB @I82@
+1 WIFE @I3@
+1 RIN MH:F31
+1 _UID 56424F3559D5525AC206A8A90918E13B
+1 ENGA
+2 DATE 2015
+0 @F500001@ FAM
+1 HUSB @I500001@
+1 WIFE @I500002@
+1 CHIL @I500003@
+1 CHIL @I500004@
+1 RIN MH:F500001
+1 _UID 5643A4AF915F1631A206A8A90918E16B
+1 MARR
+0 @F500002@ FAM
+1 HUSB @I500006@
+1 WIFE @I500005@
+1 CHIL @I500010@
+1 CHIL @I500007@
+1 CHIL @I500008@
+1 CHIL @I500009@
+1 RIN MH:F500002
+1 _UID 5643A4AF94FFE6324206A8A90918E16B
+1 MARR
+0 @F500003@ FAM
+1 HUSB @I500011@
+1 WIFE @I500012@
+1 CHIL @I500013@
+1 CHIL @I500014@
+1 CHIL @I500015@
+1 RIN MH:F500003
+1 _UID 5643A4B07A8546330206A8A90918E16B
+1 MARR
+0 @F500004@ FAM
+1 HUSB @I500016@
+1 WIFE @I500124@
+1 CHIL @I17@
+1 CHIL @I500018@
+1 CHIL @I500019@
+1 CHIL @I500020@
+1 CHIL @I500561@
+1 CHIL @I500021@
+1 CHIL @I500022@
+1 RIN MH:F500004
+1 _UID 5647205361E4842D5206A8A90918E138
+1 MARR
+2 DATE 1865
+0 @F500105@ FAM
+1 HUSB @I500123@
+1 WIFE @I500013@
+1 RIN MH:F500105
+1 _UID 564B316C382BEAA50206A8A90918E186
+1 MARR
+0 @F500106@ FAM
+1 HUSB @I500125@
+1 WIFE @I500126@
+1 CHIL @I500142@
+1 CHIL @I18@
+1 CHIL @I500167@
+1 RIN MH:F500106
+1 _UID 564B316ECE1FEAAC0206A8A90918E186
+0 @F500107@ FAM
+1 HUSB @I500127@
+1 WIFE @I500021@
+1 CHIL @I500162@
+1 CHIL @I500143@
+1 RIN MH:F500107
+1 _UID 564B316ECF5F9AB10206A8A90918E186
+1 MARR
+0 @F500108@ FAM
+1 HUSB @I500128@
+1 WIFE @I500129@
+1 CHIL @I500147@
+1 CHIL @I500136@
+1 CHIL @I500130@
+1 CHIL @I500016@
+1 CHIL @I500294@
+1 RIN MH:F500108
+1 _UID 564B316ECFFA0AB50206A8A90918E186
+1 MARR
+2 DATE 1827
+0 @F500110@ FAM
+1 HUSB @I500133@
+1 WIFE @I500134@
+1 CHIL @I500124@
+1 CHIL @I500651@
+1 CHIL @I500332@
+1 CHIL @I500402@
+1 RIN MH:F500110
+1 _UID 564B316F29B5AAC40206A8A90918E186
+1 MARR
+2 DATE 1833
+0 @F500111@ FAM
+1 HUSB @I500020@
+1 WIFE @I500138@
+1 CHIL @I500137@
+1 RIN MH:F500111
+1 _UID 564CA4E23F7A44784206A8A90918ED58
+0 @F500112@ FAM
+1 HUSB @I500019@
+1 WIFE @I500140@
+1 CHIL @I500150@
+1 CHIL @I500139@
+1 CHIL @I500141@
+1 RIN MH:F500112
+1 _UID 564CA4E24134A4789206A8A90918ED58
+1 MARR
+2 DATE 1906
+0 @F500113@ FAM
+1 HUSB @I500130@
+1 WIFE @I500145@
+1 CHIL @I500144@
+1 RIN MH:F500113
+1 _UID 564CA4E39C0224798206A8A90918ED58
+1 EVEN
+2 TYPE Death of Spouse
+1 MARR
+0 @F500114@ FAM
+1 _UPD 7 MAR 2017 06:39:42 GMT -0500
+1 HUSB @I500146@
+1 WIFE @I500433@
+1 CHIL @I500128@
+1 RIN MH:F500114
+1 _UID 564CA4E39CDD4479C206A8A90918ED58
+0 @F500115@ FAM
+1 HUSB @I500148@
+1 WIFE @I500147@
+1 CHIL @I500151@
+1 CHIL @I500149@
+1 RIN MH:F500115
+1 _UID 564CA4E39E1C647A2206A8A90918ED58
+1 MARR
+2 DATE 1849
+0 @F500116@ FAM
+1 HUSB @I500136@
+1 WIFE @I500152@
+1 CHIL @I500153@
+1 CHIL @I500154@
+1 CHIL @I500508@
+1 CHIL @I500156@
+1 CHIL @I500155@
+1 CHIL @I500157@
+1 CHIL @I500158@
+1 RIN MH:F500116
+1 _UID 564CFAA991C65493B206A8A90918E7C4
+1 MARR
+0 @F500117@ FAM
+1 HUSB @I500130@
+1 WIFE @I500159@
+1 CHIL @I500161@
+1 CHIL @I500547@
+1 CHIL @I500548@
+1 CHIL @I500160@
+1 RIN MH:F500117
+1 _UID 564D02A4B286A79EA206A8A90918E155
+1 MARR
+2 DATE 1870
+0 @F500118@ FAM
+1 HUSB @I500164@
+1 WIFE @I500153@
+1 CHIL @I500163@
+1 CHIL @I500165@
+1 CHIL @I500166@
+1 RIN MH:F500118
+1 _UID 564DF6B65703F16E3206A8A90918E6C4
+1 MARR
+2 DATE 1889
+0 @F500119@ FAM
+1 HUSB @I500168@
+1 WIFE @I500169@
+1 CHIL @I500125@
+1 CHIL @I500173@
+1 CHIL @I500183@
+1 CHIL @I500174@
+1 RIN MH:F500119
+1 _UID 564DF6B65CEA916F0206A8A90918E6C4
+1 MARR
+2 DATE 1832
+0 @F500120@ FAM
+1 HUSB @I500170@
+1 WIFE @I500171@
+1 CHIL @I500309@
+1 CHIL @I500126@
+1 CHIL @I500431@
+1 CHIL @I500310@
+1 CHIL @I500323@
+1 CHIL @I500615@
+1 CHIL @I500460@
+1 RIN MH:F500120
+1 _UID 564DF6B97BBE716F9206A8A90918E6C4
+0 @F500121@ FAM
+1 HUSB @I500176@
+1 WIFE @I500173@
+1 CHIL @I500175@
+1 CHIL @I500284@
+1 CHIL @I500379@
+1 RIN MH:F500121
+1 _UID 564DF6B98060F1709206A8A90918E6C4
+0 @F500122@ FAM
+1 HUSB @I500178@
+1 WIFE @I500174@
+1 CHIL @I500177@
+1 RIN MH:F500122
+1 _UID 564DF6B981922170E206A8A90918E6C4
+0 @F500124@ FAM
+1 _UPD 21 MAR 2017 15:47:53 GMT -0500
+1 HUSB @I500182@
+1 WIFE @I500504@
+1 CHIL @I16@
+1 RIN MH:F500124
+1 _UID 5730a98e112361e6a24a206a8a90918e
+0 @F500225@ FAM
+1 HUSB @I15@
+1 WIFE @I500285@
+1 CHIL @I500287@
+1 CHIL @I500687@
+1 CHIL @I500286@
+1 RIN MH:F500225
+1 _UID 5730a9bad9c3e1e6a24a206a8a90918e
+1 MARR
+2 DATE 1937
+0 @F500229@ FAM
+1 _UPD 8 DEC 2016 17:05:46 GMT -0500
+1 HUSB @I34@
+1 WIFE @I500417@
+1 CHIL @I500295@
+1 RIN MH:F500229
+1 _UID 5730a9c16be331e6a24a206a8a90918e
+1 MARR
+0 @F500230@ FAM
+1 _UPD 8 DEC 2016 17:04:57 GMT -0500
+1 HUSB @I500416@
+1 WIFE @I500295@
+1 CHIL @I500299@
+1 RIN MH:F500230
+1 _UID 5730a9c52c4341e6a24a206a8a90918e
+1 MARR
+0 @F500232@ FAM
+1 HUSB @I500303@
+1 WIFE @I500304@
+1 CHIL @I500134@
+1 RIN MH:F500232
+1 _UID 5730a9df112361e6a24a206a8a90918e
+0 @F500233@ FAM
+1 HUSB @I500305@
+1 WIFE @I500306@
+1 CHIL @I500171@
+1 CHIL @I500383@
+1 CHIL @I500384@
+1 CHIL @I500382@
+1 RIN MH:F500233
+1 _UID 5730a9e22c4341e6a24a206a8a90918e
+0 @F500234@ FAM
+1 HUSB @I500307@
+1 WIFE @I500308@
+1 CHIL @I500312@
+1 CHIL @I500170@
+1 RIN MH:F500234
+1 _UID 5730a9e2e4a3c1e6a24a206a8a90918e
+0 @F500236@ FAM
+1 HUSB @I500315@
+1 WIFE @I500183@
+1 RIN MH:F500236
+1 _UID 5730a9e86be331e6a24a206a8a90918e
+1 MARR
+2 DATE 1887
+0 @F500237@ FAM
+1 HUSB @I500316@
+1 WIFE @I500183@
+1 RIN MH:F500237
+1 _UID 5730a9e89e6391e6a24a206a8a90918e
+1 EVEN
+2 TYPE Death of Spouse
+0 @F500238@ FAM
+1 HUSB @I500317@
+1 WIFE @I500183@
+1 CHIL @I500318@
+1 RIN MH:F500238
+1 _UID 5730a9e853f0f1e6a24a206a8a90918e
+1 MARR
+1 EVEN
+2 TYPE Death of Spouse
+0 @F500239@ FAM
+1 HUSB @I500320@
+1 WIFE @I500309@
+1 CHIL @I500319@
+1 CHIL @I500322@
+1 CHIL @I500321@
+1 RIN MH:F500239
+1 _UID 5730a9e9a303b1e6a24a206a8a90918e
+0 @F500240@ FAM
+1 _UPD 26 MAR 2017 08:26:39 GMT -0500
+1 HUSB @I500600@
+1 WIFE @I500323@
+1 CHIL @I500324@
+1 CHIL @I500326@
+1 CHIL @I500327@
+1 CHIL @I500328@
+1 CHIL @I500329@
+1 CHIL @I500330@
+1 RIN MH:F500240
+1 _UID 5730a9ef215321e6a24a206a8a90918e
+1 MARR
+0 @F500242@ FAM
+1 HUSB @I500332@
+1 WIFE @I500294@
+1 CHIL @I500334@
+1 CHIL @I500418@
+1 CHIL @I500419@
+1 RIN MH:F500242
+1 _UID 5730a9fbd9c3e1e6a24a206a8a90918e
+1 MARR
+2 DATE 1860
+0 @F500245@ FAM
+1 HUSB @I500339@
+1 WIFE @I500340@
+1 CHIL @I63@
+1 CHIL @I500362@
+1 CHIL @I500361@
+1 CHIL @I500363@
+1 CHIL @I500364@
+1 CHIL @I500365@
+1 CHIL @I500366@
+1 RIN MH:F500245
+1 _UID 5730aa01a303b1e6a24a206a8a90918e
+0 @F500246@ FAM
+1 HUSB @I500341@
+1 WIFE @I500342@
+1 CHIL @I500338@
+1 RIN MH:F500246
+1 _UID 5730aa01e1d021e6a24a206a8a90918e
+0 @F500247@ FAM
+1 HUSB @I500344@
+1 WIFE @I500343@
+1 CHIL @I500374@
+1 CHIL @I500373@
+1 CHIL @I500339@
+1 CHIL @I500375@
+1 CHIL @I500376@
+1 RIN MH:F500247
+1 _UID 5730aa03112361e6a24a206a8a90918e
+1 MARR
+2 DATE 1848
+0 @F500248@ FAM
+1 HUSB @I500345@
+1 WIFE @I500346@
+1 CHIL @I500343@
+1 RIN MH:F500248
+1 _UID 5730aa076be331e6a24a206a8a90918e
+0 @F500249@ FAM
+1 HUSB @I500347@
+1 WIFE @I500348@
+1 CHIL @I500344@
+1 CHIL @I500387@
+1 RIN MH:F500249
+1 _UID 5730aa072930a1e6a24a206a8a90918e
+1 MARR
+2 DATE 1825
+0 @F500250@ FAM
+1 HUSB @I500349@
+1 WIFE @I500350@
+1 CHIL @I500347@
+1 CHIL @I500408@
+1 CHIL @I500406@
+1 CHIL @I500407@
+1 RIN MH:F500250
+1 _UID 5730aa07da7fb1e6a24a206a8a90918e
+0 @F500251@ FAM
+1 HUSB @I500351@
+1 CHIL @I500348@
+1 RIN MH:F500251
+1 _UID 5730aa09112361e6a24a206a8a90918e
+0 @F500252@ FAM
+1 HUSB @I500352@
+1 WIFE @I500353@
+1 CHIL @I500345@
+1 RIN MH:F500252
+1 _UID 5730aa0c2c4341e6a24a206a8a90918e
+0 @F500254@ FAM
+1 HUSB @I500367@
+1 WIFE @I500368@
+1 CHIL @I500340@
+1 RIN MH:F500254
+1 _UID 5730aa20112361e6a24a206a8a90918e
+0 @F500255@ FAM
+1 HUSB @I500372@
+1 CHIL @I500349@
+1 RIN MH:F500255
+1 _UID 5730aa232c4341e6a24a206a8a90918e
+0 @F500256@ FAM
+1 HUSB @I500378@
+1 WIFE @I500175@
+1 CHIL @I500377@
+1 RIN MH:F500256
+1 _UID 5730aa2a1c3301e6a24a206a8a90918e
+0 @F500257@ FAM
+1 HUSB @I500380@
+1 WIFE @I500142@
+1 RIN MH:F500257
+1 _UID 5730aa31e4a3c1e6a24a206a8a90918e
+1 MARR
+0 @F500259@ FAM
+1 HUSB @I500376@
+1 WIFE @I500388@
+1 RIN MH:F500259
+1 _UID 5730aa39215321e6a24a206a8a90918e
+1 MARR
+0 @F500261@ FAM
+1 HUSB @I500390@
+1 WIFE @I500149@
+1 CHIL @I500649@
+1 RIN MH:F500261
+1 _UID 5730aa40568311e6a24a206a8a90918e
+1 MARR
+0 @F500263@ FAM
+1 HUSB @I500396@
+1 WIFE @I500397@
+1 CHIL @I500399@
+1 CHIL @I22@
+1 RIN MH:F500263
+1 _UID 5741a37a4fb0e1e6a24d206a8a90918e
+0 @F500264@ FAM
+1 _UPD 11 DEC 2016 19:34:56 GMT -0500
+1 HUSB @I500420@
+1 WIFE @I500312@
+1 CHIL @I500400@
+1 RIN MH:F500264
+1 _UID 578d1edfb6c041e6a25b206a8a90918e
+0 @F500265@ FAM
+1 HUSB @I500161@
+1 WIFE @I500403@
+1 RIN MH:F500265
+1 _UID 57929b70cc9f71e6a25b206a8a90918e
+1 MARR
+0 @F500266@ FAM
+1 HUSB @I500404@
+1 WIFE @I500294@
+1 RIN MH:F500266
+1 _UID 5794013113a631e6a25b206a8a90918e
+1 MARR
+0 @F500267@ FAM
+1 HUSB @I500344@
+1 WIFE @I500405@
+1 RIN MH:F500267
+1 _UID 57aa24d26a7cc1e6a25e206a8a90918e
+1 MARR
+0 @F500268@ FAM
+1 _UPD 26 MAR 2017 16:47:35 GMT -0500
+1 HUSB @I500629@
+1 WIFE @I500410@
+1 CHIL @I500633@
+1 CHIL @I500634@
+1 CHIL @I500637@
+1 CHIL @I500638@
+1 CHIL @I500639@
+1 CHIL @I500640@
+1 CHIL @I500641@
+1 CHIL @I500138@
+1 RIN MH:F500268
+1 _UID 57F183A08452AA0D3A3878B1C43147F4
+1 MARR
+0 @F500269@ FAM
+1 _UPD 4 OCT 2016 14:47:01 GMT -0500
+1 HUSB @I500411@
+1 WIFE @I500160@
+1 RIN MH:F500269
+1 _UID 57F407352EF992437BB7E311E18BCD59
+1 MARR
+2 DATE 1907
+0 @F500271@ FAM
+1 _UPD 11 DEC 2016 19:35:32 GMT -0500
+1 HUSB @I500421@
+1 WIFE @I500400@
+1 CHIL @I500425@
+1 RIN MH:F500271
+1 _UID 584DFEE43012F1793D262745F322470F
+1 MARR
+0 @F500273@ FAM
+1 _UPD 11 DEC 2016 19:37:15 GMT -0500
+1 HUSB @I500424@
+1 WIFE @I500400@
+1 RIN MH:F500273
+1 _UID 584DFF4BEDE5B7A9EF33C5CB8D286A96
+1 MARR
+0 @F500275@ FAM
+1 _UPD 15 DEC 2016 06:34:09 GMT -0500
+1 HUSB @I500430@
+1 CHIL @I500169@
+1 RIN MH:F500275
+1 _UID 58528DC128ADFF0EF19E8A04421D0448
+0 @F500276@ FAM
+1 _UPD 7 MAR 2017 06:40:40 GMT -0500
+1 HUSB @I500435@
+1 WIFE @I500434@
+1 CHIL @I500433@
+1 RIN MH:F500276
+1 _UID 58BEAA37F2DBEEF4FD7ECC8A2D891EF1
+0 @F500277@ FAM
+1 _UPD 7 MAR 2017 06:41:23 GMT -0500
+1 HUSB @I500436@
+1 WIFE @I500437@
+1 CHIL @I500146@
+1 RIN MH:F500277
+1 _UID 58BEAA669F026DFB67DE709C74C9DF0A
+0 @F500278@ FAM
+1 _UPD 13 MAR 2017 21:09:22 GMT -0500
+1 HUSB @I500438@
+1 WIFE @I500439@
+1 CHIL @I15@
+1 CHIL @I500444@
+1 CHIL @I500445@
+1 CHIL @I500446@
+1 CHIL @I500449@
+1 CHIL @I500451@
+1 RIN MH:F500278
+1 _UID 58C750BFDD2CD8CDF7B12DB8BD74CEAC
+0 @F500279@ FAM
+1 _UPD 13 MAR 2017 21:34:05 GMT -0500
+1 HUSB @I500440@
+1 WIFE @I500441@
+1 CHIL @I500457@
+1 CHIL @I500438@
+1 CHIL @I500585@
+1 CHIL @I500459@
+1 CHIL @I500458@
+1 RIN MH:F500279
+1 _UID 58C7568AD432BCF86D10C0C41994DECD
+0 @F500280@ FAM
+1 _UPD 13 MAR 2017 21:34:39 GMT -0500
+1 HUSB @I500442@
+1 WIFE @I500443@
+1 CHIL @I500466@
+1 CHIL @I500465@
+1 CHIL @I500439@
+1 RIN MH:F500280
+1 _UID 58C756AB148470CB55CD7DF744F449E3
+0 @F500281@ FAM
+1 _UPD 13 MAR 2017 21:37:20 GMT -0500
+1 HUSB @I500448@
+1 WIFE @I500446@
+1 CHIL @I500447@
+1 RIN MH:F500281
+1 _UID 58C7576003F35571400D19F1E21BC220
+0 @F500282@ FAM
+1 _UPD 13 MAR 2017 21:47:05 GMT -0500
+1 HUSB @I500438@
+1 WIFE @I500452@
+1 CHIL @I500477@
+1 CHIL @I500478@
+1 RIN MH:F500282
+1 _UID 58C759A92CFCB33AF3560A032A6FBE4B
+1 MARR
+0 @F500283@ FAM
+1 _UPD 13 MAR 2017 21:52:50 GMT -0500
+1 HUSB @I500453@
+1 WIFE @I500454@
+1 CHIL @I500441@
+1 RIN MH:F500283
+1 _UID 58C75AF361CC7D2640C69DE9F4486230
+0 @F500284@ FAM
+1 _UPD 13 MAR 2017 21:53:25 GMT -0500
+1 HUSB @I500455@
+1 WIFE @I500456@
+1 CHIL @I500440@
+1 CHIL @I500462@
+1 RIN MH:F500284
+1 _UID 58C75B17507E7EE80445AE2BDB50E353
+0 @F500285@ FAM
+1 _UPD 13 MAR 2017 22:03:10 GMT -0500
+1 HUSB @I500461@
+1 WIFE @I500460@
+1 RIN MH:F500285
+1 _UID 58C75D6EBECB0A5EE75DE008BB73B93B
+1 MARR
+0 @F500286@ FAM
+1 _UPD 13 MAR 2017 22:08:26 GMT -0500
+1 HUSB @I500464@
+1 WIFE @I500462@
+1 CHIL @I500463@
+1 RIN MH:F500286
+1 _UID 58C75EAAD507AB96E7C06F2E3F702FA4
+0 @F500287@ FAM
+1 _UPD 13 MAR 2017 22:21:43 GMT -0500
+1 HUSB @I500467@
+1 WIFE @I500468@
+1 CHIL @I500443@
+1 CHIL @I500528@
+1 CHIL @I500473@
+1 CHIL @I500472@
+1 RIN MH:F500287
+1 _UID 58C761AD8CCF4F210D3D3B34EFF518AF
+0 @F500288@ FAM
+1 _UPD 13 MAR 2017 22:22:52 GMT -0500
+1 HUSB @I500469@
+1 WIFE @I500470@
+1 CHIL @I500471@
+1 CHIL @I500442@
+1 RIN MH:F500288
+1 _UID 58C761EDF08D2846D6162D1F37E4F778
+0 @F500289@ FAM
+1 _UPD 13 MAR 2017 22:26:06 GMT -0500
+1 HUSB @I500471@
+1 WIFE @I500472@
+1 CHIL @I500474@
+1 CHIL @I500522@
+1 CHIL @I500475@
+1 CHIL @I500476@
+1 CHIL @I500525@
+1 CHIL @I500531@
+1 RIN MH:F500289
+1 _UID 58C762CE73B0EFBA61DF5FC1D69F2BE0
+1 MARR
+0 @F500290@ FAM
+1 _UPD 14 MAR 2017 17:50:49 GMT -0500
+1 HUSB @I500479@
+1 WIFE @I500480@
+1 CHIL @I500492@
+1 CHIL @I14@
+1 RIN MH:F500290
+1 _UID 58C873ABE4001D82C9B1EB5B16B633D5
+0 @F500291@ FAM
+1 _UPD 14 MAR 2017 18:00:36 GMT -0500
+1 HUSB @I500481@
+1 WIFE @I500482@
+1 CHIL @I500489@
+1 CHIL @I500491@
+1 CHIL @I500490@
+1 CHIL @I500479@
+1 CHIL @I500488@
+1 RIN MH:F500291
+1 _UID 58C875FD5521E606B19DCAE1830911B5
+0 @F500292@ FAM
+1 _UPD 14 MAR 2017 18:01:33 GMT -0500
+1 HUSB @I500483@
+1 WIFE @I500484@
+1 CHIL @I500480@
+1 CHIL @I500485@
+1 CHIL @I500486@
+1 CHIL @I500487@
+1 RIN MH:F500292
+1 _UID 58C8763FC148FDCF340688E86CCC0E08
+0 @F500293@ FAM
+1 _UPD 15 MAR 2017 08:40:55 GMT -0500
+1 HUSB @I500493@
+1 WIFE @I500492@
+1 CHIL @I500494@
+1 CHIL @I500495@
+1 CHIL @I500496@
+1 RIN MH:F500293
+1 _UID 58C94467619F8B5A5F1159FF9EA6D0D9
+1 MARR
+0 @F500294@ FAM
+1 _UPD 17 MAR 2017 16:50:52 GMT -0500
+1 HUSB @I500498@
+1 WIFE @I500497@
+1 CHIL @I500483@
+1 RIN MH:F500294
+1 _UID 58CC5A07471CB12819D61BE9A8F91B4A
+0 @F500295@ FAM
+1 _UPD 17 MAR 2017 16:55:00 GMT -0500
+1 HUSB @I500499@
+1 CHIL @I500498@
+1 RIN MH:F500295
+1 _UID 58CC5B341215368F2552D9E9DC1C757A
+0 @F500296@ FAM
+1 _UPD 17 MAR 2017 16:56:41 GMT -0500
+1 HUSB @I500500@
+1 CHIL @I500497@
+1 RIN MH:F500296
+1 _UID 58CC5B99A54DEDD2E50A8B5687F49B29
+0 @F500297@ FAM
+1 _UPD 22 MAR 2017 19:02:25 GMT -0500
+1 HUSB @I500506@
+1 WIFE @I500507@
+1 CHIL @I500613@
+1 CHIL @I500464@
+1 RIN MH:F500297
+1 _UID 58D3107BA7701E714DD766C50BBE851C
+0 @F500298@ FAM
+1 _UPD 25 MAR 2017 19:56:23 GMT -0500
+1 HUSB @I500508@
+1 WIFE @I500509@
+1 CHIL @I500510@
+1 CHIL @I500574@
+1 CHIL @I500575@
+1 RIN MH:F500298
+1 _UID 58D711B769352FDEF97789E56ED2D0C7
+1 MARR
+0 @F500299@ FAM
+1 _UPD 25 MAR 2017 19:57:32 GMT -0500
+1 HUSB @I500510@
+1 WIFE @I500511@
+1 CHIL @I500512@
+1 RIN MH:F500299
+1 _UID 58D711FC80AB2CF652E307CBDE22F5E6
+1 MARR
+0 @F500300@ FAM
+1 _UPD 25 MAR 2017 19:58:29 GMT -0500
+1 HUSB @I500513@
+1 WIFE @I500512@
+1 CHIL @I500514@
+1 RIN MH:F500300
+1 _UID 58D71235600D33808CF4CF1538A10452
+1 MARR
+0 @F500301@ FAM
+1 _UPD 25 MAR 2017 19:59:30 GMT -0500
+1 HUSB @I500515@
+1 WIFE @I500516@
+1 CHIL @I500517@
+1 CHIL @I500513@
+1 CHIL @I500518@
+1 CHIL @I500519@
+1 RIN MH:F500301
+1 _UID 58D7125DDA71C268A304E31F9BC34B7C
+0 @F500302@ FAM
+1 _UPD 25 MAR 2017 20:03:32 GMT -0500
+1 HUSB @I500520@
+1 WIFE @I500517@
+1 RIN MH:F500302
+1 _UID 58D71364BDE6175EE8EE499FB1FC0C3B
+1 MARR
+0 @F500303@ FAM
+1 _UPD 25 MAR 2017 20:06:52 GMT -0500
+1 HUSB @I500521@
+1 WIFE @I500473@
+1 CHIL @I500523@
+1 CHIL @I500524@
+1 CHIL @I500526@
+1 CHIL @I500530@
+1 CHIL @I500533@
+1 CHIL @I500535@
+1 RIN MH:F500303
+1 _UID 58D7142CBC4F167887A8C0C73F10B032
+1 MARR
+0 @F500304@ FAM
+1 _UPD 25 MAR 2017 20:21:22 GMT -0500
+1 HUSB @I500527@
+1 WIFE @I500466@
+1 RIN MH:F500304
+1 _UID 58D717927628216C2441E4A3265A811E
+1 MARR
+0 @F500305@ FAM
+1 _UPD 25 MAR 2017 20:24:02 GMT -0500
+1 HUSB @I500528@
+1 WIFE @I500529@
+1 CHIL @I500532@
+1 CHIL @I500534@
+1 RIN MH:F500305
+1 _UID 58D718325131D1B8C79DD6196ED51B7B
+1 MARR
+0 @F500306@ FAM
+1 _UPD 25 MAR 2017 20:36:32 GMT -0500
+1 HUSB @I500536@
+1 WIFE @I500537@
+1 CHIL @I500467@
+1 RIN MH:F500306
+1 _UID 58D71B10B0E7740CC839B18EE0C09528
+0 @F500307@ FAM
+1 _UPD 25 MAR 2017 20:40:00 GMT -0500
+1 HUSB @I500538@
+1 WIFE @I500539@
+1 CHIL @I500468@
+1 RIN MH:F500307
+1 _UID 58D71BE8EE1AA177A59788C066480D70
+0 @F500308@ FAM
+1 _UPD 25 MAR 2017 21:00:52 GMT -0500
+1 HUSB @I500540@
+1 WIFE @I500541@
+1 CHIL @I500543@
+1 CHIL @I500421@
+1 CHIL @I500542@
+1 RIN MH:F500308
+1 _UID 58D720C2A9A6EC7722675B122D1EC675
+0 @F500309@ FAM
+1 _UPD 25 MAR 2017 21:04:02 GMT -0500
+1 HUSB @I500543@
+1 WIFE @I500544@
+1 RIN MH:F500309
+1 _UID 58D721929DB8539ED39C9FF70CA9DD34
+1 MARR
+0 @F500310@ FAM
+1 _UPD 25 MAR 2017 21:06:09 GMT -0500
+1 HUSB @I500545@
+1 CHIL @I500541@
+1 RIN MH:F500310
+1 _UID 58D722118C78176140E3167F855B0F7D
+0 @F500311@ FAM
+1 _UPD 25 MAR 2017 21:06:21 GMT -0500
+1 HUSB @I500546@
+1 CHIL @I500540@
+1 RIN MH:F500311
+1 _UID 58D7221D3E1D9C6B7756D4F82AC29BF4
+0 @F500312@ FAM
+1 _UPD 26 MAR 2017 07:00:31 GMT -0500
+1 HUSB @I500549@
+1 WIFE @I500154@
+1 CHIL @I500573@
+1 RIN MH:F500312
+1 _UID 58D7AD5F6D7285A42DB88121FADBA99B
+1 MARR
+0 @F500313@ FAM
+1 _UPD 26 MAR 2017 07:02:09 GMT -0500
+1 HUSB @I500018@
+1 WIFE @I500550@
+1 RIN MH:F500313
+1 _UID 58D7ADC1E4E2E7B800971987C848AFF4
+1 MARR
+0 @F500314@ FAM
+1 _UPD 26 MAR 2017 07:02:36 GMT -0500
+1 HUSB @I500551@
+1 WIFE @I500552@
+1 CHIL @I500550@
+1 RIN MH:F500314
+1 _UID 58D7ADD07CF4FAE5D4069DDBF0AEA681
+0 @F500315@ FAM
+1 _UPD 26 MAR 2017 07:06:32 GMT -0500
+1 HUSB @I500554@
+1 WIFE @I500553@
+1 CHIL @I500127@
+1 RIN MH:F500315
+1 _UID 58D7AEBF4E6C12EBC37204F12F8A31E4
+0 @F500316@ FAM
+1 _UPD 26 MAR 2017 07:08:17 GMT -0500
+1 HUSB @I500555@
+1 WIFE @I500556@
+1 CHIL @I500411@
+1 RIN MH:F500316
+1 _UID 58D7AF23BA692EC405AC5DEBCF95BA38
+0 @F500317@ FAM
+1 _UPD 26 MAR 2017 07:09:51 GMT -0500
+1 HUSB @I500557@
+1 WIFE @I500558@
+1 CHIL @I500403@
+1 RIN MH:F500317
+1 _UID 58D7AF820ED3FDABC8749A3CEB971D37
+0 @F500318@ FAM
+1 _UPD 26 MAR 2017 07:11:21 GMT -0500
+1 HUSB @I500560@
+1 WIFE @I500559@
+1 CHIL @I500159@
+1 RIN MH:F500318
+1 _UID 58D7AFD71DEBFAB3347A09DA6B9E2DF0
+0 @F500319@ FAM
+1 _UPD 26 MAR 2017 07:21:04 GMT -0500
+1 HUSB @I500562@
+1 WIFE @I500334@
+1 CHIL @I500685@
+1 CHIL @I500684@
+1 RIN MH:F500319
+1 _UID 58D7B23061EAC6E44650D46A80DC3124
+1 MARR
+0 @F500320@ FAM
+1 _UPD 26 MAR 2017 07:21:46 GMT -0500
+1 HUSB @I500564@
+1 WIFE @I500563@
+1 CHIL @I500601@
+1 CHIL @I500600@
+1 CHIL @I500562@
+1 RIN MH:F500320
+1 _UID 58D7B25222D39E147257A6B0875E7EF9
+0 @F500321@ FAM
+1 _UPD 26 MAR 2017 07:23:27 GMT -0500
+1 HUSB @I500565@
+1 WIFE @I500566@
+1 CHIL @I500315@
+1 CHIL @I500597@
+1 CHIL @I500587@
+1 CHIL @I500591@
+1 CHIL @I500593@
+1 RIN MH:F500321
+1 _UID 58D7B2A89E0BE999E7E5E599F32E5CF3
+0 @F500322@ FAM
+1 _UPD 26 MAR 2017 07:26:56 GMT -0500
+1 HUSB @I500567@
+1 WIFE @I500568@
+1 CHIL @I500549@
+1 RIN MH:F500322
+1 _UID 58D7B386AB83E9BAE82BF6D0E99CF711
+0 @F500323@ FAM
+1 _UPD 26 MAR 2017 07:27:42 GMT -0500
+1 HUSB @I500569@
+1 WIFE @I500419@
+1 RIN MH:F500323
+1 _UID 58D7B3BE0EE97B1C0D8DC3D8F1C9E7F4
+1 MARR
+0 @F500324@ FAM
+1 _UPD 26 MAR 2017 07:28:36 GMT -0500
+1 HUSB @I500418@
+1 WIFE @I500570@
+1 RIN MH:F500324
+1 _UID 58D7B3F4C0B48710879844969639A164
+1 MARR
+0 @F500325@ FAM
+1 _UPD 26 MAR 2017 07:29:10 GMT -0500
+1 HUSB @I500571@
+1 WIFE @I500572@
+1 CHIL @I500570@
+1 RIN MH:F500325
+1 _UID 58D7B40486B80699DBC1C1637CBBF0B7
+0 @F500326@ FAM
+1 _UPD 26 MAR 2017 07:36:40 GMT -0500
+1 HUSB @I500576@
+1 WIFE @I500163@
+1 RIN MH:F500326
+1 _UID 58D7B5D87175F2D7E329FCAB593FBCE9
+1 MARR
+0 @F500327@ FAM
+1 _UPD 26 MAR 2017 07:37:30 GMT -0500
+1 HUSB @I500577@
+1 WIFE @I500578@
+1 CHIL @I500576@
+1 RIN MH:F500327
+1 _UID 58D7B60007EEBF1E8A529B43E3A45B2A
+0 @F500328@ FAM
+1 _UPD 26 MAR 2017 07:38:23 GMT -0500
+1 HUSB @I500579@
+1 WIFE @I500580@
+1 CHIL @I500164@
+1 RIN MH:F500328
+1 _UID 58D7B633922E8CB3B63FD21E1D11C2D0
+0 @F500329@ FAM
+1 _UPD 26 MAR 2017 07:43:21 GMT -0500
+1 HUSB @I500581@
+1 WIFE @I500582@
+1 CHIL @I500390@
+1 RIN MH:F500329
+1 _UID 58D7B75D84EB5A0106700706D0975B8D
+0 @F500330@ FAM
+1 _UPD 26 MAR 2017 07:45:32 GMT -0500
+1 HUSB @I500583@
+1 WIFE @I500584@
+1 CHIL @I500669@
+1 CHIL @I500569@
+1 RIN MH:F500330
+1 _UID 58D7B7E175E4C24A619BB5F04FF8FF8E
+0 @F500331@ FAM
+1 _UPD 26 MAR 2017 08:01:47 GMT -0500
+1 HUSB @I500585@
+1 WIFE @I500586@
+1 RIN MH:F500331
+1 _UID 58D7BBBBE0AAF67F10EE4F75115A0B15
+1 MARR
+0 @F500332@ FAM
+1 _UPD 26 MAR 2017 08:06:15 GMT -0500
+1 HUSB @I500587@
+1 WIFE @I500588@
+1 RIN MH:F500332
+1 _UID 58D7BCC7D13D4F3C70B120B5C960645E
+1 MARR
+0 @F500333@ FAM
+1 _UPD 26 MAR 2017 08:06:50 GMT -0500
+1 HUSB @I500589@
+1 WIFE @I500590@
+1 CHIL @I500609@
+1 CHIL @I500588@
+1 RIN MH:F500333
+1 _UID 58D7BCDCA0063803FE20DE1F16878716
+0 @F500334@ FAM
+1 _UPD 26 MAR 2017 08:09:46 GMT -0500
+1 HUSB @I500592@
+1 WIFE @I500591@
+1 RIN MH:F500334
+1 _UID 58D7BD9A83EA5255408F473A0B07355F
+1 MARR
+0 @F500335@ FAM
+1 _UPD 26 MAR 2017 08:11:12 GMT -0500
+1 HUSB @I500593@
+1 WIFE @I500594@
+1 RIN MH:F500335
+1 _UID 58D7BDF00DAB8A8795E08F89003FFE42
+1 MARR
+0 @F500336@ FAM
+1 _UPD 26 MAR 2017 08:11:56 GMT -0500
+1 HUSB @I500595@
+1 WIFE @I500596@
+1 CHIL @I500594@
+1 RIN MH:F500336
+1 _UID 58D7BE0F61C63E806D87D2F9F28B3BDA
+0 @F500337@ FAM
+1 _UPD 26 MAR 2017 08:14:38 GMT -0500
+1 HUSB @I500598@
+1 WIFE @I500597@
+1 RIN MH:F500337
+1 _UID 58D7BEBE6946CB080B0403928BC4E7F9
+1 MARR
+0 @F500338@ FAM
+1 _UPD 26 MAR 2017 08:19:34 GMT -0500
+1 HUSB @I500384@
+1 WIFE @I500599@
+1 RIN MH:F500338
+1 _UID 58D7BFE66C08BA79FEAD1649F99D1777
+1 MARR
+0 @F500339@ FAM
+1 _UPD 26 MAR 2017 08:30:21 GMT -0500
+1 HUSB @I500602@
+1 WIFE @I500601@
+1 RIN MH:F500339
+1 _UID 58D7C26DB233776EB3B1EF502EF2F05F
+1 MARR
+0 @F500340@ FAM
+1 _UPD 26 MAR 2017 08:31:00 GMT -0500
+1 HUSB @I500603@
+1 WIFE @I500604@
+1 CHIL @I500602@
+1 RIN MH:F500340
+1 _UID 58D7C27A027824A36D062EA4EC319193
+0 @F500341@ FAM
+1 _UPD 26 MAR 2017 08:32:24 GMT -0500
+1 HUSB @I500605@
+1 WIFE @I500606@
+1 CHIL @I500564@
+1 RIN MH:F500341
+1 _UID 58D7C2DC1F44C0685D86EF62C64A461F
+0 @F500342@ FAM
+1 _UPD 26 MAR 2017 15:59:49 GMT -0500
+1 HUSB @I500607@
+1 WIFE @I500608@
+1 CHIL @I500590@
+1 RIN MH:F500342
+1 _UID 58D82BBC14DA0CAB7A65985E5863DA75
+0 @F500343@ FAM
+1 _UPD 26 MAR 2017 16:01:56 GMT -0500
+1 HUSB @I500609@
+1 WIFE @I500610@
+1 RIN MH:F500343
+1 _UID 58D82C44BFA1C1ACD38496BA0EBEE362
+1 MARR
+0 @F500344@ FAM
+1 _UPD 26 MAR 2017 16:02:57 GMT -0500
+1 HUSB @I500611@
+1 WIFE @I500612@
+1 CHIL @I500589@
+1 RIN MH:F500344
+1 _UID 58D82C79BB3D0B735441DF8D6CDE7AF6
+0 @F500345@ FAM
+1 _UPD 26 MAR 2017 16:09:49 GMT -0500
+1 HUSB @I500613@
+1 WIFE @I500614@
+1 RIN MH:F500345
+1 _UID 58D82E1D3815EB3049D063BA3F006BC9
+1 MARR
+0 @F500347@ FAM
+1 _UPD 26 MAR 2017 16:31:19 GMT -0500
+1 HUSB @I500461@
+1 WIFE @I500310@
+1 RIN MH:F500347
+1 _UID 58D83327A3724A7609850027BA7B4FBB
+1 EVEN
+2 TYPE Death of Spouse
+0 @F500348@ FAM
+1 _UPD 26 MAR 2017 16:32:03 GMT -0500
+1 HUSB @I500616@
+1 WIFE @I500617@
+1 CHIL @I500461@
+1 RIN MH:F500348
+1 _UID 58D8334695C554EFFE074372A888C8FF
+0 @F500349@ FAM
+1 _UPD 26 MAR 2017 16:38:38 GMT -0500
+1 HUSB @I500431@
+1 WIFE @I500618@
+1 RIN MH:F500349
+1 _UID 58D834DEB1CC27689036C10FAB4C4284
+1 MARR
+0 @F500350@ FAM
+1 _UPD 26 MAR 2017 16:39:02 GMT -0500
+1 HUSB @I500619@
+1 WIFE @I500620@
+1 CHIL @I500618@
+1 RIN MH:F500350
+1 _UID 58D834EEE8D9848174961952B73659BA
+0 @F500351@ FAM
+1 _UPD 26 MAR 2017 16:40:16 GMT -0500
+1 HUSB @I500621@
+1 WIFE @I500622@
+1 CHIL @I500553@
+1 RIN MH:F500351
+1 _UID 58D835318F9252B02CCA437F6EDC8D84
+0 @F500352@ FAM
+1 _UPD 26 MAR 2017 16:41:18 GMT -0500
+1 HUSB @I500623@
+1 WIFE @I500624@
+1 CHIL @I500554@
+1 CHIL @I500629@
+1 CHIL @I500625@
+1 RIN MH:F500352
+1 _UID 58D8357284F9AAD0A3859ACF2722D43F
+0 @F500353@ FAM
+1 _UPD 26 MAR 2017 16:43:08 GMT -0500
+1 HUSB @I500625@
+1 WIFE @I500626@
+1 RIN MH:F500353
+1 _UID 58D835EC70717AFE2DE83CDF143418D5
+1 MARR
+0 @F500354@ FAM
+1 _UPD 26 MAR 2017 16:43:38 GMT -0500
+1 HUSB @I500627@
+1 WIFE @I500628@
+1 CHIL @I500626@
+1 RIN MH:F500354
+1 _UID 58D835FB2A3C9423B4E3F905F78E0F39
+0 @F500356@ FAM
+1 _UPD 26 MAR 2017 16:50:16 GMT -0500
+1 HUSB @I500631@
+1 WIFE @I500410@
+1 CHIL @I500648@
+1 CHIL @I500642@
+1 CHIL @I500646@
+1 CHIL @I500644@
+1 CHIL @I500632@
+1 RIN MH:F500356
+1 _UID 58D837981D1D1C40EB7B160ADEB181C8
+1 MARR
+0 @F500357@ FAM
+1 _UPD 26 MAR 2017 16:52:23 GMT -0500
+1 HUSB @I500635@
+1 WIFE @I500636@
+1 CHIL @I500410@
+1 RIN MH:F500357
+1 _UID 58D8380876EEF9AC74A0D9211B3AFDE2
+0 @F500358@ FAM
+1 _UPD 26 MAR 2017 16:57:46 GMT -0500
+1 HUSB @I500643@
+1 WIFE @I500642@
+1 RIN MH:F500358
+1 _UID 58D8395AB8A58CF19E881E09DF18AB72
+1 MARR
+0 @F500359@ FAM
+1 _UPD 26 MAR 2017 16:58:46 GMT -0500
+1 HUSB @I500644@
+1 WIFE @I500645@
+1 RIN MH:F500359
+1 _UID 58D839961CEF3BF4CD4B365F91EC61A7
+1 MARR
+0 @F500360@ FAM
+1 _UPD 26 MAR 2017 17:00:15 GMT -0500
+1 HUSB @I500647@
+1 WIFE @I500646@
+1 RIN MH:F500360
+1 _UID 58D839EF81E740BFD93DF36F702557D2
+1 MARR
+0 @F500361@ FAM
+1 _UPD 26 MAR 2017 17:01:39 GMT -0500
+1 HUSB @I500648@
+1 WIFE @I500649@
+1 RIN MH:F500361
+1 _UID 58D83A431015D8F418B89B2C2DE71B7B
+1 MARR
+0 @F500363@ FAM
+1 _UPD 27 MAR 2017 03:05:51 GMT -0500
+1 HUSB @I500651@
+1 WIFE @I500652@
+1 RIN MH:F500363
+1 _UID 58D8C7DF4741045D2D5810A479CDA11E
+1 MARR
+0 @F500364@ FAM
+1 _UPD 27 MAR 2017 03:06:26 GMT -0500
+1 HUSB @I500653@
+1 WIFE @I500654@
+1 CHIL @I500652@
+1 RIN MH:F500364
+1 _UID 58D8C7F0272D7E594EF5BA91EB93E2F2
+0 @F500365@ FAM
+1 _UPD 27 MAR 2017 03:09:38 GMT -0500
+1 HUSB @I500655@
+1 WIFE @I500425@
+1 RIN MH:F500365
+1 _UID 58D8C8C2D885154415D6926920E37EFF
+1 MARR
+0 @F500366@ FAM
+1 _UPD 27 MAR 2017 05:05:49 GMT -0500
+1 HUSB @I500656@
+1 WIFE @I500657@
+1 CHIL @I500659@
+1 CHIL @I500012@
+1 RIN MH:F500366
+1 _UID 58D8E3E43A2BE5047852E9B873879093
+1 MARR
+2 DATE 1933
+0 @F500367@ FAM
+1 _UPD 27 MAR 2017 05:32:46 GMT -0500
+1 HUSB @I500656@
+1 WIFE @I500658@
+1 RIN MH:F500367
+1 _UID 58D8E491E12548F06DB04CCB9A25EE5E
+1 MARR
+1 EVEN
+2 TYPE Death of Spouse
+0 @F500368@ FAM
+1 _UPD 27 MAR 2017 05:10:08 GMT -0500
+1 HUSB @I500660@
+1 WIFE @I500661@
+1 CHIL @I500668@
+1 CHIL @I500673@
+1 CHIL @I500656@
+1 RIN MH:F500368
+1 _UID 58D8E4E2E547A2CC71910B83EA1ED0C3
+0 @F500369@ FAM
+1 _UPD 27 MAR 2017 05:13:38 GMT -0500
+1 HUSB @I500662@
+1 WIFE @I500663@
+1 CHIL @I500661@
+1 CHIL @I500666@
+1 RIN MH:F500369
+1 _UID 58D8E5BB4209F55B69C7FB5C5505E2A5
+0 @F500370@ FAM
+1 _UPD 27 MAR 2017 05:14:22 GMT -0500
+1 HUSB @I500664@
+1 WIFE @I500665@
+1 CHIL @I500660@
+1 RIN MH:F500370
+1 _UID 58D8E5EEB795C7212CBC842AC0133D81
+0 @F500371@ FAM
+1 _UPD 27 MAR 2017 05:16:02 GMT -0500
+1 HUSB @I500666@
+1 WIFE @I500667@
+1 RIN MH:F500371
+1 _UID 58D8E66257EC57A748E843E5A417E54B
+1 MARR
+0 @F500372@ FAM
+1 _UPD 27 MAR 2017 05:21:10 GMT -0500
+1 HUSB @I500670@
+1 WIFE @I500669@
+1 RIN MH:F500372
+1 _UID 58D8E7963E36EDA455BA9D82818C41C2
+1 MARR
+0 @F500373@ FAM
+1 _UPD 27 MAR 2017 05:21:40 GMT -0500
+1 HUSB @I500671@
+1 WIFE @I500672@
+1 CHIL @I500670@
+1 RIN MH:F500373
+1 _UID 58D8E7AA5BAF0DCCE1B6B2BC13D2A130
+0 @F500374@ FAM
+1 _UPD 27 MAR 2017 05:31:37 GMT -0500
+1 HUSB @I500674@
+1 WIFE @I500675@
+1 CHIL @I500658@
+1 CHIL @I500680@
+1 CHIL @I500657@
+1 CHIL @I500679@
+1 RIN MH:F500374
+1 _UID 58D8E9EF420DB1F4E49492A49A6106C0
+0 @F500375@ FAM
+1 _UPD 27 MAR 2017 05:37:53 GMT -0500
+1 HUSB @I500677@
+1 WIFE @I500678@
+1 CHIL @I500674@
+1 RIN MH:F500375
+1 _UID 58D8EB7119E80FA471475478DC1C27F7
+0 @F500376@ FAM
+1 _UPD 27 MAR 2017 06:47:49 GMT -0500
+1 HUSB @I500668@
+1 WIFE @I500681@
+1 RIN MH:F500376
+1 _UID 58D8FBE5BBAE170C99F0E471E097F3E7
+1 MARR
+0 @F500377@ FAM
+1 _UPD 27 MAR 2017 06:51:31 GMT -0500
+1 HUSB @I500682@
+1 WIFE @I500326@
+1 CHIL @I500683@
+1 RIN MH:F500377
+1 _UID 58D8FCC3A75EDB93F28399232EA4E53C
+1 MARR
+0 @F500378@ FAM
+1 _UPD 27 MAR 2017 06:56:59 GMT -0500
+1 HUSB @I500686@
+1 WIFE @I500659@
+1 RIN MH:F500378
+1 _UID 58D8FE0BC3C2E4ADD74E6F3D7571C0C9
+1 MARR
+0 @S500001@ SOUR
+1 AUTH Sylweriusz Siwczyński
+1 TITL Siwczyński
+1 TEXT <p>drzewach genealogicznych MyHeritage</p><p>Witryna rodzinna: Siwczyński</p>Drzewo genealogiczne: 80250353-1
+1 _TYPE Discovery
+1 _MEDI 80250353-1
+1 RIN MH:S500001
+0 @S500002@ SOUR
+1 AUTH Grażyna Grabowska
+1 TITL Grażyna Grabowska
+1 TEXT <p>drzewach genealogicznych MyHeritage</p><p>Witryna rodzinna: Grażyna Grabowska</p>Drzewo genealogiczne: 77639593-1
+1 _TYPE Discovery
+1 _MEDI 77639593-1
+1 RIN MH:S500002
+0 @S500003@ SOUR
+1 _UPD 5 OCT 2016 16:50:33 GMT -0500 
+1 TITL BillionGraves
+1 PUBL MyHeritage
+1 TEXT <A href="http://www.billiongraves.com/" target="_blank">www.billiongraves.com
+1 _TYPE Collection
+1 _MEDI 10147
+0 TRLR

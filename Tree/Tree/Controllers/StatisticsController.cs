@@ -6,8 +6,9 @@ using System.Web.Mvc;
 
 namespace Tree.Controllers
 {
-    public class HomeController : Controller
+    public class StatisticsController : Controller
     {
+        // GET: Statistics
         public ActionResult Index()
         {
             return View();

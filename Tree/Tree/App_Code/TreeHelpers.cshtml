@@ -1,0 +1,12 @@
+﻿@using Domain.Enums
+@using Domain.Models
+@helper RenderTreeSection(Person person)
+{
+    <li>
+        <a href="./?indi=00433" class='@(person.Sex == Sex.Male ? "m" : "f")' rel="content" data-indi="00433">
+            <div class="tree-thumbnail">
+            </div>
+            <div class="tree-detail">@person.Name<br>@person.Surname</div>
+        </a>
+    </li>
+}

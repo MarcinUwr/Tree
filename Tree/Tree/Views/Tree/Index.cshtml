@@ -1,0 +1,17 @@
+﻿@using Domain.Enums
+@model Domain.Aggregates.FamilyTree
+
+@{
+    ViewBag.Title = "title";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<div class="tree">
+    <ul>
+        @foreach (var member in Model.FamilyMembers)
+        {
+            @TreeHelpers.RenderTreeSection(member)
+        }
+    </ul>
+</div>
+<h2>Hello, @Model.FamilyMembers[0].Name!</h2>
