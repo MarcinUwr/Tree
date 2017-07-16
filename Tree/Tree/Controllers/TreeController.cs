@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Application.Services;
-using Domain.Aggregates;
+using Domain.Models.FamilyTree;
 using Infrastructure.Repositories;
 using Tree.Models;
 

@@ -139,7 +139,8 @@ right connector from last child*/
 	color: #666;
 	background-color:#fff;
 	display: inline-block;
-	min-width:50px;
+	min-width:75px;
+	max-width:75px;
 	
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -250,7 +251,7 @@ Thanks :)*/
 	background-color:#fff;
 	display: inline-block;
 	min-width:50px;
-	
+
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -278,4 +279,12 @@ Thanks :)*/
 .icon-info-sign {
     background-position: 0px 0px;
 	background-image:url('../images/icon-info-sign.png');	
+}
+
+.tree-add-member {
+    background-image: -webkit-linear-gradient(#2980b9, #c8e4f8);
+    position: absolute;
+    margin-left: 50px;
+    width: 15px;
+    height: 15px;
 }

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Application.Interfaces;
-using Domain.Aggregates;
-using Domain.Interfaces;
 using Domain.Models;
+using Domain.Models.FamilyTree;
+using Domain.Models.FamilyTree.Repositories;
 
 namespace Application.Services
 {
@@ -18,22 +18,23 @@ namespace Application.Services
 
         public void AddChild(int userId, Person person, int? fatherId, int? motherId)
         {
-            _familyTreeRepository.AddChild(userId, person, fatherId, motherId);
+     //       _familyTreeRepository.AddChild(userId, person, fatherId, motherId);
         }
 
         public void AddParent(int userId, Person person, int childId)
         {
-            _familyTreeRepository.AddParent(userId, person, childId);
+      //      _familyTreeRepository.AddParent(userId, person, childId);
         }
 
-        public FamilyTree GetFamilyTree(int userId)
+        public NewFamilyTree GetFamilyTree(int userId)
         {
             return _familyTreeRepository.GetById(userId);
         }
 
         public List<Person> GetChildren(int userId, int personId)
         {
-            return _familyTreeRepository.GetChildren(userId, personId);
+       //     return _familyTreeRepository.GetChildren(userId, personId);
+            return null;
         }
     }
 }

@@ -1,5 +1,5 @@
 ﻿@using Domain.Enums
-@model Domain.Aggregates.FamilyTree
+@model Domain.Models.FamilyTree.NewFamilyTree
 
 @{
     ViewBag.Title = "title";
@@ -8,10 +8,9 @@
 
 <div class="tree">
     <ul>
-        @foreach (var member in Model.FamilyMembers)
-        {
-            @TreeHelpers.RenderTreeSection(member)
-        }
+        <li>
+            @TreeHelpers.RenderTree(Model)
+        </li>
     </ul>
 </div>
-<h2>Hello, @Model.FamilyMembers[0].Name!</h2>
+<h2>Hello, @Model.Root.Name!</h2>

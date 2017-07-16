@@ -5,15 +5,21 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{8A73D37D-0673-49FC-8DD3-90EA79CBF0E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{69043824-FB8E-4077-A6C8-6345913F36B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "Tests\UnitTests.csproj", "{69043824-FB8E-4077-A6C8-6345913F36B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{8F51C0F2-ABFF-4B69-B50A-A654245E2972}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.Domain", "Domain\Tree.Domain.csproj", "{8F51C0F2-ABFF-4B69-B50A-A654245E2972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{90E1EFCB-DB8A-4BC6-8592-006FD7ACF28E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.Application", "Application\Tree.Application.csproj", "{90E1EFCB-DB8A-4BC6-8592-006FD7ACF28E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2F11010E-3C3B-4624-9C80-F0B247905655}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.Infrastructure", "Infrastructure\Tree.Infrastructure.csproj", "{2F11010E-3C3B-4624-9C80-F0B247905655}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{58E2A857-9386-4DE9-ACE9-69EDC3BD9BED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BoundedContexts", "BoundedContexts", "{328BF925-B2A5-46E2-BFD5-DCE03CFD9A0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{DFA98D10-288F-4BDF-A029-80B12E2F2BEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{757D3B48-BA9F-4AA2-A58F-6DFAF65071C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -126,5 +132,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69043824-FB8E-4077-A6C8-6345913F36B4} = {757D3B48-BA9F-4AA2-A58F-6DFAF65071C3}
+		{8F51C0F2-ABFF-4B69-B50A-A654245E2972} = {DFA98D10-288F-4BDF-A029-80B12E2F2BEC}
+		{90E1EFCB-DB8A-4BC6-8592-006FD7ACF28E} = {DFA98D10-288F-4BDF-A029-80B12E2F2BEC}
+		{2F11010E-3C3B-4624-9C80-F0B247905655} = {DFA98D10-288F-4BDF-A029-80B12E2F2BEC}
+		{DFA98D10-288F-4BDF-A029-80B12E2F2BEC} = {328BF925-B2A5-46E2-BFD5-DCE03CFD9A0D}
 	EndGlobalSection
 EndGlobal

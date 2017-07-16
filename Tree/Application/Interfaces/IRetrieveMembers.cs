@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using Domain.Aggregates;
 using Domain.Models;
+using Domain.Models.FamilyTree;
 
 namespace Application.Interfaces
 {
     public interface IRetrieveMembers
     {
-        FamilyTree GetFamilyTree(int userId);
+        NewFamilyTree GetFamilyTree(int userId);
         List<Person> GetChildren(int userId, int personId);
     }
 }

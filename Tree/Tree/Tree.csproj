@@ -267,6 +267,8 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\Tree\AddMemberButtonHiding.js" />
+    <Content Include="Scripts\Tree\TreePopover.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Content\Tree.css" />
     <Content Include="Web.config">
@@ -297,21 +299,21 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Application\Application.csproj">
+    <ProjectReference Include="..\Application\Tree.Application.csproj">
       <Project>{90E1EFCB-DB8A-4BC6-8592-006FD7ACF28E}</Project>
-      <Name>Application</Name>
+      <Name>Tree.Application</Name>
     </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{58e2a857-9386-4de9-ace9-69edc3bd9bed}</Project>
       <Name>Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\Tree.Domain.csproj">
       <Project>{8f51c0f2-abff-4b69-b50a-a654245e2972}</Project>
-      <Name>Domain</Name>
+      <Name>Tree.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
+    <ProjectReference Include="..\Infrastructure\Tree.Infrastructure.csproj">
       <Project>{2F11010E-3C3B-4624-9C80-F0B247905655}</Project>
-      <Name>Infrastructure</Name>
+      <Name>Tree.Infrastructure</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

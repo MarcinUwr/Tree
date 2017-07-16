@@ -1,12 +1,80 @@
 ﻿@using Domain.Enums
 @using Domain.Models
-@helper RenderTreeSection(Person person)
+@using Domain.Models.FamilyTree
+
+@helper RenderTreeSection(NewFamilyTree tree)
 {
     <li>
-        <a href="./?indi=00433" class='@(person.Sex == Sex.Male ? "m" : "f")' rel="content" data-indi="00433">
+        <a href="./?indi=00433" class='@(tree.Root.Sex == Sex.Male ? "m" : "f")' rel="content" data-indi="00433">
+            <div class="tree-thumbnail">
+            </div>
+            <div class="tree-detail">@tree.Root.Name<br>@tree.Root.Surname</div>
+        </a>
+    </li>
+}
+
+@helper RenderTree(NewFamilyTree tree)
+{
+    @RenderTreeRootSection(tree.Root)
+    <div class="p1">
+        @RenderTreePartnerSection(tree.Root)
+        <ul class="c">
+            @foreach (var child in tree.GetChildren(tree.Root))
+            {
+                <li>
+                    @RenderChildTree(tree, child)
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+@helper RenderChildTree(NewFamilyTree tree, Person person)
+{
+    @RenderTreeRootSection(person)
+    <div class="p1">
+        @RenderTreePartnerSection(person)
+        <ul class="c">
+            @foreach (var child in tree.GetChildren(person))
+            {
+                <li>
+                    @RenderChildTree(tree, child)
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+@helper RenderTreeRootSection(Person person)
+{
+        <a href="./?indi=00433" class='@( person.Sex == Sex.Male ? "m" : "f")' rel="content" data-indi="00433">
+            <div class="tree-add-member"></div>
             <div class="tree-thumbnail">
             </div>
             <div class="tree-detail">@person.Name<br>@person.Surname</div>
         </a>
-    </li>
+}
+
+        @helper RenderTreePartnerSection(Person person)
+        {
+if (person.Partner != null)
+{
+            <a href="./?indi=00433" class='@( person.Partner.Sex == Sex.Male ? "m" : "f")' rel="content" data-indi="00433">
+                <div class="tree-add-member"></div>
+                <div class="tree-thumbnail">
+                </div>
+                <div class="tree-detail">@person.Partner.Name<br>@person.Partner.Surname</div>
+            </a>
+}
+else
+{
+            <a href="./?indi=20561" class='@( person.Sex == Sex.Male ? "f" : "m")' rel="content" data-indi="20561">
+                <div class="tree-add-member"></div>
+                <div class="tree-thumbnail">
+                </div>
+                <div class="tree-detail">
+                    Placeholder<br>Person<span></span>
+                </div>
+            </a>
+}
 }
