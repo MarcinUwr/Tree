@@ -1,16 +1,9 @@
-﻿@using Domain.Enums
-@model Domain.Models.FamilyTree.NewFamilyTree
-
-@{
-    ViewBag.Title = "title";
-    Layout = "../Shared/_Layout.cshtml";
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="tree">
-    <ul>
-        <li>
-            @TreeHelpers.RenderTree(Model)
-        </li>
-    </ul>
-</div>
-<h2>Hello, @Model.Root.Name!</h2>
+<h2>Index</h2>
+@* create and add a family member *@
+
+@Html.ActionLink("View your tree", "Display", "Search", new { @class = "btn btn-info", @id = "addressSearch" })

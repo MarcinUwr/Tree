@@ -1,0 +1,27 @@
+﻿@using Tree.Builders
+@model Domain.Models.FamilyTree.FamilyTree
+
+@{
+    ViewBag.Title = "Display";
+    Layout = "../Shared/_Layout.cshtml";
+    var addMemberViewModel = new ViewModelBuilder().BuildAddMemberViewModel(Model);
+}
+@if (Model != null && Model.Members.Count>0)
+{
+    <h2>Hello, @Model.Root.Name!</h2>
+    <div class="tree">
+        <ul>
+            <li>
+                @TreeHelpers.RenderTree(Model)
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    <h2>Twoje drzewo jest puste!</h2>
+}
+@*@Html.ActionLink("Add", "Add", "Search", new { @class = "btn btn-info", @id = "addressSearch" })*@
+@{
+    Html.RenderPartial("AddMember", addMemberViewModel);
+}

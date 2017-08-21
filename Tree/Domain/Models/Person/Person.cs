@@ -1,8 +1,9 @@
-﻿using Domain.Enums;
+﻿using Common;
+using Domain.Enums;
 
-namespace Domain.Models.FamilyTree
+namespace Domain.Models.Person
 {
-    public class Person
+    public class Person : IEntity
     {
         public int Id { get; set; }
         public Person Partner { get; set; }
@@ -12,6 +13,8 @@ namespace Domain.Models.FamilyTree
         public string Name { get; set; }
         public string Surname { get; set; }
         public string MaidenName { get; set; }
-        public Address Address { get; set; }
+
+        public virtual Address Address { get; set; }
+        public virtual FamilyTree.FamilyTree FamilyTree { get; set; }
     }
 }

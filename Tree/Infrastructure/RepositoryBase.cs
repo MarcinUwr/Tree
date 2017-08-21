@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using Common;
@@ -7,25 +8,32 @@ using FakeDbSet;
 
 namespace Infrastructure
 {
-    public abstract class RepositoryBase<T> : IRepository<T>
+    public abstract class RepositoryBase<T> : IRepository<T> where T: class, IEntity
     {
-        //protected DbSet<T> DbSet;
-        //protected InMemoryDbSet<T> InMemoryDbSet;
-        protected List<T> _data;
-        
-        protected RepositoryBase(/*DbContext dataContext*/)
+        protected DbContext DbContext;
+        protected DbSet<T> DbSet;
+
+        protected RepositoryBase(DbContext dataContext)//todo: context per operation, not per repository
         {
-            //DbSet = dataContext.Set<T>();
+            DbSet = dataContext.Set<T>();
+            DbContext = dataContext;
         }
 
-        public void Insert(T item)
+        public T GetById(int id)
         {
-            _data.Add(item);
+            return DbSet.FirstOrDefault(i => i.Id == id);
+        }
+
+        public T Insert(T item)
+        {
+            DbSet.Add(item);
+            DbContext.SaveChanges();
+            return item;
         }
 
         public IQueryable<T> GetAll()
         {
-            return _data.AsQueryable();
+            return DbSet.AsQueryable();
         }
 
         public IQueryable<T> SearchFor(Expression<Func<T, bool>> predicate)
@@ -35,7 +43,8 @@ namespace Infrastructure
 
         public void Delete(T item)
         {
-            _data.Remove(item);
+            DbSet.Remove(item);
+            DbContext.SaveChanges();
         }
     }
 }

@@ -233,18 +233,25 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Builders\PersonBuilder.cs" />
+    <Compile Include="Builders\ViewModelBuilder.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StatisticsController.cs" />
     <Compile Include="Controllers\TreeController.cs" />
-    <Compile Include="DataAccessLayer\TreeDataAccessLayer.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Gedcom.cs" />
-    <Compile Include="Models\Person.cs" />
-    <Compile Include="Models\PersonBusinessLayer.cs" />
+    <Compile Include="Models\IdentityModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tree.Startup.cs" />
+    <Compile Include="ViewModels\AddMemberViewModel.cs" />
+    <Compile Include="ViewModels\LoginViewModel.cs" />
+    <Compile Include="ViewModels\RegisterOrLoginViewModel.cs" />
+    <Compile Include="ViewModels\RegisterViewModel.cs" />
+    <Compile Include="ViewModels\RemoveMemberViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
@@ -286,6 +293,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Tree\Index.cshtml" />
     <Content Include="Views\Statistics\Index.cshtml" />
+    <Content Include="Views\Tree\Display.cshtml" />
+    <Content Include="Views\Home\RegisterOrLogin.cshtml" />
+    <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Tree\AddMember.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

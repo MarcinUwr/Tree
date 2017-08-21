@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-    public interface IRepository<T>
+    public interface IRepository<T> where T:IEntity
     {
-        void Insert(T item);
+        T GetById(int id);
+        T Insert(T item);
         IQueryable<T> GetAll();
         IQueryable<T> SearchFor(Expression<Func<T, bool>> predicate);
         void Delete(T item);

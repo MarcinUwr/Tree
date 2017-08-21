@@ -1,0 +1,33 @@
+﻿@model Tree.ViewModels.AddMemberViewModel
+
+@using (Html.BeginForm("Add", "Tree", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <h2>Dodaj członka rodziny</h2>
+    <form method="post">
+        <div class="form-group">
+            <label for="formName">Imię</label>
+            @Html.TextBoxFor(m => m.Name, new {@type = "text", @class = "form-control", @id = "formName", @name = "name", @placeholder = "Imię"})
+            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+        </div>
+        <div class="form-group">
+            <label for="formSurname">Nazwisko</label>
+            @Html.TextBoxFor(m => m.Surname, new {@type = "text", @class = "form-control", @id = "formSurname", @name = "name", @placeholder = "Nazwisko"})
+            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+        </div>
+        <div class="form-group">
+            <label for="formSexMale">Mężczyzna</label>
+            @Html.RadioButtonFor(m=>m.Sex, "Male")
+            <label for="formSexFemale">Kobieta</label>
+            @Html.RadioButtonFor(m=>m.Sex, "Female")
+            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+        </div>
+        <div class="form-group">
+            <label for="formParent">Rodzic</label>
+            @Html.DropDownListFor(m=>m.ParentId, new SelectList(Model.Tree.Members, "Id", "Name"))
+            @*@Html.DropDownList("parent", new SelectList(Model.Tree.Members.Select(m=>m.Name), "Value", "Text"))*@
+            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+        </div>
+        <input type="submit" value="Dodaj" class="btn btn-primary"/>
+    </form>
+}

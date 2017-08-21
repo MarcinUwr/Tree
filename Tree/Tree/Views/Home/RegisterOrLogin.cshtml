@@ -1,0 +1,21 @@
+﻿@model Tree.ViewModels.RegisterOrLoginViewModel
+
+@{
+}
+@Html.AntiForgeryToken()
+<div class="row">
+    <div class="col-md-5">
+        @{
+            Html.RenderPartial("Register");
+        }
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-5">
+        @{
+            Html.RenderPartial("Login");
+        }
+    </div>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

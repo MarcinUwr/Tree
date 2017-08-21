@@ -1,41 +1,8 @@
-﻿@{
+﻿@model Domain.Models.User.TreeUser
+@{
     ViewBag.Title = "Home Page";
 }
-<div class="row">
-    <div class="col-md-6">
-        <div class="form-group">
-            <label for="formFatherName">Imię ojca</label>
-            <input type="text" class="form-control" id="formFatherName" placeholder="Imię ojca">
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="form-group">
-            <label for="formMotherName">Imię matki</label>
-            <input type="text" class="form-control" id="formMotherName" placeholder="Imię matki">
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
-        <form>
-            <div class="form-group">
-                <label for="formName">Imię</label>
-                <input type="text" class="form-control" id="formName" placeholder="Imię">
-            </div>
-            <div class="form-group">
-                <label for="formSurname">Nazwisko</label>
-                <input type="text" class="form-control" id="formSurname" placeholder="Nazwisko">
-            </div>
-            <div class="form-group">
-                <label for="formEmail">Adres Email</label>
-                <input type="email" class="form-control" id="formEmail" placeholder="Email">
-            </div>
-            <div class="form-group">
-                <label for="formPassword">Hasło</label>
-                <input type="password" class="form-control" id="formPassword" placeholder="Hasło">
-            </div>
-            <button type="submit" class="btn btn-primary btn-lg">Zarejestruj się!</button>
-        </form></div>
-    <div class="col-md-2"></div>
-</div>
+@if (Model != null)
+{
+    <div>Hello, @Html.DisplayFor(m => m.UserName)!</div>
+}

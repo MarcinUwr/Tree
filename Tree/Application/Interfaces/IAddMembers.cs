@@ -1,11 +1,11 @@
 ﻿using Domain.Models;
 using Domain.Models.FamilyTree;
+using Domain.Models.Person;
 
 namespace Application.Interfaces
 {
     public interface IAddMembers
     {
-        void AddChild(int userId, Person person, int? fatherId, int? motherId);
-        void AddParent(int userId, Person person, int childId);
+        void AddFamilyMember(int userId, Person person);
     }
 }
