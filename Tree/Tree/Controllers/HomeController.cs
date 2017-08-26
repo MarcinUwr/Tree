@@ -18,7 +18,7 @@ using Tree.ViewModels;
 
 namespace Tree.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         public ActionResult Index()
         {
@@ -38,7 +38,7 @@ namespace Tree.Controllers
         public async Task<ActionResult> Register(RegisterViewModel model)
         {
             if (ModelState.IsValid)
-            {//todo: Error when creating user with existing username
+            {
                 var newUser = new ApplicationUser() {UserName = model.Username};
 
                 var newResult = await
@@ -53,7 +53,7 @@ namespace Tree.Controllers
                     return RedirectToAction("Index", "Home");
                 }
             }
-            return View("Index");
+            return RedirectToAction("Index", "Home");
         }
 
         [HttpPost]

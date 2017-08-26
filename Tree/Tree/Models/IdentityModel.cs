@@ -35,7 +35,10 @@ namespace Tree.Models
 
             modelBuilder.Entity<FamilyTree>().HasMany(t => t.Members)
                 .WithRequired(m => m.FamilyTree);
-            
+            modelBuilder.Entity<Person>().Property(p=>p.BirthDate).HasColumnType("datetime2");
+            modelBuilder.Entity<Person>().Property(p=>p.DeathDate).HasColumnType("datetime2");
+            modelBuilder.Entity<Person>().Ignore(p=>p.FullName);
+
             modelBuilder.Entity<ApplicationUser>().ToTable("TreeUsers").HasKey<int>(u => u.Id);
             modelBuilder.Entity<CustomUserRole>().ToTable("UserRoles").HasKey(ur => new { ur.RoleId, ur.UserId });
             modelBuilder.Entity<CustomUserLogin>().ToTable("UserLogins").HasKey<int>(ul => ul.UserId);

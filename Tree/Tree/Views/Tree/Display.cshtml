@@ -8,7 +8,6 @@
 }
 @if (Model != null && Model.Members.Count>0)
 {
-    <h2>Hello, @Model.Root.Name!</h2>
     <div class="tree">
         <ul>
             <li>
@@ -24,4 +23,18 @@ else
 @*@Html.ActionLink("Add", "Add", "Search", new { @class = "btn btn-info", @id = "addressSearch" })*@
 @{
     Html.RenderPartial("AddMember", addMemberViewModel);
+}
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function() {
+                $('#formDeadCheckbox').change(function(){
+                    if (this.checked) {
+                        $('#deathDateFormGroup').fadeIn();
+                    } else {
+                        $('#deathDateFormGroup').fadeOut(fast);
+                    }
+                });
+            });
+    </script>
 }

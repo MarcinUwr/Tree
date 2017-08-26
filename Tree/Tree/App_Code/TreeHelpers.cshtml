@@ -16,8 +16,9 @@
 @helper RenderTree(FamilyTree tree)
 {
     @RenderTreeRootSection(tree.Root)
-    <div class="p1">
-        @RenderTreePartnerSection(tree.Root)
+    @RenderTreePartnerSection(tree, tree.Root)
+    if (tree.GetChildren(tree.Root)?.Count > 0)
+    {
         <ul class="c">
             @foreach (var child in tree.GetChildren(tree.Root))
             {
@@ -26,14 +27,15 @@
                 </li>
             }
         </ul>
-    </div>
+    }
 }
 
 @helper RenderChildTree(FamilyTree tree, Person person)
 {
     @RenderTreeRootSection(person)
-    <div class="p1">
-        @RenderTreePartnerSection(person)
+    @RenderTreePartnerSection(tree, person)
+    if (tree.GetChildren(person)?.Count > 0)
+    {
         <ul class="c">
             @foreach (var child in tree.GetChildren(person))
             {
@@ -42,36 +44,39 @@
                 </li>
             }
         </ul>
-    </div>
+    }
 }
 
 @helper RenderTreeRootSection(Person person)
 {
-        <a href="./Remove?Id=@person.Id" class='@( person.Sex == Sex.Male ? "m" : "f")' rel="content">
-            <div class="tree-add-member"><span></span></div>
-            <div class="tree-thumbnail"></div>
-            <div class="tree-detail">@person.Name<br>@person.Surname</div>
-        </a>
+    <a href="./Remove?Id=@person.Id" class='@( person.Sex == Sex.Male ? "m" : "f")' rel="content">
+        <div class="tree-add-member"><span></span></div>
+        <div class="tree-thumbnail"></div>
+        <div class="tree-detail">@person.Name<br>@person.Surname</div>
+    </a>
 }
 
-@helper RenderTreePartnerSection(Person person)
+@helper RenderTreePartnerSection(FamilyTree tree, Person person)
 {
     if (person.Partner != null)
     {
-        <a href="./Remove?Id=@person.Id" class='@(person.Partner.Sex == Sex.Male ? "m" : "f")' rel="content">
-            <div class="tree-add-member"></div>
-            <div class="tree-thumbnail"></div>
-            <div class="tree-detail">@person.Partner.Name<br>@person.Partner.Surname</div>
-        </a>
+        <div class="p1">
+            <a href="./Remove?Id=@person.Id" class='@(person.Partner.Sex == Sex.Male ? "m" : "f")' rel="content">
+                <div class="tree-add-member"></div>
+                <div class="tree-thumbnail"></div>
+                <div class="tree-detail">@person.Partner.Name<br>@person.Partner.Surname</div>
+            </a>
+        </div>
     }
-    else
+    else if (tree.GetChildren(person)?.Count > 0)
     {
-        <a href="./Remove?Id=@person.Id" class='@(person.Sex == Sex.Male ? "f" : "m")' rel="content">
-            <div class="tree-add-member"></div>
-            <div class="tree-thumbnail"></div>
-            <div class="tree-detail">
-                Placeholder<br>Person<span></span>
-            </div>
-        </a>
+        <div class="p1">
+            <a href="./Remove?Id=@person.Id" class='@(person.Sex == Sex.Male ? "f" : "m")' rel="content">
+                <div class="tree-add-member"></div>
+                <div class="tree-thumbnail"></div>
+                <div class="tree-detail">Dodaj<br>partnera
+                </div>
+            </a>
+        </div>
     }
 }

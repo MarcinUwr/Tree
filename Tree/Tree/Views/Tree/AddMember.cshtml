@@ -8,25 +8,30 @@
         <div class="form-group">
             <label for="formName">Imię</label>
             @Html.TextBoxFor(m => m.Name, new {@type = "text", @class = "form-control", @id = "formName", @name = "name", @placeholder = "Imię"})
-            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
         </div>
         <div class="form-group">
             <label for="formSurname">Nazwisko</label>
             @Html.TextBoxFor(m => m.Surname, new {@type = "text", @class = "form-control", @id = "formSurname", @name = "name", @placeholder = "Nazwisko"})
-            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
         </div>
         <div class="form-group">
             <label for="formSexMale">Mężczyzna</label>
             @Html.RadioButtonFor(m=>m.Sex, "Male")
             <label for="formSexFemale">Kobieta</label>
             @Html.RadioButtonFor(m=>m.Sex, "Female")
-            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+        </div>
+        <div class="form-group">
+            <label for="formBirthDate">Data urodzenia</label>
+            @Html.TextBoxFor(m => m.BirthDate, new { @type = "date", @class = "form-control", @id = "formBirthDate"})
+        </div>
+        <label>Podaj datę śmierci</label>
+        @Html.CheckBox("dead", false, new {@id="formDeadCheckbox"})
+        <div class="form-group" id="deathDateFormGroup">
+            <label for="formDeathDate">Data śmierci</label>
+            @Html.TextBoxFor(m => m.BirthDate, new { @type = "date", @class = "form-control", @id = "formDeathDate" })
         </div>
         <div class="form-group">
             <label for="formParent">Rodzic</label>
-            @Html.DropDownListFor(m=>m.ParentId, new SelectList(Model.Tree.Members, "Id", "Name"))
-            @*@Html.DropDownList("parent", new SelectList(Model.Tree.Members.Select(m=>m.Name), "Value", "Text"))*@
-            @*<input type="text" class="form-control" id="formName" name="name" placeholder="Imię">*@
+            @Html.DropDownListFor(m=>m.ParentId, new SelectList(Model.Tree.Members, "Id", "FullName"), new {@class="form-control"})
         </div>
         <input type="submit" value="Dodaj" class="btn btn-primary"/>
     </form>

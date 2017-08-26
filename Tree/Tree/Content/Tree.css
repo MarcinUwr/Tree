@@ -136,8 +136,8 @@ right connector from last child*/
 	border: 1px solid #ccc;
 	padding: 4px;
 	text-decoration: none;
-	color: #666;
-	background-color:#fff;
+	color: #eeeeee;
+	background-color:#44505b;
 	display: inline-block;
 	min-width:75px;
 	max-width:75px;
@@ -175,14 +175,14 @@ right connector from last child*/
 
 /*Time for some hover effects*/
 /*We will apply the hover effect the the lineage of the element also*/
-.tree li a.m:hover { background: #c8e4f8; color: #000; border: 1px solid #94a0b4; }	
-.tree li a.f:hover { background: #ffc0cb; color: #000; border: 1px solid #94a0b4; }	
+.tree li a.m:hover { background: #7098b4; color: #000; border: 1px solid #94a0b4; }	
+.tree li a.f:hover { background: #e96d6d; color: #000; border: 1px solid #94a0b4; }	
 
-.tree li a:hover+ul li a.m { background: #c8e4fb; color: #000; border: 1px solid #94a0b4; }	
-.tree li a:hover+ul li a.f { background: #ffc0cb; color: #000; border: 1px solid #94a0b4; }	
+.tree li .p1:hover+ul li a.m { background: #7098b4; color: #000; border: 1px solid #94a0b4; }	
+.tree li .p1:hover+ul li a.f { background: #e96d6d; color: #000; border: 1px solid #94a0b4; }	
 
-.tree li a:hover+.p1 a.m { background: #c8e4fb; color: #000; border: 1px solid #94a0b4; }	
-.tree li a:hover+.p1 a.f { background: #ffc0cb; color: #000; border: 1px solid #94a0b4; }	
+.tree li a:hover+.p1 a.m { background: #7098b4; color: #000; border: 1px solid #94a0b4; }	
+.tree li a:hover+.p1 a.f { background: #e96d6d; color: #000; border: 1px solid #94a0b4; }	
 
 	
 /*Thats all. I hope you enjoyed it.
@@ -248,7 +248,7 @@ Thanks :)*/
 	padding: 4px;
 	text-decoration: none;
 	color: #666;
-	background-color:#fff;
+	background-color:#33a046;
 	display: inline-block;
 	min-width:50px;
 
@@ -269,7 +269,7 @@ Thanks :)*/
 .tree .li a:hover+ul .li a.m { background: #c8e4fb; color: #000; border: 1px solid #94a0b4; }	
 .tree .li a:hover+ul .li a.f { background: #ffc0cb; color: #000; border: 1px solid #94a0b4; }	
 
-.tree .li a:hover+.p1 a.m { background: #c8e4fb; color: #000; border: 1px solid #94a0b4; }	
+.tree .li a:hover+.p1 a.m { background: #c8e4fb; color: #000; border: 10px solid #94a0b4; }	
 .tree .li a:hover+.p1 a.f { background: #ffc0cb; color: #000; border: 1px solid #94a0b4; }	
 
 

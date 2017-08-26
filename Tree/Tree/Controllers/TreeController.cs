@@ -16,22 +16,22 @@ using Tree.ViewModels;
 
 namespace Tree.Controllers
 {
-    public class TreeController : Controller
+    public class TreeController : BaseController
     {
         // GET: Tree
         public ActionResult Index()
         {
-            return View();
+            return RedirectToAction("Display");
         }
 
         public ActionResult Display()
         {   
-            var context = new TreeDbContext();
-            var fTreeRepo = new FamilyTreeRepository(context);
-            var personRepo = new PersonRepository(context);
-            var svc = new FamilyMembersService(fTreeRepo, personRepo);
+            //var context = new TreeDbContext();
+            //var fTreeRepo = new FamilyTreeRepository(context);
+            //var personRepo = new PersonRepository(context);
+            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
             var userId = User.Identity.GetUserId<int>();
-            var tree = svc.GetFamilyTree(userId)??new FamilyTree();
+            var tree = FamilyMembersService.GetFamilyTree(userId)??new FamilyTree();
             //if (tree != null)
             //{
                 return View(tree);
@@ -42,12 +42,12 @@ namespace Tree.Controllers
         public ActionResult Add(AddMemberViewModel model)
         {
             var person = new PersonBuilder().Build(model);
-            var context = new TreeDbContext();
-            var fTreeRepo = new FamilyTreeRepository(context);
-            var personRepo = new PersonRepository(context);
-            var svc = new FamilyMembersService(fTreeRepo, personRepo);
+            //var context = new TreeDbContext();
+            //var fTreeRepo = new FamilyTreeRepository(context);
+            //var personRepo = new PersonRepository(context);
+            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
             var userId = User.Identity.GetUserId<int>();
-            svc.AddFamilyMember(userId,person);
+            FamilyMembersService.AddFamilyMember(userId,person);
             
             return RedirectToAction("Display");
         }
@@ -55,14 +55,19 @@ namespace Tree.Controllers
         public ActionResult Remove(RemoveMemberViewModel model)
         {
             //todo: remove all dependant members
-            var context = new TreeDbContext();
-            var fTreeRepo = new FamilyTreeRepository(context);
-            var personRepo = new PersonRepository(context);
-            var svc = new FamilyMembersService(fTreeRepo, personRepo);
-            svc.RemoveFamilyMember(model.Id);
+            //var context = new TreeDbContext();
+            //var fTreeRepo = new FamilyTreeRepository(context);
+            //var personRepo = new PersonRepository(context);
+            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
+            FamilyMembersService.RemoveFamilyMember(model.Id);
 
             return RedirectToAction("Display");
         }
+
+        //public ActionResult Edit(EditMemberViewModel model)
+        //{
+            
+        //}
 
         private ApplicationUserManager ApplicationUserManager
             => HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();

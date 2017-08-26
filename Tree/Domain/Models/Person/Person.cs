@@ -1,4 +1,5 @@
-﻿using Common;
+﻿using System;
+using Common;
 using Domain.Enums;
 
 namespace Domain.Models.Person
@@ -12,8 +13,10 @@ namespace Domain.Models.Person
         public int? MotherId { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
+        public string FullName => Name + " " + Surname;
         public string MaidenName { get; set; }
-
+        public DateTime? BirthDate { get; set; }
+        public DateTime? DeathDate { get; set; }
         public virtual Address Address { get; set; }
         public virtual FamilyTree.FamilyTree FamilyTree { get; set; }
     }

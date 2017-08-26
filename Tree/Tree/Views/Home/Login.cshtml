@@ -1,9 +1,10 @@
 ﻿@model Tree.ViewModels.LoginViewModel
 @using (Html.BeginForm("Login", "Home", FormMethod.Post))
 {
+    @Html.ValidationSummary(true)
     @Html.AntiForgeryToken()
-    <h2>Login</h2>
-    <form method="post">
+    <h2>Zaloguj się</h2>
+    <form id="loginForm" method="post">
         <div class="form-group">
             <label for="formName">Nazwa użytkownika</label>
             @Html.TextBoxFor(m => m.UserName, new {@type = "text", @class = "form-control", @id = "formName", @name = "name", @placeholder = "Imię"})
@@ -14,6 +15,6 @@
             @Html.TextBoxFor(m => m.Password, new {@type = "password", @class = "form-control", @id = "formPassword", @name = "password", @placeholder = "Hasło"})
             @*<input type="password" class="form-control" id="formPassword" name="password" placeholder="Hasło">*@
         </div>
-        <input type="submit" value="Button text" class="btn btn-primary"/>
+        <input type="submit" value="Zaloguj się" class="btn btn-primary"/>
     </form>
 }
