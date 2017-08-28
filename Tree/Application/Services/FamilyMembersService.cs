@@ -32,6 +32,16 @@ namespace Application.Services
             _personRepository.Delete(person);
         }
 
+        public void EditFamilyMember(Person person)
+        {
+            _personRepository.Update(person);
+        }
+
+        public Person GetFamilyMember(int id)
+        {
+            return _personRepository.GetById(id);
+        }
+
         public FamilyTree GetFamilyTree(int userId)
         {
             return _familyTreeRepository.GetById(userId);

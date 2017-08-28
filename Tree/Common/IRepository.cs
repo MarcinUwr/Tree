@@ -14,5 +14,6 @@ namespace Common
         IQueryable<T> GetAll();
         IQueryable<T> SearchFor(Expression<Func<T, bool>> predicate);
         void Delete(T item);
+        T Update(T entity);
     }
 }

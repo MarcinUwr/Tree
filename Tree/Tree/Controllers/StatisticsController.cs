@@ -16,10 +16,6 @@ namespace Tree.Controllers
         // GET: Statistics
         public ActionResult Index()
         {
-            //var context = new TreeDbContext();
-            //var fTreeRepo = new FamilyTreeRepository(context);
-            //var personRepo = new PersonRepository(context);
-            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
             var userId = User.Identity.GetUserId<int>();
             var tree = FamilyMembersService.GetFamilyTree(userId);
             return View(tree);

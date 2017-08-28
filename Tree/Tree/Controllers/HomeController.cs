@@ -44,9 +44,6 @@ namespace Tree.Controllers
                 var newResult = await
                     ApplicationUserManager.CreateAsync(newUser, model.Password);
 
-                //var result =
-                //    await newUserSvc.Register(new UserManager<User, int>(store), newUser, Request.Params["password"]);
-                
                 if (newResult.Succeeded)
                 {
                     await SignInAsync(newUser, isPersistent: false);
@@ -63,18 +60,6 @@ namespace Tree.Controllers
         {
             if (ModelState.IsValid)
             {
-                //var store = UserStoreFactory.GetUserStore();
-                //var manager = new UserManager<User, int>(store);
-                //var user = await manager.FindAsync(model.UserName, model.Password);
-                //if (user != null)
-                //{
-                //    await SignInAsync(user, model.RememberMe);
-                //    return RedirectToAction("Index");
-                //}
-                //else
-                //{
-                //    ModelState.AddModelError("", "Invalid username or password.");
-                //}
                 var user = await ApplicationUserManager.FindAsync(model.UserName, model.Password);
                 if (user != null)
                 {
@@ -86,8 +71,7 @@ namespace Tree.Controllers
                     ModelState.AddModelError("", "Invalid username or password.");
                 }
             }
-
-            // If we got this far, something failed, redisplay form
+            
             return View(model);
         }
         
@@ -125,8 +109,5 @@ namespace Tree.Controllers
 
         private ApplicationUserManager ApplicationUserManager
             => HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
-
-        //private UserManager<User, int> UserManager
-        //    => HttpContext.GetOwinContext().GetUserManager<UserManager<User, int>>();
     }
 }

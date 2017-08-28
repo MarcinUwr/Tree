@@ -18,7 +18,6 @@ namespace Tree.Controllers
 {
     public class TreeController : BaseController
     {
-        // GET: Tree
         public ActionResult Index()
         {
             return RedirectToAction("Display");
@@ -26,48 +25,44 @@ namespace Tree.Controllers
 
         public ActionResult Display()
         {   
-            //var context = new TreeDbContext();
-            //var fTreeRepo = new FamilyTreeRepository(context);
-            //var personRepo = new PersonRepository(context);
-            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
             var userId = User.Identity.GetUserId<int>();
             var tree = FamilyMembersService.GetFamilyTree(userId)??new FamilyTree();
-            //if (tree != null)
-            //{
-                return View(tree);
-            //}
-            //return RedirectToAction("Index");
+            
+            return View(tree);    
         }
 
         public ActionResult Add(AddMemberViewModel model)
         {
             var person = new PersonBuilder().Build(model);
-            //var context = new TreeDbContext();
-            //var fTreeRepo = new FamilyTreeRepository(context);
-            //var personRepo = new PersonRepository(context);
-            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
+            
             var userId = User.Identity.GetUserId<int>();
             FamilyMembersService.AddFamilyMember(userId,person);
             
             return RedirectToAction("Display");
         }
 
-        public ActionResult Remove(RemoveMemberViewModel model)
+        public ActionResult Remove(int id)
         {
             //todo: remove all dependant members
-            //var context = new TreeDbContext();
-            //var fTreeRepo = new FamilyTreeRepository(context);
-            //var personRepo = new PersonRepository(context);
-            //var svc = new FamilyMembersService(fTreeRepo, personRepo);
-            FamilyMembersService.RemoveFamilyMember(model.Id);
+            
+            FamilyMembersService.RemoveFamilyMember(id);
 
             return RedirectToAction("Display");
         }
 
-        //public ActionResult Edit(EditMemberViewModel model)
-        //{
-            
-        //}
+        [HttpPost]
+        public ActionResult Edit(Person person)
+        {
+            FamilyMembersService.EditFamilyMember(person);
+            return RedirectToAction("Display");
+        }
+        
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            var person = FamilyMembersService.GetFamilyMember(id);
+            return View("Edit", person);
+        }
 
         private ApplicationUserManager ApplicationUserManager
             => HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();

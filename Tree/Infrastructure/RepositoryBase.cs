@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Linq.Expressions;
 using Common;
@@ -45,6 +46,16 @@ namespace Infrastructure
         {
             DbSet.Remove(item);
             DbContext.SaveChanges();
+        }
+
+        public T Update(T entity)
+        {
+            DbSet.AddOrUpdate(entity);
+            //DbSet.Attach(entity);
+            //var entry = DbContext.Entry(entity);
+            //entry.State = EntityState.Modified;
+            DbContext.SaveChanges();
+            return entity;
         }
     }
 }

@@ -50,6 +50,8 @@ namespace Tree.Models
         {
             return new TreeDbContext();
         }
+
+        public System.Data.Entity.DbSet<Domain.Models.Person.Address> Addresses { get; set; }
     }
 
     public class CustomUserStore : UserStore<TreeUser, CustomRole, int,

@@ -49,7 +49,7 @@
 
 @helper RenderTreeRootSection(Person person)
 {
-    <a href="./Remove?Id=@person.Id" class='@( person.Sex == Sex.Male ? "m" : "f")' rel="content">
+    <a href="./Edit?Id=@person.Id" class='@( person.Sex == Sex.Male ? "m" : "f")' rel="content">
         <div class="tree-add-member"><span></span></div>
         <div class="tree-thumbnail"></div>
         <div class="tree-detail">@person.Name<br>@person.Surname</div>
@@ -61,7 +61,7 @@
     if (person.Partner != null)
     {
         <div class="p1">
-            <a href="./Remove?Id=@person.Id" class='@(person.Partner.Sex == Sex.Male ? "m" : "f")' rel="content">
+            <a href="./Edit?Id=@person.Id" class='@(person.Partner.Sex == Sex.Male ? "m" : "f")' rel="content">
                 <div class="tree-add-member"></div>
                 <div class="tree-thumbnail"></div>
                 <div class="tree-detail">@person.Partner.Name<br>@person.Partner.Surname</div>
@@ -71,7 +71,7 @@
     else if (tree.GetChildren(person)?.Count > 0)
     {
         <div class="p1">
-            <a href="./Remove?Id=@person.Id" class='@(person.Sex == Sex.Male ? "f" : "m")' rel="content">
+            <a href="./Edit?Id=@person.Id" class='@(person.Sex == Sex.Male ? "f" : "m")' rel="content">
                 <div class="tree-add-member"></div>
                 <div class="tree-thumbnail"></div>
                 <div class="tree-detail">Dodaj<br>partnera
